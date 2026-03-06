@@ -13,3 +13,9 @@
 |--------------|---------------------------------------------------------|------|----------|------------|-------------------------------|
 | AIH301m      | AI in Healthcare_Ứng dụng TTNT trong chăm sóc sức khỏe  |      | yes      | yes        | 358/QĐ-ĐHFPT dated 04/03/2024 |
 | ASR301c      | AI for Scientific Research_TTNT cho Nghiên cứu khoa học |      | yes      | yes        | 359/QĐ-ĐHFPT dated 04/09/2025 |
+## AI17_COM2.1: Topic on AI Applied research_Chủ đề Định hướng nghiên cứu ứng dụng TTNT
+### available for k18d - k19a
+| Subject Code | Syllabus Name                   | Note | IsActive | IsApproved | DecisionNo                    |
+|--------------|---------------------------------|------|----------|------------|-------------------------------|
+| TMG301       | Text Mining_Khai thác văn bản   |      | yes      | yes        | 765/QĐ-ĐHFPT dated 07/29/2024 |
+| SEG301       | Search Engines_Công cụ tìm kiếm |      | yes      | yes        | 359/QĐ-ĐHFPT dated 04/09/2025 |
