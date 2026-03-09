@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: ITE303c
+
+## General information
+
 |           Syllabus ID: | 12627                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
 |-----------------------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | Ethics in IT_Đạo đức trong CNTT                                                                                                                                                                                                                                                                                                                                                                                                                 |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |
 |          ApprovedDate: | 4/9/2025                                                                                                                                                                                                                                                                                                                                                                                                                                        |   |
-## 6 material(s)
+
+## Materials
+
 | MaterialDescription                                               | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                     |
 |-------------------------------------------------------------------|--------|-----------|---------------|---------|------|----------------|------------|----------|------------------------------------------------------------------------------------------|
 | MOOC 1: Artificial Intelligence Algorithms Models and Limitations |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/ai-algorithm-limitations?specialization=ethics-in-ai      |
@@ -27,21 +32,26 @@
 | MOOC 4: Artificial Intelligence Ethics in Action                  |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/ai-ethics-analysis?specialization=ethics-in-ai            |
 | Help Articles                                                     |        | Coursera  |               |         |      | no             | no         | yes      | https://www.coursera.support/s/article/208280036-Coursera-Code-of-Conduct?language=en_US |
 | Ethics in the Age of AI Specialization                            |        | Coursera  |               |         |      | no             | no         | no       | https://www.coursera.org/specializations/ethics-in-ai                                    |
-## 4 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                          |
 |----------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Understand the rise of algorithms, from the most basic to the fully autonomous, and discuss the trajectory of artificial intelligence and the broader implications for society as well              |
 | 2        | CLO2        | Explore fundamental issues of fairness and bias in machine learning and many aspects of building more ethical models                                                                                |
 | 3        | CLO3        | Explore fundamental concepts involved in security and privacy of machine learning projects and affects user privacy and transparency now and in the future while creating useful predictive models. |
 | 4        | CLO4        | Able to apply bias and fairness analysis and skills in a real world or a fictional scenario                                                                                                         |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 | yes  |      |      |      |      | yes  |      |      |      |       |       |       |       |       |       |       |       |
 | CLO2 |      |      |      |      | yes  |      |      |      |      |       |       |       |       |       |       |       |       |
 | CLO3 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |       |       |       |       |
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Learning-Teaching Type | LO   | ITU | Student Materials         | S-Download | Student's Tasks                                                                                                                                                                                         | URLs |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|-----|---------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -57,9 +67,13 @@
 | 10      | Artificial Intelligence Ethics in Action - Examining bias in a predictive text model - Apply bias and fairness analysis skills in a real world scenario                                                                                                                                                                                                                                                                                                                                                   | Online                 | CLO4 | I   | Associated Coursera links |            | Complete Week 1 of the course Artificial Intelligence Ethics in Action                                                                                                                                  |      |
 | 11      | Artificial Intelligence Ethics in Action - Understanding fairness issues with sensitive predictions - Apply bias and fairness analysis skills in a real world scenario                                                                                                                                                                                                                                                                                                                                    | Online                 | CLO4 | I   | Associated Coursera links |            | Complete Week 2 of the course Artificial Intelligence Ethics in Action                                                                                                                                  |      |
 | 12      | Artificial Intelligence Ethics in Action - Predicting ethical issues before they arise in model theory - Apply game theory fairness analysis and skills in a fictional scenario Course 4 Review                                                                                                                                                                                                                                                                                                           | Offline                | CLO4 | IT  | Associated Coursera links |            | - Complete Week 3 of the course Artificial Intelligence Ethics in Action - Deadline of Coursera Completion: End of Friday of the week. All Students should participate in review slot (if any question) |      |
-## 0 Constructive question(s)
 
-## 1 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category   | Type       | Part | Weight | Completion Criteria | Duration | CLO | Question Type                      | No Question | Knowledge and Skill                                                   | Grading Guide                 | Note                                                                                                                                                                                                                                                                                                                                                                      |
 |------------|------------|------|--------|---------------------|----------|-----|------------------------------------|-------------|-----------------------------------------------------------------------|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Final exam | Final exam | 1    | 100.0% | 4                   | 60'      |     | Multiple choicesMarked by Computer | 50          | All studied courses. Each module of course contributes 4-5 questions. | by exam board, using computer | Customized from the quizzes of this specialization. 1st Evaluation: For students who completed & got Coursera's specialization certificates (Option at week 9); 2nd Evaluation: For students who completed & got Coursera's specialization certificates) at week 13; 3rd Evaluation: For students who completed & got Coursera's specialization certificates) at week 14. |
+

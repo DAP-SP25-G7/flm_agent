@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: DAT301m
+
+## General information
+
 |           Syllabus ID: | 13293                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |   |
 |-----------------------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | AI Development_Phát triển UDTTNT                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
 |          ApprovedDate: | 8/22/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |
-## 5 material(s)
+
+## Materials
+
 | MaterialDescription                                                                         | Author   | Publisher                                                                                                    | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note |
 |---------------------------------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------|---------------|---------|------|----------------|------------|----------|------|
 | Convolutional Neural Networks in TensorFlow                                                 | Coursera | https://www.coursera.org/learn/convolutional-neural-networks-tensorflow                                      |               |         |      | yes            | no         | yes      |      |
@@ -26,7 +31,9 @@
 | Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning | Coursera | https://www.coursera.org/learn/introduction-tensorflow                                                       |               |         |      | yes            | no         | yes      |      |
 | Natural Language Processing in TensorFlow                                                   | Coursera | https://www.coursera.org/learn/natural-language-processing-tensorflow                                        |               |         |      | yes            | no         | yes      |      |
 | Sequences, Time Series and Prediction                                                       | Coursera | https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction                               |               |         |      | yes            | no         | yes      |      |
-## 10 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                            |
 |----------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Understand the basics of TensorFlow and application of TensorFlow framework in Machine Learning, Deep Learning.                                       |
@@ -39,8 +46,12 @@
 | 8        | CLO7        | Understand the sequences, time series and prediction problems in TensorFlow                                                                           |
 | 9        | CLO8        | Understand how to apply RNNs, GRUs, and LSTMs as you train them using text repositories                                                               |
 | 10       | CLO9        | Understand how to apply AI tools to complete a mini project                                                                                           |
-## View mapping of CLOs to PLOs
-## 60 sessions (45'/session)
+
+## CLOs-PLOs maps
+
+
+## Sessions
+
 | Session | Topic                                                                                                | Learning-Teaching Type | LO                                             | ITU | Student Materials                      | S-Download | Student's Tasks                          | URLs |
 |---------|------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------|-----|----------------------------------------|------------|------------------------------------------|------|
 | 1       | Course Introduction                                                                                  | Offline                | CLO1,CLO9                                      | T   | - slides: Introduction                 | mat1       | Read slide introduction Syllabus DAT301m |      |
@@ -103,9 +114,12 @@
 | 58      | Team Meeting: Practice for Presentation of Capstone Project (Report 4)                               | Offline                | CLO9,CLO10                                     | U   |                                        |            |                                          |      |
 | 59      | Team Meeting: Practice for Presentation of Capstone Project (Report 4)                               | Offline                | CLO9,CLO10                                     | U   |                                        |            |                                          |      |
 | 60      | Review course Results                                                                                | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8 | U   | Syllabus DAT301m Slide chapter 1,2,3,4 |            | Syllabus DAT301m Slide chapter 1,2,3,4   |      |
-## 0 Constructive question(s)
 
-## 6 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category                                              | Type       | Part | Weight | Completion Criteria | Duration | CLO                                            | Question Type                                            | No Question | Knowledge and Skill        | Grading Guide                 | Note                                                                                                                                                                                                                                                                                             |
 |-------------------------------------------------------|------------|------|--------|---------------------|----------|------------------------------------------------|----------------------------------------------------------|-------------|----------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Progress test                                         | on-going   | 1    | 10.0%  | >0                  | 45'      | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6             | Multiple choices Marked by Computer or a suitable format | 30          | - cover chapter 1,2,3      | in class, by instructor       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |

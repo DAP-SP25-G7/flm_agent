@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: NLP301c
+
+## General information
+
 |           Syllabus ID: | 12549                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | Natural Language Processing_Xử lý ngôn ngữ tự nhiên                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
 |          ApprovedDate: | 4/9/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
-## 6 material(s)
+
+## Materials
+
 | MaterialDescription                                                       | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                                          |
 |:--------------------------------------------------------------------------|:-------|:----------|:--------------|:--------|:-----|:---------------|:-----------|:---------|:--------------------------------------------------------------------------------------------------------------|
 |                                                                           |        | Coursera  |               |         |      | no             | no         | yes      | https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct                            |
@@ -27,7 +32,9 @@
 | MOOC 3: Natural Language Processing with Sequence Models                  |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing              |
 | MOOC 4: Natural Language Processing with Attention Models                 |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing             |
 | SPEC: Natural Language Processing Specialization                          |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/specializations/natural-language-processing                                          |
-## 5 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                                                |
 |----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies, and translate words.                                                                                          |
@@ -35,15 +42,18 @@
 | 3        | CLO3        | Use dynamic programming, hidden Markov models, and word embeddings to autocorrect misspelled words, autocomplete partial sentences, and identify part-of-speech tags for words.                                           |
 | 4        | CLO4        | Use dense and recurrent neural networks, LSTMs, GRUs, and Siamese networks in TensorFlow and Trax to perform advanced sentiment analysis, text generation, named entity recognition, and to identify duplicate questions. |
 | 5        | CLO5        | Use encoder-decoder, causal, and self-attention to perform advanced machine translation of complete sentences, text summarization, question-answering and to build chatbots.                                              |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO5 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                                            | Learning-Teaching Type | LO  | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                              | URLs |
 |---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-----|-------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -59,9 +69,12 @@
 | 10      | - Siamese Networks Natural Language Processing with Attention Models: - Neural Machine Translation                                                                                               | Online                 | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 11      | - Text Summarization - Question Answering                                                                                                                                                        | Online                 | LO5 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 12      | - Chatbot Offline 2: Review Natural Language Processing Specialization                                                                                                                           | Offline,Online         | LO5 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question) |      |
-## 0 Constructive question(s)
 
-## 2 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category | Type       | Part | Weight | Completion Criteria | Duration | CLO | Question Type     | No Question | Knowledge and Skill                                                    | Grading Guide | Note                                                  |
 |----------|------------|------|--------|---------------------|----------|-----|-------------------|-------------|------------------------------------------------------------------------|---------------|-------------------------------------------------------|
 | PE       | Final exam | 1    | 50.0%  | 4                   | 120'     |     |                   |             | All studied courses.                                                   | by Exam Board | Customized from the Assignment of this specialization |

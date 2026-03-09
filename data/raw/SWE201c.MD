@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: SWE201c
+
+## General information
+
 |           Syllabus ID: | 13171                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |   |
 |-----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | Introduction to Software Engineering_Nhập môn kỹ thuật phần mềm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |
 |          ApprovedDate: | 8/22/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |   |
-## 6 material(s) 
+
+## Materials
+
 | MaterialDescription                                          | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                               |
 |:-------------------------------------------------------------|:-------|:----------|:--------------|:--------|:-----|:---------------|:-----------|:---------|:-----------------------------------------------------------------------------------|
 | Coursera Code of Conduct                                     |        | Coursera  |               |         |      | no             | no         | yes      | https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct |
@@ -27,21 +32,26 @@
 | MOOC 03: Lean Software Development                           |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/lean-software-development                           |
 | MOOC 04: Engineering Practices for Building Quality Software |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/engineering-practices-secure-software-quality       |
 | SPEC: Software Development Lifecycle                         |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/specializations/software-development-lifecycle            |
-## 4 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                      |
 |----------|-------------|---------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Compare and contrast software development methodologies with respect to environmental, organizational, and product constraints. |
 | 2        | CLO2        | Demonstrate the ability to participate effectively in agile practices/process for software development.                         |
 | 3        | CLO3        | Apply lean techniques / methods to software development                                                                         |
 | 4        | CLO4        | Comfortably and effectively participate in various techniques and processes for building secure and high quality software.      |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO4 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                       | Learning-Teaching Type | LO  | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                              | URLs |
 |---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-----|-------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -57,9 +67,14 @@
 | 10      | - Quality in Architecture                                                                                                                                                   | Online                 | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 11      | - Quality in Implementation                                                                                                                                                 | Online                 | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 12      | - Quality in Testing and Deployment Offline 2: Review Software Development Lifecycle Specialization                                                                         | Offline,Online         | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question) |      |
-## 0 Constructive question(s)
 
-## 2 assessment(s)
+
+
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category | Type       | Part | Weight | Completion Criteria | Duration | CLO | Question Type     | No Question | Knowledge and Skill                                                   | Grading Guide | Note                                                  |
 |----------|------------|------|--------|---------------------|----------|-----|-------------------|-------------|-----------------------------------------------------------------------|---------------|-------------------------------------------------------|
 | PE       | Final exam | 1    | 40.0%  | 4                   | 120'     |     |                   |             | All studied courses.                                                  | by Exam Board | Customized from the exercises of this specialization. |

@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: BDI302c
+
+## General information
+
 |           Syllabus ID: | 12550                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Syllabus Name: | Big Data_Dữ liệu lớn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |          ApprovedDate: | 4/9/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-## 7 material(s)
+
+## Materials
+
 | MaterialDescription                              | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                   |
 |:-------------------------------------------------|:-------|:----------|:--------------|:--------|:-----|:---------------|:-----------|:---------|:---------------------------------------------------------------------------------------|
 | Big Data Specialization                          |        | Coursera  |               |         |      | no             | no         | yes      | https://www.coursera.org/specializations/big-data                                      |
@@ -29,6 +34,8 @@
 | MOOC 5: Graph Analytics for Big Data             |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/big-data-graph-analytics?specialization=big-data        |
 |                                                  |        | Coursera  |               |         |      | no             | no         | yes      | https://learner.coursera.help/hc/en-us/articles/208280036-Coursera-Code-of-Conduct     |
 
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                         |
 |----------|-------------|------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Explain basis concepts in big data, architectural components and programming models used for scalable big data analysis.           |
@@ -37,6 +44,11 @@
 | 4        | CLO4        | Execute simple big data integration and processing on Hadoop and Spark platforms                                                   |
 | 5        | CLO5        | Use tools and algorithms to create machine learning models that learn from data, and to scale those models up to big data problems |
 | 6        | CLO6        | Model a problem into a graph database and perform analytical tasks over the graph in a scalable manner.                            |
+
+## CLOs-PLOs maps
+
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                        | Learning-Teaching Type | LO       | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                               | URLs |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------|-----|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -52,6 +64,11 @@
 | 10      | - Regression, Cluster Analysis, and Association Analysis                                                                                                                     | Online                 | LO5      | TU  |                   | BDI302c_10 | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                              |      |
 | 11      | Graph Analytics for Big Data - Welcome to Graph Analytics - Introduction to Graphs - Graph Analytics                                                                         | Online                 | LO6      | TU  |                   | BDI302c_11 | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                              |      |
 | 12      | - Graph Analytics Techniques - Computing Platforms for Graph Analytics Offline 2: Review Big Data Specialization (Spec)                                                      | Offline,Online         | LO6      | TU  |                   | BDI302c_12 | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question) |      |
+
+## Constructive questions
+
+
+## Assignments and assessments
 
 | Category   | Type       | Part | Weight | Completion Criteria | Duration | CLO     | Question Type                      | No Question | Knowledge and Skill                                                   | Grading Guide                 | Note                                                |
 |------------|------------|------|--------|---------------------|----------|---------|------------------------------------|-------------|-----------------------------------------------------------------------|-------------------------------|-----------------------------------------------------|

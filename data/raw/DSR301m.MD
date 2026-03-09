@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: DSR301m
+
+## General information
+
 |           Syllabus ID: | 11217                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |-----------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Syllabus Name: | Applied Data Science with R - Khoa học dữ liệu ứng dụng với R                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -18,14 +21,18 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |          ApprovedDate: | 4/3/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-## 4 material(s)
+
+## Materials
+
 | MaterialDescription                            | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                      |
 |------------------------------------------------|--------|-----------|---------------|---------|------|----------------|------------|----------|-------------------------------------------------------------------------------------------|
 | Introduction to R Programming for Data Science |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/introducton-r-programming-data-science                     |
 | SQL for Data Science with R                    |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/sql-data-science-r                                         |
 | Data Analysis with R                           |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/data-analysis-with-r?specialization=applied-data-science-r |
 | Data Visualization with R                      |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/data-visualization-r?specialization=applied-data-science-r |
-## 6 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                           |
 |----------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Understand the basics of the R language                                                                                                                                                              |
@@ -34,17 +41,20 @@
 | 4        | CLO4        | Know how to wrangle data for data analysis, develop models, improve models, evaluate and tune the performance                                                                                        |
 | 5        | CLO5        | Understand how to describe and build graphs using R packages. Implement various types of basic charts to visualize like bar charts, histograms, pie charts, scatter plots, line plots, and box plots |
 | 6        | CLO6        | Implement a small data science project includes steps: data wrangling, data analysis, data visualization, model development, model evaluation, and reporting                                         |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |       |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |       |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |       |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |       |       |       |       |
 | CLO5 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |       |       |       |       |
 | CLO6 |      |      |      |      |      |      |      |      |      |  yes  |       |       |  yes  |  yes  |  yes  |  yes  |       |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                                                 | Learning-Teaching Type | LO                           | ITU | Student Materials             | S-Download       | Student's Tasks                                   | URLs |
 |---------|---------------------------------------------------------------------------------------|------------------------|------------------------------|-----|-------------------------------|------------------|---------------------------------------------------|------|
 | 1       | - Course Introduction - Chapter 1: Introduction to R Programming for Data Science     | Offline                | CLO 1                        | I   | - Slides: Introduction        | mat1             | Read slide introduction Syllabus Syllabus DSR301m |      |
@@ -107,9 +117,12 @@
 | 58      | Grading assignment                                                                    | Offline                | CLO 6                        | U   | Student's assignment and ppt. | drive.google.com | Presentation                                      |      |
 | 59      | Review course                                                                         | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5 | I   | All Slides                    | drive.google.com | Review Slide                                      |      |
 | 60      | Review course Results                                                                 | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5 | I   | All Slides                    | drive.google.com | Review Slide                                      |      |
-## 0 Constructive question(s)
 
-## 8 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category        | Type       | Part | Weight | Completion Criteria | Duration   | CLO                                | Question Type                                            | No Question | Knowledge and Skill        | Grading Guide                 | Note                                                                                                                                                                                                                                                                                             |
 |-----------------|------------|------|--------|---------------------|------------|------------------------------------|----------------------------------------------------------|-------------|----------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Assignment      | on-going   | 1    | 30.0%  | >0                  | 8-10 weeks | CLO6                               | Mini project                                             | 1           | - cover chapter 1, 2, 3, 4 | at home                       | Instructor has resposibility to review the test for students after graded.                                                                                                                                                                                                                       |

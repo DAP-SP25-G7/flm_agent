@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: ADY201m
+
+## General information
+
 |           Syllabus ID: | 13675                                                                                                                                                                                                                                                                                                                                                                                                           |   |
 |-----------------------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | AI, Data Science with Python & SQL - TTNT, KHDL với Python và SQL                                                                                                                                                                                                                                                                                                                                               |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                               |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                            |   |
 |          ApprovedDate: | 11/27/2025                                                                                                                                                                                                                                                                                                                                                                                                      |   |
-## 9 material(s)
+
+## Materials
+
 | MaterialDescription                                            | Author   | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                              |
 |----------------------------------------------------------------|----------|-----------|---------------|---------|------|----------------|------------|----------|---------------------------------------------------------------------------------------------------|
 | What is Data Science?                                          | IBM      | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science                |
@@ -30,7 +35,9 @@
 | Python Project for Data Science                                | IBM      | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/python-project-for-data-science?specialization=ibm-data-science    |
 | GP1-Data Manipulation with dplyr in R                          | Coursera | Coursera  |               |         |      | no             | no         | yes      | https://www.coursera.org/projects/data-manipulation-with-dplyr-in-r                               |
 | GP2-Scikit-Learn to Solve Regression Machine Learning Problems | Coursera | Coursera  |               |         |      | no             | no         | yes      | https://www.coursera.org/projects/scikit-learn-to-solve-regression-ml-problems                    |
-## 7 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                             |
 |----------|-------------|----------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Understand relational database concepts, and foundational knowledge of the SQL language.                                               |
@@ -40,10 +47,11 @@
 | 5        | CLO5        | Discusses Python fundamentals, python libraries, API suport for data science                                                           |
 | 6        | CLO6        | Explain the statistics for Data Science: mean, median, mode, variance, and standard deviation, data visualization, regression analysis |
 | 7        | CLO7        | Implement the small data science project by applying Python fundamentals, and Python data structures, and working with data in Python. |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      | yes  |      |      |      |      |      |      |      |       |       |       |       |
 | CLO2 |      | yes  |      |      |      |      |      |      |      |       |       |       |       |
 | CLO3 |      | yes  |      |      |      |      |      |      |      |       |       |       |       |
@@ -51,7 +59,9 @@
 | CLO5 |      |      | yes  |      |      |      |      |      |      |       |       |       |       |
 | CLO6 |      |      | yes  |      |      |      |      |      |      |       |       |       |       |
 | CLO7 |      |      | yes  |      |      |      |      |      |      |       |       |       |       |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                                                                                                       | Learning-Teaching Type | LO                                       | ITU  | Student Materials                            | S-Download | Student's Tasks                                                                                                                                                                                                                                                                                                                                                                                      | URLs |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------|------|----------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | 1       | Course Introduction                                                                                                                         | Offline                | CLO1                                     | IT   | - Slides: Introduction                       | mat1       | Read slide introduction Syllabus ADY201m                                                                                                                                                                                                                                                                                                                                                             |      |
@@ -114,9 +124,12 @@
 | 58      | - Project Review 3 (cont)                                                                                                                   | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | T    | - slide chapter 1, 2, 3, 4, 5, 6             |            | - project progress report                                                                                                                                                                                                                                                                                                                                                                            |      |
 | 59      | Progress test and/or Review Exercises Guiding Exercises/Assignment                                                                          | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | T    | - slide chapter 1, 2, 3, 4,5, 6, 7           |            | Process test                                                                                                                                                                                                                                                                                                                                                                                         |      |
 | 60      | - Review course - Final report                                                                                                              | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | I,T  | Syllabus ADY201m                             |            | Syllabus ADY201m                                                                                                                                                                                                                                                                                                                                                                                     |      |
-## 0 Constructive question(s)
 
-## 8 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category                 | Type       | Part | Weight | Completion Criteria | Duration                                | CLO                                      | Question Type                                           | No Question                        | Knowledge and Skill                | Grading Guide                                                                                                                                                                                                                                                                                                                                                                                                     | Note                                                                                                                                                                                                                                                                                             |
 |--------------------------|------------|------|--------|---------------------|-----------------------------------------|------------------------------------------|---------------------------------------------------------|------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Final Project Evaluation | on-going   | 1    | 20.0%  | 4                   | 30'/groups                              | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | Oral                                                    | Committee's comments and questions | All chapters; knowledge and skills | The examination is conducted by the exam board. A minimum of two teachers is required for grading the Final Project. Each team is allocated 30 minutes for the presentation of their project followed by a Q&A session. Evaluation of the final presentation is based on the final report, project demonstration, and Q&A interaction. The grade is determined by averaging the grades given by the two teachers. | Based on Rubrics                                                                                                                                                                                                                                                                                 |

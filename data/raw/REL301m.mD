@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: REL301m
+
+## General information
+
 |           Syllabus ID: | 11256                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Syllabus Name: | Reinforcement Learning_Học tăng cường                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |          ApprovedDate: | 4/3/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-## 5 material(s)
+
+## Materials
+
 | MaterialDescription                                 | Author                   | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                     |
 |-----------------------------------------------------|--------------------------|-----------|---------------|---------|------|----------------|------------|----------|--------------------------------------------------------------------------|
 | Fundamentals of Reinforcement Learning-             | University of Alberta    | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/fundamentals-of-reinforcement-learning    |
@@ -26,7 +31,9 @@
 | Prediction and Control with Function Approximation  | University of Alberta    | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/prediction-control-function-approximation |
 | A Complete Reinforcement Learning System (Capstone) | University of Alberta    | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/complete-reinforcement-learning-system    |
 | Guided Project Create a Tic-Tac-Toe game in Python  | Coursera Project Network | Coursera  |               |         |      | no             | no         | yes      | https://www.coursera.org/projects/tic-tac-toe-game-python                |
-## 
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                           |
 |----------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Understand the concepts of Reinforcement Learning                                                                                                                                                    |
@@ -36,20 +43,11 @@
 | 5        | CLO5        | Understand several approaches that affect approximate value functions: supervised learning, fixed basis, neural network.                                                                             |
 | 6        | CLO6        | Understand how function approximation is used to predict and control in Reinforcement Learning                                                                                                       |
 | 7        | CLO7        | Understand and implement an RL solution to a problem step by step: problem formulation, appropriate algorithm selection, implementation, and empirical study into the effectiveness of the solution. |
-## 7 LO(s)
-| CLO Name | CLO Details | LO Details                                                                                                                                                                                           |
-|----------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1        | CLO1        | Understand the concepts of Reinforcement Learning                                                                                                                                                    |
-| 2        | CLO2        | Know how to implement dynamic programming as an efficient solution approach to an industrial control problem                                                                                         |
-| 3        | CLO3        | Understand several algorithms for estimating value: Temporal-Difference learning, Monte Carlo                                                                                                        |
-| 4        | CLO4        | Undersatnd and implement a model-based approach to RL: Temporal-Difference, Expected Sarsa, Q-learning                                                                                               |
-| 5        | CLO5        | Understand several approaches that affect approximate value functions: supervised learning, fixed basis, neural network.                                                                             |
-| 6        | CLO6        | Understand how function approximation is used to predict and control in Reinforcement Learning                                                                                                       |
-| 7        | CLO7        | Understand and implement an RL solution to a problem step by step: problem formulation, appropriate algorithm selection, implementation, and empirical study into the effectiveness of the solution. |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
@@ -57,7 +55,9 @@
 | CLO5 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
 | CLO6 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |  yes  |  yes  |  yes  |  yes  |
 | CLO7 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                  | Learning-Teaching Type | LO                                       | ITU | Student Materials                                                                | S-Download | Student's Tasks                          | URLs |
 |---------|--------------------------------------------------------|------------------------|------------------------------------------|-----|----------------------------------------------------------------------------------|------------|------------------------------------------|------|
 | 1       | Course Introduction                                    | Offline                | CLO1                                     | T   | - slides: Introduction                                                           | mat1       | Read slide introduction Syllabus REL301m |      |
@@ -120,9 +120,12 @@
 | 58      | Assignment- Assignment grading                         | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | U   | - slide chapter 1, 2, 3                                                          |            | - Review chapter 1, 2, 3 - Do assignment |      |
 | 59      | Assignment- Assignment grading                         | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | U   | - slide chapter 1, 2, 3                                                          |            | - Review chapter 1, 2, 3 - Do assignment |      |
 | 60      | Review course Results                                  | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | U   | Syllabus REL301m Slide chapter 1,2,3                                             |            | Syllabus REL301m Slide chapter 1,2,3     |      |
-## 0 Constructive question(s)
 
-## 6 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category      | Type       | Part | Weight | Completion Criteria | Duration | CLO                                      | Question Type                                            | No Question | Knowledge and Skill     | Grading Guide                 | Note                                                                                                                                                                                                                                                                                             |
 |---------------|------------|------|--------|---------------------|----------|------------------------------------------|----------------------------------------------------------|-------------|-------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Assignment    | on-going   | 1    | 30.0%  | >0                  | 2 weeks  | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7 | Mini project                                             | 1           | - cover chapter 1, 2, 3 | at home                       | Instructor has resposibility to review the test for students after graded.                                                                                                                                                                                                                       |

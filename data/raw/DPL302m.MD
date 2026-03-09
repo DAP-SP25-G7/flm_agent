@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: DPL302m
+
+## General information
+
 |           Syllabus ID: | 13339                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | Deep Learning_Học sâu                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |
@@ -18,7 +21,8 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |   |
 |          ApprovedDate: | 8/22/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |   |
-## 10 material(s)
+
+## Materials
 
 | MaterialDescription                                                                    | Author          | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                           |
 |----------------------------------------------------------------------------------------|-----------------|-----------|---------------|---------|------|----------------|------------|----------|------------------------------------------------------------------------------------------------|
@@ -32,7 +36,9 @@
 | Neural Networks and Deep Learning                                                      | DeepLearning.AI | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning      |
 | Sequence Models                                                                        | DeepLearning.AI | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning                |
 | Structuring Machine Learning Projects                                                  | DeepLearning.AI | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning          |
-## 7 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                                                  |
 |----------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Should build, train and apply fully connected deep neural networks, implement efficient neural networks, identify key parameters in a neural network's architecture, and apply deep learning to students' own applications. |
@@ -42,8 +48,12 @@
 | 5        | CLO5        | Could build and train recurrent neural networks (RNNs), work with NLP and word embeddings, use HuggingFace tokenizers, and transformer models to solve different NLP tasks.                                                 |
 | 6        | CLO6        | Implement a DL project includes steps: data collection, data wrangling, exploratory data analysis, model development, model evaluation, and reporting                                                                       |
 | 7        | CLO7        | Understand how to apply AI tools to complete a mini project                                                                                                                                                                 |
-## View mapping of CLOs to PLOs
-## 119 sessions (45'/session)
+
+## CLOs-PLOs maps
+
+
+## Sessions
+
 | Session | Topic                                                                                                | Learning-Teaching Type | LO                           | ITU | Student Materials                                                                      | S-Download | Student's Tasks                                                | URLs |
 |---------|------------------------------------------------------------------------------------------------------|------------------------|------------------------------|-----|----------------------------------------------------------------------------------------|------------|----------------------------------------------------------------|------|
 | 1       | Course Introduction 1.1. Introduction to deep learning                                               | Offline                | CLO1                         | IT  | Slide , Videos of Introduction to Artificial Intelligence and Machine Learning         | mat1       | Attend lecture, participate in discussions on course intro     |      |
@@ -165,9 +175,12 @@
 | 118     | Project defense                                                                                      | Offline                | CLO6                         | TU  | Student's project                                                                      |            | Presentation                                                   |      |
 | 119     | Project defense                                                                                      | Offline                | CLO6                         | TU  | Student's project                                                                      |            | Presentation                                                   |      |
 | 120     | Review                                                                                               | Offline                | CLO1, CLO2, CLO3, CLO4, CLO5 | T   | All Slides                                                                             |            | Review Slide                                                   |      |
-## 0 Constructive question(s)
 
-## 6 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category                                              | Type       | Part | Weight | Completion Criteria | Duration | CLO                          | Question Type                                            | No Question | Knowledge and Skill        | Grading Guide                 | Note                                                                                                                                                                                                                                                                                             |
 |-------------------------------------------------------|------------|------|--------|---------------------|----------|------------------------------|----------------------------------------------------------|-------------|----------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Progress test                                         | on-going   | 1    | 10.0%  | >0                  | 60'      | CLO1, CLO2, CLO3, CLO4       | Multiple choices Marked by Computer or a suitable format | 50          | - cover chapter 1,2,3      | in class, by instructor       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |

@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: ENW493c
+
+## General information
+
 |           Syllabus ID: | 12547                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |   |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|
 |         Syllabus Name: | Research method and academic writing skills_Phương pháp nghiên cứu và kỹ năng viết học thuật                                                                                                                                                                                                                                                                                                                                                                                                                                                       |   |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |   |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |   |
 |          ApprovedDate: | 4/9/2025                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |   |
-##  5 material(s)
+
+## Materials
+
 | MaterialDescription                                               | Author | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                                      |
 |-------------------------------------------------------------------|--------|-----------|---------------|---------|------|----------------|------------|----------|-----------------------------------------------------------------------------------------------------------|
 | Mooc 1: Understanding Research Methods                            |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/research-methods                                                           |
@@ -26,7 +31,9 @@
 | Mooc 3: Being a reseacher (in Information Science and Technology) |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/being-researcher                                                           |
 | Mooc 4: Advanced Writing                                          |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/advanced-writing?specialization=academic-english                           |
 | Mooc 5: Introduction to Research for Essay Writing                |        | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/introduction-to-research-for-essay-writing?specialization=academic-english |
-## 5 LO(s)
+
+## Learning outcomes
+
 | CLO Name | CLO Details | LO Details                                                                                                                                                                                                                                                                                                      |
 |----------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | CLO1        | Explain the fundamental research methods and approaches and how they can be applied in academic or professional contexts.                                                                                                                                                                                       |
@@ -34,15 +41,18 @@
 | 3        | CLO3        | Develop a comprehensive research proposal that integrates historical perspectives, appropriate methodologies, ethical considerations, and strategies for publication and evaluation in Information and Communication Science and Technology.                                                                    |
 | 4        | CLO4        | Develop sophisticated argument essays through critical analysis, ethical sourcing, and anti-plagiarism, forming well-founded opinions and thesis statements                                                                                                                                                     |
 | 5        | CLO5        | Plan and conduct research on an academic topic, following these steps: topic selection, outlining, source gathering, note-taking, maintaining an academic tone, citing sources in MLA format, and avoiding plagiarism. Write a 7-8 page research paper demonstrating proper MLA formatting for source material. |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |       |   |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | POL13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |   |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | POL13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |  |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      | yes  |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |       |   |
 | CLO2 |      |      | yes  |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |       |   |
 | CLO3 |      |      | yes  |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |       |   |
 | CLO4 |      |      | yes  |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |       |   |
 | CLO5 | yes  |      | yes  |      |      |      | yes  |      |      |       |       |       |       |       |       |       |       |       |   |
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                                                                                                                                                       | Learning-Teaching Type | LO   | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                              | URLs |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|-----|-------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -58,10 +68,14 @@
 | 10      | MOOC 5: Introduction to Research for Essay Writing - Doing Research and Planning the Paper - Language for Research Writing                                                                                                                                                                                  | Online                 | CLO4 | ITU |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 11      | MOOC 5: Introduction to Research for Essay Writing  - Citing sources and Formatting - First Draft                                                                                                                                                                                                           | Online                 | CLO4 | TU  |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 12      | MOOC 5: Introduction to Research for Essay Writing - Revise and Rewrite the Final Draft Offline 2: Review MOOC 1 - MOOC 5                                                                                                                                                                                   | Offline,Online         | CLO5 | TU  |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed All students should participate in review slot (if any question) Deadline of Coursera completion: End of Friday of the week. |      |
-## 0 Constructive question(s)
 
-## 1 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category      | Type       | Part | Weight | Completion Criteria | Duration | CLO     | Question Type | No Question        | Knowledge and Skill | Grading Guide                                                                                                                          | Note              |
 |---------------|------------|------|--------|---------------------|----------|---------|---------------|--------------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|
 | Final exam PE | Final exam | 1    | 100.0% | 4                   | 90'      | All Los | MCQ, Writing  | 30 MCQs; 1 Writing | All learned content | Part 1: Multiple choices Marked by Computer 30' (30% - 30 questions)  Part 2: Writing - 60' (70%) Write 450-500 words on a given topic | By the exam board |
 |               |            |      |        |                     |          |         |               |                    |                     |                                                                                                                                        |                   |
+

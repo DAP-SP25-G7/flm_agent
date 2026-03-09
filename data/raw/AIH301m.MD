@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: AIH301m
+
+## General information
+
 |           Syllabus ID: | 11221                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Syllabus Name: | AI in Healthcare_Ứng dụng TTNT trong chăm sóc sức khỏe                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |          ApprovedDate: | 4/3/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-## 11 material(s)
+
+## Materials
+
 | MaterialDescription       | Author   | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                                |
 |:--------------------------|:---------|:----------|:--------------|:--------|:-----|:---------------|:-----------|:---------|:----------------------------------------------------------------------------------------------------|
 |                           | Coursera | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/specializations/ai-healthcare                                              |
@@ -32,7 +37,8 @@
 | - Assignments 1           |          |           |               |         |      | no             | no         | no       |                                                                                                     |
 | - Assignments 2           |          |           |               |         |      | no             | no         | no       |                                                                                                     |
 | - Quiz for Progress Tests |          |           |               |         |      | no             | no         | no       |                                                                                                     |
-## 8 LO(s)
+
+## Learning outcomes
 
 | CLO Name | CLO Details | LO Details                                                                                                                            |
 |----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -44,10 +50,11 @@
 | 6        | CLO6        | Principles and practical considerations for integrating AI into clinical workflows, improving the quality of healthcare applications. |
 | 7        | CLO7        | Learners should be able to understand AI-emerging technologies in the fields of healthcare.                                           |
 | 8        | CLO8        | The ethical issues for the combination of healthcare system and AI.                                                                   |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |  yes  |  yes  |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |  yes  |  yes  |  yes  |  yes  |       |
@@ -56,7 +63,9 @@
 | CLO6 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |  yes  |
 | CLO7 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |  yes  |
 | CLO8 |      |      |      |      |      |      |      |      |      |       |       |       |  yes  |  yes  |  yes  |  yes  |  yes  |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                                                                                                                                                                                                                                  | Learning-Teaching Type | LO                         | ITU | Student Materials                                                                                                                                                     | S-Download       | Student's Tasks                 | URLs |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------------------------|-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|---------------------------------|------|
 | 1       | Course introduction: - Introduce the materials of the courses and how to asses these materials - Introduce the assignments and how to pass - Introduce CMS and the way to log on to submit the assignments http://cms.btec.fpt.edu.vn and class forum with enroll key. | Offline                | CLO 1                      | IT  | Course Implementation - Syllabus AIH301m - Slides, Videos                                                                                                             | drive.google.com | Read Slide and and Seft-Review  |      |
@@ -119,9 +128,12 @@
 | 58      | Review Progress Test 2                                                                                                                                                                                                                                                 | Offline                | CLO 4 - 7                  |     | Progress Test 2                                                                                                                                                       | drive.google.com | Review Test 2                   |      |
 | 59      | Assignment 3                                                                                                                                                                                                                                                           | Offline                | CLO 6 - 7                  | U   | Contents 23-28                                                                                                                                                        | drive.google.com | Assignment 3                    |      |
 | 60      | Summary All Slides, Tests, and Assignments                                                                                                                                                                                                                             | Offline                | CLO 1 - 8                  | U   | All Contents                                                                                                                                                          | drive.google.com | Review and Group discussion     |      |
-## 0 Constructive question(s)
 
-## 6 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category        | Type       | Part | Weight | Completion Criteria | Duration | CLO                        | Question Type                                            | No Question | Knowledge and Skill                      | Grading Guide                   | Note                                                                                                                                                                                                                                                                                             |
 |-----------------|------------|------|--------|---------------------|----------|----------------------------|----------------------------------------------------------|-------------|------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Assignment 1    | on-going   | 1    | 10.0%  | >0                  | 45'      | CLO 1, CLO 2, CLO 8        | Group presentation for the selected article              | 1           | - cover content 1-6                      | in class, by group presentation | Instructor has resposibility to review the presentation for students after graded.                                                                                                                                                                                                               |

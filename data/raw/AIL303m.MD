@@ -1,4 +1,7 @@
-# Syllabus Details
+# Syllabus: AIL303m
+
+## General information
+
 |           Syllabus ID: | 10736                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |-----------------------:|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |         Syllabus Name: | Machine Learning_Học máy                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -18,7 +21,9 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 |          ApprovedDate: | 4/3/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-## 5 material(s)
+
+## Materials
+
 | MaterialDescription | Author   | Publisher | PublishedDate | Edition | ISBN | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                                                        |
 |:--------------------|:---------|:----------|:--------------|:--------|:-----|:---------------|:-----------|:---------|:----------------------------------------------------------------------------------------------------------------------------|
 |                     | Coursera | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/specializations/ibm-intro-machine-learning                                                         |
@@ -26,7 +31,8 @@
 |                     | Coursera | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/supervised-machine-learning-regression?specialization=ibm-intro-machine-learning             |
 |                     | Coursera | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/supervised-machine-learning-classification?specialization=ibm-intro-machine-learning         |
 |                     | Coursera | Coursera  |               |         |      | yes            | no         | yes      | https://www.coursera.org/learn/ibm-unsupervised-machine-learning?specialization=ibm-intro-machine-learning                  |
-## 10 LO(s)
+
+## Learning outcomes
 
 | CLO Name | CLO Details | LO Details                                                                                                                                                          |
 |----------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,10 +46,11 @@
 | 8        | CLO7        | Learners should be able to explain the kinds of problems suitable for Unsupervised Learning approaches                                                              |
 | 9        | CLO8        | Explain the curse of dimensionality, and how it makes clustering difficult with many features                                                                       |
 | 10       | CLO9        | Learners should be able to describe and use common clustering and dimensionality-reduction algorithms                                                               |
-## View mapping of CLOs to PLOs
-|  CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|       | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1  |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |       |  yes  |       |       |
 | CLO2  |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |       |  yes  |       |       |
 | CLO3  |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |       |  yes  |       |       |
@@ -54,7 +61,9 @@
 | CLO8  |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |       |  yes  |       |       |
 | CLO9  |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |       |  yes  |       |       |
 | CLO10 |      |      |      |      |      |      |      | yes  |      |       |       |       |  yes  |  yes  |  yes  |  yes  |       |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                                                                                                                                                       | Learning-Teaching Type | LO         | ITU | Student Materials                                                                                       | S-Download       | Student's Tasks                                             | URLs |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------|-----|---------------------------------------------------------------------------------------------------------|------------------|-------------------------------------------------------------|------|
 | 1       | Course Introduction 1.1. A brief history of modern AI and its Application 1.1.1. Introduction to AI and Machine Learning                                                                    | Offline                | CLO1       | IT  | Slide , Videos of Introduction to Artificial Intelligence and Machine Learning                          | mat1             | Read Slide and Watch Video                                  |      |
@@ -117,9 +126,12 @@
 | 58      | Review the mini Capstone                                                                                                                                                                    | Offline                | CLO10      | U   | Student's capstone and ppt.                                                                             |                  | Presentation                                                |      |
 | 59      | Review                                                                                                                                                                                      | Offline                |            | U   | All Slides                                                                                              | FLM and Coursera | Review Slide                                                |      |
 | 60      | Review                                                                                                                                                                                      | Offline                |            | U   | All Slides                                                                                              | FLM and Coursera | Review Slide                                                |      |
-## 0 Constructive question(s)
 
-## 8 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category        | Type       | Part | Weight | Completion Criteria | Duration         | CLO                                                  | Question Type                                            | No Question | Knowledge and Skill            | Grading Guide                 | Note                                                                                                                                                                                                                                                                                             |
 |-----------------|------------|------|--------|---------------------|------------------|------------------------------------------------------|----------------------------------------------------------|-------------|--------------------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Lab 1           | on-going   | 1    | 10.0%  | >0                  | 1 week - 2 weeks | CLO1, CLO2, CLO3                                     |                                                          | 2           | - cover content of Moduel 1    | in home, by instructor        | Instructor has resposibility to review the test for students after graded.                                                                                                                                                                                                                       |
@@ -130,3 +142,4 @@
 | Progress test 3 | on-going   | 1    | 5.0%   | >0                  | 20'-30'          | CLO4, CLO5, CLO6                                     | Multiple choices Marked by Computer or a suitable format | 20          | - cover content of Module 3    | in class, by instructor       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |
 | Progress test 4 | on-going   | 1    | 5.0%   | >0                  | 20'-30'          | CLO8, CLO9, CLO10                                    | Multiple choices Marked by Computer or a suitable format | 20          | - cover content of Module 4    | in class, by instructor       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |
 | Final exam      | Final exam | 1    | 30.0%  | 4                   | 60'              | CLO1, CLO2, CLO3, CLO4, CLO5, CLO6, CLO7, CLO8, CLO9 | Multiple choices Marked by Computer                      | 50          | all studied modules            | by exam board, using computer | The exam questions must be updated or different at least 70% to the previous ones.                                                                                                                                                                                                               |
+

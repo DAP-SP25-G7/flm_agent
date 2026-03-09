@@ -1,4 +1,6 @@
-# Syllabus Details
+# Syllabus: AIM301m
+
+## General information
 
 |           Syllabus ID: | 11175                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |-----------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -19,7 +21,8 @@
 |      MinAvgMarkToPass: | 5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 |              IsActive: | True                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 |          ApprovedDate: | 4/3/2024                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-## 7 material(s)
+
+## Materials
 
 | MaterialDescription                                                                                                              | Author         | Publisher      | PublishedDate        | Edition     | ISBN           | IsMainMaterial | IsHardCopy | IsOnline | Note                                                                                   |
 |----------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|----------------------|-------------|----------------|----------------|------------|----------|----------------------------------------------------------------------------------------|
@@ -30,7 +33,8 @@
 | Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems | Aurélien Géron | O'Reilly Media | 5/9/2017 12:00:00 AM | 1st edition | 978-1491962299 | no             | no         | yes      | http://ds.libol.fpt.edu.vn/                                                            |
 | Healthcare IT Support Specialization                                                                                             | Coursera       | Coursera       |                      |             |                | no             | no         | yes      | https://www.coursera.org/specializations/healthcare-it                                 |
 | AI For Everyone                                                                                                                  | Coursera       | Coursera       |                      |             |                | no             | no         | yes      | https://www.coursera.org/learn/ai-for-everyone                                         |
-## 9 LO(s)
+
+## Learning outcomes
 
 | CLO Name | CLO Details | LO Details                                                                                                 |
 |----------|-------------|------------------------------------------------------------------------------------------------------------|
@@ -43,10 +47,11 @@
 | 7        | CLO7        | Estimate treatment effects on patients using data from randomized trials.                                  |
 | 8        | CLO8        | Explore methods to interpret diagnostic and prognostic models.                                             |
 | 9        | CLO9        | Automate the task of labeling medical datasets using natural language processing.                          |
-## View mapping of CLOs to PLOs
-| CLO  | PLOs |      |      |      |      |      |      |      |      |       |       |       |       |       |       |       |       |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|      | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+
+## CLOs-PLOs maps
+
+|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |  yes  |  yes  |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |  yes  |  yes  |  yes  |  yes  |       |
@@ -56,7 +61,9 @@
 | CLO7 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |  yes  |
 | CLO8 |      |      |      |      |      |      |      |      |      |       |       |       |  yes  |  yes  |  yes  |  yes  |  yes  |
 | CLO9 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |  yes  |
-## 60 sessions (45'/session)
+
+## Sessions
+
 | Session | Topic                                                                                                                                                                                                                                          | Learning-Teaching Type | LO          | ITU | Student Materials                                                                     | S-Download | Student's Tasks                 | URLs |
 |---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-----|---------------------------------------------------------------------------------------|------------|---------------------------------|------|
 | 1       | Course introduction: - Introduce the materials of the courses and how to asses these materials - Introduce the assignments and how to pass - Introduce the way to log on the system to submit the assignments and class forum with enroll key. | Offline                | CLO1        | IT  | Course Implementation - Syllabus AIM301m - Slides, Videos                             | mat1       | Read Slide and and Seft-Review  |      |
@@ -119,9 +126,12 @@
 | 58      | Summary AI For Medical Treatment                                                                                                                                                                                                               | Offline                | CLO7 - CLO9 | T   | Slides, Videos of AI For Medical Treatment, Labs                                      |            | Read Slide and and Seft-Review  |      |
 | 59      | Progress Test 3                                                                                                                                                                                                                                | Offline                | CLO7 - CLO9 | U   | Progress Test 3                                                                       |            | Progress Test 3                 |      |
 | 60      | Review Progress Test 3                                                                                                                                                                                                                         | Offline                | CLO7 - CLO9 | U   | Progress Test 3                                                                       |            | Progress Test 3                 |      |
-## 0 Constructive question(s)
 
-## 10 assessment(s)
+## Constructive questions
+
+
+## Assignments and assessments
+
 | Category        | Type       | Part | Weight | Completion Criteria | Duration | CLO              | Question Type                                                  | No Question | Knowledge and Skill                                 | Grading Guide                                 | Note                                                                                                                                                                                                                                                                                             |
 |-----------------|------------|------|--------|---------------------|----------|------------------|----------------------------------------------------------------|-------------|-----------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Assignment 1    | on-going   | 1    | 5.0%   | >0                  | 60'      | CLO1             | Personal task (programming) (50%) and Group presentation (50%) | 1           | algorithms and labs 1-4                             | in class, by group and personal presentations | Instructor has resposibility to review the presentation for students after graded.                                                                                                                                                                                                               |
@@ -134,3 +144,4 @@
 | Progress test 2 | on-going   | 1    | 10.0%  | >0                  | 20'-30'  | CLO4, CLO5, CLO6 | Multiple choicesMarked by Computer or a suitable format        | 25          | concepts (AI for medical prognosis), slides 2.1-2.4 | in class, by instructor                       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |
 | Progress test 3 | on-going   | 1    | 10.0%  | >0                  | 20'-30'  | CLO7, CLO8, CLO9 | Multiple choicesMarked by Computer or a suitable format        | 25          | concepts (AI for medical treatment), slides 3.1-3.3 | in class, by instructor                       | Instruction and shedules for Progress tests must be presented in the Course Implementation Plan approved by director of the campus.  Progress test must be taken right after the last lectures of required material.  Instructor has resposibility to review the test for students after graded. |
 | Final exam      | Final exam | 1    | 40.0%  | 4                   | 60'      | CLO1 - CLO9      | Multiple choices Marked by Computer or a suitable format       | 50          | concepts, algorithms; all studied slides and labs   | by exam board, using computer                 | Instruction and schedule for Final Exam must be presented in the Course Implementation Plan approved by director of the campus.                                                                                                                                                                  |
+
