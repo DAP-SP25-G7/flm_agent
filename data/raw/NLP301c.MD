@@ -45,8 +45,8 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |       |       |       |
@@ -72,11 +72,12 @@
 
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 
-| Category | Type       | Part | Weight | Completion Criteria | Duration | CLO | Question Type     | No Question | Knowledge and Skill                                                    | Grading Guide | Note                                                  |
-|----------|------------|------|--------|---------------------|----------|-----|-------------------|-------------|------------------------------------------------------------------------|---------------|-------------------------------------------------------|
-| PE       | Final exam | 1    | 50.0%  | 4                   | 120'     |     |                   |             | All studied courses.                                                   | by Exam Board | Customized from the Assignment of this specialization |
-| TE       | Final exam | 1    | 50.0%  | 4                   | 60'      |     | Computer gradable | 60          | All studied courses. Each module of course contributes 2-3 questions.  | by Exam Board | Customized from the quizzes of this specialization    |
+| Category | Type       | Part | Weight | Completion Criteria | Duration | CLO | Question Type     | No Question | Knowledge and Skill                                                   | Grading Guide | Note                                                  |
+|----------|------------|------|--------|---------------------|----------|-----|-------------------|-------------|-----------------------------------------------------------------------|---------------|-------------------------------------------------------|
+| PE       | Final exam | 1    | 50.0%  | 4                   | 120'     |     |                   |             | All studied courses.                                                  | by Exam Board | Customized from the Assignment of this specialization |
+| TE       | Final exam | 1    | 50.0%  | 4                   | 60'      |     | Computer gradable | 60          | All studied courses. Each module of course contributes 2-3 questions. | by Exam Board | Customized from the quizzes of this specialization    |
 

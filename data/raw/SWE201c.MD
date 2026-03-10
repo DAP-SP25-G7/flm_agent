@@ -44,8 +44,8 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      | yes  |      |      |       |       |       |       |       |  yes  |       |       |       |
@@ -68,10 +68,9 @@
 | 11      | - Quality in Implementation                                                                                                                                                 | Online                 | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                             |      |
 | 12      | - Quality in Testing and Deployment Offline 2: Review Software Development Lifecycle Specialization                                                                         | Offline,Online         | LO4 |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question) |      |
 
-
-
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

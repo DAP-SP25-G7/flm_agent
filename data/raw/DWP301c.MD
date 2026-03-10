@@ -58,8 +58,8 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |       |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |  yes  |       |       |       |  yes  |  yes  |       |       |
@@ -84,9 +84,9 @@
 | 11      | Full Stack Cloud Development Capstone Project - Demonstrate the skills that you have mastered in cloud native application development. - Apply your new knowledge to a real-life challenge and use your expertise to develop a successful solution. - Provides you with an opportunity to solidify your full stack proficiency. - As you design a dynamic user experience, you will work with GitHub actions to build, test, and deploy your application. - Develop frontend pages, add user administration, build actions for database operations, create backend services, make connections with cloud native APIs, and launch CI/CD pipelines. - Boost your capabilities with cloud native services, JavaScript, Django, JSON, IBM Cloud Foundry, Python, and Kubernetes. - Devise a solution for managing the containerized deployment of your application.                                                                                                                                                                                                                                                                                                                                                        | Online                 | CLO11   | I   | Associated Coursera links |            | - Complete course 11 of this spec                                                               |      |
 | 12      | Full Stack Software Developer Assessment Core concepts in cloud computing Web development languages including HTML, CSS, and JavaScript Git and GitHub Node.js and React Containers Python Database concepts and related technologies such as SQL and Django Microservices and serverless computing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Offline                | All LOs | ITU | Associated Coursera links |            | - Complete course 12 of this spec - Deadline of Coursera Completion: End of Friday of the week. |      |
 
-
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

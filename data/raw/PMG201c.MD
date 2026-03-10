@@ -47,6 +47,8 @@
 
 ## CLOs-PLOs maps
 
+Information not yet provided by the university.
+
 ## Sessions
 
 | Session | Topic                                                                                                                                                                                 | Learning-Teaching Type | LO      | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                                                                                                 | URLs |
@@ -66,6 +68,7 @@
 
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 
