@@ -51,6 +51,8 @@
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |       |       |  yes  |
 
+## Sessions
+
 | Session | Topic                                                                                                                                                                                                                                                               | Learning-Teaching Type | LO   | ITU | Student Materials         | S-Download | Student's Tasks                                                                                                                                                                                                 | URLs |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|-----|---------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | 1       | Specialization Introduction Introduction to Data Science and scikit-learn in Python - Introduction to Python Programming for Hypothesis Testing - Creating a Hypothesis: Numpy, Pandas, and Scikit-Learn Offline 1: Guide learning and review of the specialization | Offline                | CLO1 | IT  | Associated Coursera links |            | Complete Week 1, 2 of the course Introduction to Data Science and scikit-learn in Python                                                                                                                        |      |
@@ -66,9 +68,6 @@
 | 11      | Capstone Project: Advanced AI for Drug Discovery (cont.) - Feature Analysis using K-means Clustering                                                                                                                                                                | Online                 | CLO4 | I   | Associated Coursera links |            | Complete Week 2 of the course Capstone Project: Advanced AI for Drug Discovery                                                                                                                                  |      |
 | 12      | Capstone Project: Advanced AI for Drug Discovery (cont.) - Predicting Bit Score to find sequences matches Course 4 Review                                                                                                                                           | Offline                | CLO4 | IT  | Associated Coursera links |            | - Complete Week 3 of the course Capstone Project: Advanced AI for Drug Discovery - Deadline of Coursera Completion: End of Friday of the week. All Students should participate in review slot (if any question) |      |
 
-## Sessions
-
-Information not yet provided by the university.
 
 ## Constructive questions
 
