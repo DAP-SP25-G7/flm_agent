@@ -53,8 +53,8 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |  yes  |  yes  |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |  yes  |  yes  |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |  yes  |  yes  |  yes  |  yes  |       |
@@ -131,6 +131,7 @@
 
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

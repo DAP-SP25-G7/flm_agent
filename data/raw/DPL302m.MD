@@ -51,6 +51,7 @@
 
 ## CLOs-PLOs maps
 
+Information not yet provided by the university.
 
 ## Sessions
 
@@ -178,6 +179,7 @@
 
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

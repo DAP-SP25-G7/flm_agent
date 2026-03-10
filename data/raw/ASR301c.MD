@@ -44,12 +44,14 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |       |       |       |
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |       |       |  yes  |       |  yes  |       |       |  yes  |
+
+## Sessions
 
 | Session | Topic                                                                                                                                                                                                                                                               | Learning-Teaching Type | LO   | ITU | Student Materials         | S-Download | Student's Tasks                                                                                                                                                                                                 | URLs |
 |---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|------|-----|---------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -66,11 +68,10 @@
 | 11      | Capstone Project: Advanced AI for Drug Discovery (cont.) - Feature Analysis using K-means Clustering                                                                                                                                                                | Online                 | CLO4 | I   | Associated Coursera links |            | Complete Week 2 of the course Capstone Project: Advanced AI for Drug Discovery                                                                                                                                  |      |
 | 12      | Capstone Project: Advanced AI for Drug Discovery (cont.) - Predicting Bit Score to find sequences matches Course 4 Review                                                                                                                                           | Offline                | CLO4 | IT  | Associated Coursera links |            | - Complete Week 3 of the course Capstone Project: Advanced AI for Drug Discovery - Deadline of Coursera Completion: End of Friday of the week. All Students should participate in review slot (if any question) |      |
 
-## Sessions
-
 
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

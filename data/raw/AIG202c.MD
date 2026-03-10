@@ -45,8 +45,8 @@
 
 ## CLOs-PLOs maps
 
-|  CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
-|:-----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| CLO  | PLO1 | PLO2 | PLO3 | PLO4 | PLO5 | PLO6 | PLO7 | PLO8 | PLO9 | PLO10 | PLO11 | PLO12 | PLO13 | PLO14 | PLO15 | PLO16 | PLO17 | PLO18 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | CLO1 |      |      |      |      |      |      |      |      |      |       |  yes  |       |  yes  |       |  yes  |       |       |       |
 | CLO3 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
 | CLO4 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
@@ -54,7 +54,6 @@
 | CLO2 |      |      |      |      |      |      |      |      |      |       |       |       |       |       |  yes  |       |       |       |
 
 ## Sessions
-
 
 | Session | Topic                                                                                                                                                                                                                         | Learning-Teaching Type | LO       | ITU | Student Materials | S-Download | Student's Tasks                                                                                                                                                                                                                                                               | URLs |
 |---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|----------|-----|-------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
@@ -71,9 +70,9 @@
 | 11      | - Deployment - Context Variables & Slots                                                                                                                                                                                      | Online                 | LO5      |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed)                                                                                                                              |      |
 | 12      | - Digressions - Summary - (Optional) Watson Actions - Final Exam (spec) Offline 2: Review AI Foundations for Everyone Specialization (Spec)                                                                                   | Offline,Online         | LO5      |     |                   |            | - Watch all videos, read all materials in the MOOC - Finish quizzes, self-assessment, assignments and take part in discussion boards (if needed) Deadline of Coursera completion: End of Friday of the week. All students should participate in review slot (if any question) |      |
 
-
 ## Constructive questions
 
+Information not yet provided by the university.
 
 ## Assignments and assessments
 

@@ -1,9 +1,15 @@
-| Subject:    | TMI_ELE -- Traditional musical instrument_Nhạc cụ truyền thống                                                                          |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| Curriculum: | BIT_AI_K19D-20A -- Bachelor Program of Information Technology, Artificial Intelligence (CTĐT ngành CNTT, chuyên ngành Trí Tuệ Nhân Tạo) |
-| Semester:   | 0                                                                                                                                       |
-# Elective
-## TMI_ELE -- Traditional musical instrument_Nhạc cụ truyền thống
+# Pathway: TMI_ELE
+
+## General information
+
+| Key         | Value                                               |
+|-------------|-----------------------------------------------------|
+| Description | Traditional musical instrument_Nhạc cụ truyền thống |
+| Curriculum  | BIT_AI_K19D-20A                                     |
+| Semester    | 0                                                   |
+
+## Elective options
+
 | Subject Code | Syllabus Name                       | Note | IsActive | IsApproved | DecisionNo                    |
 |--------------|-------------------------------------|------|----------|------------|-------------------------------|
 | DTR103       | Nhạc cụ truyền thống-Đàn Tranh      |      | yes      | yes        | 862/QĐ-ĐHFPT dated 08/16/2024 |
