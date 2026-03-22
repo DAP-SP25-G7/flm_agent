@@ -1,0 +1,465 @@
+{
+  "OTP101": {
+    "name": "Orientation and General Training Program_Định hướng và Rèn luyện tập trung",
+    "credits": "0",
+    "semester": "0",
+    "prerequisite": "None"
+  },
+  "PEN": {
+    "name": "Preparation English_Tiếng Anh chuẩn bị",
+    "credits": "0",
+    "semester": "0",
+    "prerequisite": ""
+  },
+  "PHE_COM*1": {
+    "name": "Physical Education 1_Giáo dục thể chất 1",
+    "credits": "2",
+    "semester": "0",
+    "prerequisite": ""
+  },
+  "TMI_ELE": {
+    "name": "Traditional musical instrument_Nhạc cụ truyền thống",
+    "credits": "3",
+    "semester": "0",
+    "prerequisite": ""
+  },
+  "CSI106": {
+    "name": "Introduction to Computer Science_Nhập môn khoa học máy tính",
+    "credits": "3",
+    "semester": "1",
+    "prerequisite": "",
+    "description": "This course provides an overview of computer fundamentals. Topics cover all areas of computer science in breadth such as computer organization, network, operating system, data structure , file structure, social and ethical issues. Major Instructional Areas - Introduction to Von Neumann Model and computer components - Numbering system & data representation - Different data types and operations on data - The concepts of computer networking and internet - Operating system - Introduction to basic algorithms and algorithms representation - Introduction to Data structure and File structure - The concepts of database - Software engineering - Computing Security & Ethics - Introduction to Artificial Intelligence (Additional Learning)"
+  },
+  "MAD101": {
+    "name": "Discrete mathematics_Toán rời rạc",
+    "credits": "3",
+    "semester": "1",
+    "prerequisite": "None",
+    "description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a.1) • Concepts of logical expressions & predicate logic. • The method of induction and recursive definition. • Concepts of algorithms, recursive algorithms, the complexity. • Recurrence relations and divide-and-conquer algorithms. • Application of integers and congruence in information technology. • Set structure and map, counting principles and combinatorics concepts. • The terminologies and properties of graphs & trees & weighted graphs. • The applications of graphs, trees and weighted graphs in information technology.  2. the following skills: (ABET a.2) • Manipulate logical expressions & produce equivalent logical expressions. • Produce proof of simple mathematical propositions, including applying induction method. • Evaluate complexity of algorithms. • Solving simple congruence equations. • Apply counting techniques in evaluating various set cardinalities. • Solve counting problems, apply in analyze algorithms. • Apply graph’s algorithms to solve problems related to graph theory."
+  },
+  "MAE101": {
+    "name": "Mathematics for Engineering_Toán cho ngành kỹ thuật",
+    "credits": "3",
+    "semester": "1",
+    "prerequisite": "None",
+    "description": "Upon finishing the course, students must acquire: 1. the following knowledge: (ABET a1) • The basic concepts of single variable calculus: limit, derivative, integral. • Concepts of linear system of equations, matrix and their applications • The concepts of vector spaces, basis and dimension, linear transformations and their applications. • The range of application of calculus and algebra in science, technology, economics & finance... 2. the following skills: (ABET a2) • Find limit, derivative and integral of functions of single variables; • Find solutions to linear systems by using row-reduced echelon form, Cramer's Rule, inverse matrix • Find determinants and inverse of a matrix • Find linear transformations in R^2 and R^3. • Find dimensions and bases of vector spaces . • Apply the concepts of calculus and algebra in solving problems in science, technology, economics & finance, ..."
+  },
+  "PFP191": {
+    "name": "Programming Fundamentals with Python_Cơ sở lập trình với Python",
+    "credits": "3",
+    "semester": "1",
+    "prerequisite": "",
+    "description": "- Knowledge about programming language has become an essential part of an education in computer science because the realization of ideas, approaches, models, and algorithms is extremely important for the field of education and research as well as production. In order to deploy from an idea to a product, programming language tools are required. - In recent years, python has emerged as a popular, powerful, multitasking and widely applicable 3rd generation language, especially in some new technology fields such as AI, Fintech, Data Science, IoT, and so on. - This course covers the essential aspects of programming, including fundamental concepts, coding design, and the Python programming language, with an emphasis on object-oriented programming (OOP), given its importance for advanced software development and subsequent courses."
+  },
+  "PHE_COM*2": {
+    "name": "Physical Education 2_Giáo dục thể chất 2",
+    "credits": "2",
+    "semester": "1",
+    "prerequisite": ""
+  },
+  "SSA101": {
+    "name": "Kỹ năng học thuật",
+    "credits": "3",
+    "semester": "1",
+    "prerequisite": "None",
+    "description": "This course introduces essential academic skills for university success, focusing on effective study habits, critical and creative thinking, academic communication, and the responsible use of AI. Students will explore three key areas: AI and academic integrity, thinking skills for the digital age, and learning and communication at university. The course emphasizes self-directed learning and helps students manage their study, time, and learning strategies effectively in both traditional and online settings."
+  },
+  "AIG202c": {
+    "name": "Artificial Intelligence_Trí tuệ nhân tạo",
+    "credits": "3",
+    "semester": "2",
+    "prerequisite": "",
+    "description": "This specialization is designed for those with little or no background in AI, whether you have technology background or not, and does not require any programming skills. It is designed to give you a firm understanding of what is AI, its applications and use cases across various industries. Students will become acquainted with terms like Machine Learning, Deep Learning and Neural Networks.  Furthermore, it will familiarize you with IBM Watson AI services that enable any business to quickly and easily employ pre-built AI smarts to their products and solutions. Students will also learn about creating intelligent virtual assistants and how they can be leveraged in different scenarios.  By the end of this specialization, learners will have had hands-on interactions with several AI environments and applications, and have built and deployed an AI enabled chatbot on a website – without any coding.  Learners will perform several no-code hands-on exercises in each of the three courses. At the end of the last course, learners would have developed, tested, and deployed a Watson AI powered customer service chatbot on a website to delight their clients."
+  },
+  "CEA201": {
+    "name": "Computer Organization and Architecture_Tổ chức và Kiến trúc máy tính",
+    "credits": "3",
+    "semester": "2",
+    "prerequisite": "",
+    "description": "This course in an introduction to computer architecture and organization. It will cover topics in both the physical design of the computer (organization) and the logical design of the computer (architecture). The main contents include the organization of a simple stored-program computer: CPU, busses and memory; Instruction sets, machine code, and assembly language; Conventions for assembly language generated by compilers; Floating-point number representation; Hardware organization of simple processors; Address translation and virtual memory; Very introductory examples of input/output devices, interrupt handling and multi-tasking systems. Chapter covered: Computer Evolution and Performance; A Top-Level View of Computer Function and Interconnection; Cache Memory; Internal Memory; External Memory; Input/Output; Operating System Support; Instruction Sets: Characteristics and Functions; Processor Structure and Function; Reduced Instruction Set Computers; Instruction-Level Parallelism and Superscalar Processors; Parallel Processing; Multicore Computers."
+  },
+  "CSD203": {
+    "name": "Data Structures and Algorithm with Python_Cấu trúc dữ liệu và giải thuật với Python",
+    "credits": "3",
+    "semester": "2",
+    "prerequisite": "PFP191",
+    "description": "This course introduces the basic concepts of data structures and algorithms in data structures with the use of Python. Topics introduced in the course include the basics of algorithm analysis, basic data structures (including stack, queue, linked list, hashtable, tree), recursion and some important applications of these data structures and algorithms."
+  },
+  "DBI202": {
+    "name": "Introduction to Databases_Các hệ cơ sở dữ liệu",
+    "credits": "3",
+    "semester": "2",
+    "prerequisite": "",
+    "description": "- Knowledge about database systems has become an essential part of an education in computer science because database management has evolved from a specialized computer application to a central component of a modern computing environment. - The content of this course includes aspects of database management basic concepts, database design, database languages, and database-system implementation. Basing on these contents, the course emphasizes on how to organize, maintain and retrieve efficiently data and information from a DBMS."
+  },
+  "JPD113": {
+    "name": "Elementary Japanese 1- A1.1_Tiếng Nhật sơ cấp 1-A1.1",
+    "credits": "3",
+    "semester": "2",
+    "prerequisite": "Không",
+    "description": "I. Orientation requirements for course implementation: The course provides basic knowledge and skills of Japanese at elementary level 1 (equivalent to A1 level) for students learning Japanese as a second foreign language at University. II. Course Objectives: After completing the course, students can achieve the following goals: 1) Proficiency in writing and reading the Japanese alphabet (Hiragana, Katakana) 2) Master about 200 basic vocabulary words, the writing and reading of more than 30 Kanji characters, and about 20 basic grammar structures used in elementary conversation. 3) Understand and use familiar expressions used in daily life to meet specific communication needs such as self-introduction (name, nationality, occupation, hobbies, etc.); asking for locations, communicating with staff to ask for prices, ordering food, etc.; telling about daily activities, asking about the working hours of organizations. 4) Practice teamwork skills and self-development through group activities in class (role play...) and extracurricular activities."
+  },
+  "PHE_COM*3": {
+    "name": "Physical Education 3_Giáo dục thể chất 3",
+    "credits": "2",
+    "semester": "2",
+    "prerequisite": ""
+  },
+  "ADY201m": {
+    "name": "AI, DS with Python & SQL_TTNT và KHDL với Python và SQL",
+    "credits": "3",
+    "semester": "3",
+    "prerequisite": "PFP191, DBI202",
+    "description": "The course covers relational database concepts, foundational knowledge of the SQL language. The students will learn some popular tools for data science, understand a methodology that can be used within data science, meet some data science practitioner, understand data gathering, summarize data using descriptive statistics, display and visualize data."
+  },
+  "ITE303c": {
+    "name": "Ethics in IT_Đạo đức trong CNTT",
+    "credits": "3",
+    "semester": "3",
+    "prerequisite": "",
+    "description": "As machine learning models begin making important decisions based on massive datasets, we need to be aware of their limitations. In this specialization, we will explore the rise of algorithms, fundamental issues of fairness and bias in machine learning, and basic concepts involved in security and privacy of machine learning projects. We'll finish with a study of 3 projects that will allow you to put your new skills into action."
+  },
+  "JPD123": {
+    "name": "Elementary Japanese 1-A1.2_Tiếng Nhật sơ cấp 1-A1.2",
+    "credits": "3",
+    "semester": "3",
+    "prerequisite": "JPD113",
+    "description": "I. Orientation requirements for course implementation: The course provides basic knowledge and skills of Japanese at elementary level 1 (equivalent to A1.2 level) for students learning Japanese as a second foreign language at University. This course is the follow-up module to JPD113. II. Course Objectives: After completing this course, students can: 1. Introduce their place of origin: such as characteristics of their hometown, food, climate, and famous places. 2. Talk to friends about plans or regular tasks. 3. Invite or suggest friends to participate in an activity; exchange information and discuss to agree on a location and appointment schedule. 4. Simply convey the surrounding situation to others. Additionally, can ask for favors or propose doing something together. 5. Master nearly 300 basic vocabulary words, the writing and reading of more than 40 Kanji characters, and nearly 30 basic grammar structures used in elementary conversation. 6. Practice teamwork skills and self-development through in-class group activities (role play...) and extracurricular activities."
+  },
+  "MAI391": {
+    "name": "Mathematics for Machine Learning_Toán cho học máy",
+    "credits": "3",
+    "semester": "3",
+    "prerequisite": "MAE101",
+    "description": "This course introduces the mathematical concepts and foundations needed to talk about the three main components of a machine learning system: data, models, and learning. Upon this course, students will be able to understand: • Foundametal concepts about matrices and matrix decomposition. • Concepts of gradients. • The basics of probability and some distributions. • Optimization to find maxima/minima of functions. • Dimensionality reduction using principal component analysis. • Classification in the context of support vector machines. Method of teaching and learning: Lecture and project based learning"
+  },
+  "MAS291": {
+    "name": "Statistics & Probability_Xác suất thống kê",
+    "credits": "3",
+    "semester": "3",
+    "prerequisite": "MAE101 or MAC101",
+    "description": "Upon finishing the course, students must acquire: 1. the following knowledge:(ABET a1) • The fundamental principles of probability and their applications • The frequently used probability distributions. • The basics of descriptive statistics • The inferences of statistics: parameter estimations, hypothesis testing, regressions & correlations. 2. the following skills: (ABET a2) • Recognize simple statistical models and applied them to solve engineering problems. • Use at least one statistical software (Excel, Maxima) for problem solving. • Self-study skill. (ABET i)"
+  },
+  "AIL303m": {
+    "name": "Machine Learning_Học máy",
+    "credits": "3",
+    "semester": "4",
+    "prerequisite": "MAS291, MAI391, PFP191",
+    "description": "The course provides an introduction to Exploratory Data Analysis for Machine Learning (common techniques to retrieve your data, clean it, apply feature engineering, and have it ready for preliminary analysis and hypothesis testing), Supervised Machine Learning (how to train models to predict outcomes and how to use error metrics to compare across different supervised models), , Unsupervised Machine Learning (how to find insights from data sets that do not have a target or labeled variable. Learners will learn several clustering and dimension reduction algorithms for unsupervised learning as well as how to select the algorithm that best suits your data)."
+  },
+  "CPV301": {
+    "name": "Computer Vision_Thị giác máy tính",
+    "credits": "3",
+    "semester": "4",
+    "prerequisite": "PFP191, CSD203",
+    "description": "-This course provides the basics of computer vision. -Students will have access to knowledge from image representation, lighting, image acquisition through the camera, camera calibration techniques. -Learn line and edge detection techniques in images, filters as well as Canny, RANSAC methods -Students will learn advanced image processing knowledge such as Image segmentation, object detection, object recognition, and object tracking. -Implement a computer vision project in recognizing objects in photos or videos"
+  },
+  "DAP391m": {
+    "name": "AI-DS Project_Dự án TTNT-KHDL",
+    "credits": "3",
+    "semester": "4",
+    "prerequisite": "PFP191, ADY201m",
+    "description": "This course will take student from the basics of data analysis with Python to building and evaluating data models. The students will learn to work with some Data Visualization tools and techniques and create interactive dashboards that allow even those without any Data Science experience to better understand data, and make more effective and informed decisions. A student will be able to write an application that leverages multiple Watson AI services. This course allows students to practice data scientists' work in real life when working with datasets."
+  },
+  "SSG105": {
+    "name": "Kỹ năng giao tiếp và cộng tác",
+    "credits": "3",
+    "semester": "4",
+    "prerequisite": ""
+  },
+  "SWE201c": {
+    "name": "Introduction to Software Engineering_Nhập môn kĩ thuật phần mềm",
+    "credits": "3",
+    "semester": "4",
+    "prerequisite": "PRO192 (not applied to the BIT_AI and BA programs)",
+    "description": "SWE201c is for people who are new to software engineering. It's also for those who have already developed software, but wish to gain a deeper understanding of the underlying context and theory of software development practices.  At the end of this course, we expect learners to be able to:  1.) Build high-quality and secure software using SDLC methodologies such as agile, lean, and traditional/waterfall.  2.) Analyze a software development team's SDLC methodology and make recommendations for improvements.  3.) Compare and contrast software development methodologies with respect to environmental, organizational, and product constraints."
+  },
+  "AI17_COM*1": {
+    "name": "Subject 1 of Combo*_Học phần 1 của combo*",
+    "credits": "3",
+    "semester": "5",
+    "prerequisite": ""
+  },
+  "AI17_COM*2": {
+    "name": "Subject 2 of Combo*_Học phần 2 của combo*",
+    "credits": "3",
+    "semester": "5",
+    "prerequisite": ""
+  },
+  "DPL302m": {
+    "name": "Deep Learning_Học sâu",
+    "credits": "6",
+    "semester": "5",
+    "prerequisite": "AIL303m",
+    "description": "In this course, student will build and train neural network architectures such as Convolutional Neural Networks, Recurrent Neural Networks, LSTMs, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, chatbots, machine translation, natural language processing, and more."
+  },
+  "DWP301c": {
+    "name": "Web Development with Python_Phát triển Web với Python",
+    "credits": "3",
+    "semester": "5",
+    "prerequisite": "PFP191",
+    "description": "In this course, you will learn to build your own cloud-based applications and work with the technologies behind them. This program consists of 10 courses with ample instructional content as well as hands-on exercises and projects designed to hone your skills and help you build your portfolio. You'll skill up with the tools and technologies that successful software developers use to build, deploy, test, run, and manage Full Stack Cloud Native applications, giving you the practical skills to begin a new career in an in-demand area. The courses in this program will help you develop skill sets in many technologies including: Cloud foundations, HTML, CSS, JavaScript, GitHub, Node.js, React, Cloud Native practices, DevOps, CI/CD, Containers, Docker, Kubernetes, OpenShift, Istio, Python, Databases, SQL, NoSQL, Django ORM, Bootstrap, Application Security, Microservices, Serverless computing, and more. After completing all the courses in the program, including the capstone project, you will have developed several applications using front-end and back-end technologies and deployed them on a cloud platform using Cloud Native methodologies."
+  },
+  "NLP301c": {
+    "name": "Natural Language Processing_Xử lý ngôn ngữ tự nhiên",
+    "credits": "3",
+    "semester": "6",
+    "prerequisite": "AIL30x and (PRP201c or PFP191)",
+    "description": "Natural Language Processing (NLP) uses algorithms to understand and manipulate human language. This technology is one of the most broadly applied areas of machine learning. As AI continues to expand, so will the demand for professionals skilled at building models that analyze speech and language, uncover contextual patterns, and produce insights from text and audio. By the end of this Specialization, students will be ready to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages and summarize text, and even build chatbots."
+  },
+  "OJT202": {
+    "name": "On-The-Job Training_Đào tạo trong môi trường thực tế",
+    "credits": "10",
+    "semester": "6",
+    "prerequisite": "Students attained 90% of the total credits prior to the OJT term (excluding Physical Education and OTP Programs) Students choosing JS combo (Japanese Bridge Engineer) have to pass JPD133"
+  },
+  "AI17_COM*3": {
+    "name": "Subject 3 of Combo*_Học phần 3 của combo*",
+    "credits": "3",
+    "semester": "7",
+    "prerequisite": ""
+  },
+  "DAT301m": {
+    "name": "AI Development with TensorFlow_Phát triển UDTTNT với TensorFlow",
+    "credits": "3",
+    "semester": "7",
+    "prerequisite": "CPV301, DPL302m",
+    "description": "Learn how to build real-world AI applications with TensorFlow! In this hands-on course, you’ll train neural networks for computer vision, apply techniques like data augmentation, dropout, and transfer learning, and build natural language processing systems using RNNs, GRUs, and LSTMs. Through project-based learning, you’ll gain practical experience creating image classifiers, object detectors, and text generators—preparing you with the skills to design and deploy powerful AI solutions."
+  },
+  "ENW493c": {
+    "name": "Research Methods & Academic Writing Skills_Phương pháp nghiên cứu & Kỹ năng viết học thuật",
+    "credits": "3",
+    "semester": "7",
+    "prerequisite": "",
+    "description": "This specialization provides a comprehensive framework for mastering academic research methods and writing skills. The five courses progressively guide learners through the entire research process, from understanding fundamental research methods to conducting independent research. You will develop critical skills in forming research questions, choosing appropriate methodologies, and gathering and analyzing data. Additionally, you will learn how to structure your research findings and present them in a clear, academic format."
+  },
+  "EXE101": {
+    "name": "Experiential Entrepreneurship 1_Trải nghiệm khởi nghiệp 1",
+    "credits": "3",
+    "semester": "7",
+    "prerequisite": "None",
+    "description": "- This course will provide students with essential knowledge and tips on starting a start-up efficiently and effectively. - The course covers the most important aspects of modern entrepreneurship. - Students will study by watching videos shared by prolific startup founders on various topics. Each week, there will be a face-to-face session with an instructor, typically a faculty lecturer of business administration experimented in entrepreneurship, who will re-cap and check on students' understanding of the week's main topic. Students are grouped into teams of 4 to 6. Each team must be formed from at least 2 different majors. - Each team will have to develop a startup idea and work on the project with guidance and support from instructors and mentors throughout the course. - There will be seminars or workshops with guest speakers who are entrepreneurs or venture capitalists, who will share their extensive experience and unique perspective in the entrepreneurial world of startups."
+  },
+  "PMG201c": {
+    "name": "Project Management",
+    "credits": "3",
+    "semester": "7",
+    "prerequisite": "None",
+    "description": "This intensive and hands-on series of courses gives you the skills to ensure your projects are completed on time and on budget while giving the user the product they expect. You will gain a strong working knowledge of the basics of project management and be able to immediately use that knowledge to effectively manage work projects. At the end of the series you will be able to identify and manage the product scope, build a work breakdown structure, create a project plan, create the project budget, define and allocate resources and identify and manage risks, and then you will be able to manage the project development."
+  },
+  "AI17_COM*4": {
+    "name": "Subject 4 of Combo*_Học phần 4 của combo*",
+    "credits": "3",
+    "semester": "8",
+    "prerequisite": ""
+  },
+  "AID301c": {
+    "name": "AI in Production_Thiết kế sản phẩm TTNT",
+    "credits": "3",
+    "semester": "8",
+    "prerequisite": "SWE201c, AIL303m",
+    "description": "This six course specialization is designed to prepare you to take the certification examination for IBM AI Enterprise Workflow V1 Data Science Specialist. IBM AI Enterprise Workflow is a comprehensive, end-to-end process that enables data scientists to build AI solutions, starting with business priorities and working through to taking AI into production. The learning aims to elevate the skills of practicing data scientists by explicitly connecting business priorities to technical implementations, connecting machine learning to specialized AI use cases such as visual recognition and NLP, and connecting Python to IBM Cloud technologies. The videos, readings, and case studies in these courses are designed to guide you through your work as a data scientist at a hypothetical streaming media company. Throughout this specialization, the focus will be on the practice of data science in large, modern enterprises. You will be guided through the use of enterprise-class tools on the IBM Cloud, tools that you will use to create, deploy and test machine learning models. Your favorite open source tools, such as Jupyter notebooks and Python libraries will be used extensively for data preparation and building models. Models will be deployed on the IBM Cloud using IBM Watson tooling that works seamlessly with open source tools."
+  },
+  "EXE201": {
+    "name": "Experiential Entrepreneurship 2_Trải nghiệm khởi nghiệp 2",
+    "credits": "3",
+    "semester": "8",
+    "prerequisite": "EXE101",
+    "description": "In Experiental Entrepreneurship 2, groups of students will develop product/service for their start-up ideas prepared from Experiental Entrepreneurship 1 and deploy sales and find real customers for their group's products/services. There is no mandatory content for this course, just a list of suggested lectures/talks that students can view to get useful tips and experiences for project realization. In addition, there will be seminars and workshops with related topics planned and implemented each semester according to actual needs and implementation situation."
+  },
+  "MLN111": {
+    "name": "Philosophy of Marxism – Leninism_Triết học Mác - Lê-nin",
+    "credits": "3",
+    "semester": "8",
+    "prerequisite": "None",
+    "description": "Giới thiệu môn học: Triết học Mác - Lênin nghiên cứu những quan điểm duy vật biện chứng về tự nhiên, xã hội, tư duy và nhờ đó thế giới quan duy vật biện chứng trở thành toàn diện và triệt để. Áp dụng và mở rộng quan điểm duy vật biện chứng vào nghiên cứu xã hội, Mác đã đưa ra được quan niệm duy vật về lịch sử, chỉ ra con đường nghiên cứu những quy luật của sự phát triển xã hội, cũng như sự phát triển của tự nhiên, không phải do ý muốn chủ quan mà do những quy luật khách quan quyết định. Sự ra đời của Triết học Mác - Lênin đã đặt cơ sở cho việc nghiên cứu lịch sử và đời sống xã hội thực sự có tính chất khoa học. Course introduction: Philosophy of Marxism – Leninism studies dialectical materialistic views on nature, society, and the mind, making the worldview of dialectical materialism becomes comprehensive. Applying and expanding the dialectical materialist perspective to social research, Marx has introduced historical materialism and pointed out the way to study the laws of social development and natural development governed by objective laws rather than subjective factors. The development of Marxism – Leninism philosophy has laid the foundation for the study of history and social life in a scientific way.  Môn học Triết học Mác-Lênin nhằm giúp cho sinh viên: Cung cấp những hiểu biết có tính căn bản, hệ thống về triết học Mác - Lênin. Xây dựng thế giới quan duy vật và phương pháp luận biện chứng duy vật làm nền tảng lí luận cho việc nhận thức các vấn đề, nội dung của các môn học khác. Nhận thức được thực chất giá trị, bản chất khoa học, cách mạng của triết học Mác - Lênin. Dịch chuyển từ \"truyền thụ kiến thức một chiều\" sang hình thành tư duy phản biện, năng lực lý luận và ứng dụng thực tiễn, nhấn mạnh vai trò công dân và tinh thần trách nhiệm xã hội. “The course Marxist–Leninist Philosophy aims to help students: provide fundamental and systematic knowledge of Marxist–Leninist philosophy; develop a materialist worldview and dialectical materialist methodology as a theoretical foundation for understanding issues and the content of other subjects; recognize the true value, scientific nature, and revolutionary essence of Marxist–Leninist philosophy; and shift from ‘one-way knowledge transmission’ to the development of critical thinking, reasoning competence, and practical application, with an emphasis on civic roles and social responsibility.  Nội dung môn học bao gồm các chương: Chương 1: Trình bày những nét khái quát nhất về triết học, triết học Mác – Lênin và vai trò của triết học Mác – Lênin trong đời sống xã hội. Chương 2: Trình bày những nội dung cơ bản của chủ nghĩa duy vật biện chứng, gồm vấn đề vật chất và ý thức; phép biện chứng duy vật; lý luận nhận thức của chủ nghĩa duy vật biện chứng. Chương 3: Trình bày những nội dung cơ bản của chủ nghĩa duy vật lịch sử, gồm vấn đề hình thái kinh tế - xã hội; giai cấp và dân tộc; nhà nước và cách mạng; ý thức xã hội; triết học về con người. The course includes chapters: Chapter 1: Present an overview of philosophy, Marxism – Leninism philosophy, and the role of Marxist-Leninist philosophy in social life. Chapter 2: Present basic issues of dialectical materialism including matter and consciousness; materialistic dialectics; cognition theory of dialectical materialism. Chapter 3: Present basic issues of historical materialism including the theory of socio-economic forms, class and peoples; state and revolution; social consciousness; philosophical theory of humans.  Phương pháp dạy học: Thuyết giảng và kết hợp trình chiếu các slide bài giảng, ứng dụng AI hỗ trợ quá trình học. Hướng dẫn, giao bài tập đề tài theo nhóm. Tổ chức và hướng dẫn sinh viên thảo luận nhóm, thuyết trình và thực hiện sản phẩm sáng tạo Teaching methods: Lecturing combined with slide presentations, and applying AI to support the learning process. Providing instructions and assigning group projects. Organizing and guiding students in group discussions, presentations, and the creation of creative products."
+  },
+  "MLN122": {
+    "name": "Political economics of Marxism – Leninism_Kinh tế chính trị Mác - Lê-nin",
+    "credits": "2",
+    "semester": "8",
+    "prerequisite": "None",
+    "description": "Course introduction: Political economics of Marxism – Leninism is an economic theory and scientific discipline on political economy developed by C. Marx, Engels and later Lenin in a new period, focusing on the capitalist mode of production and the production and economic exchange relations consistent with the capitalist mode of production, thereby clarifying the nature and phenomena of economic processes, laying a foundation to solve matters related to theories of Marxism - Leninism. The core of the Marxist-Leninist political economy is the surplus value theory of Marx.  Course objectives: + Provide core knowledge of Marxist–Leninist Political Economy, ensuring fundamental, systematic, and scientific foundations, connected with practical realities and updated knowledge. Ensure basic, systematic, scientific qualities, updating new knowledge, linked to reality, creativity, skills, thinking, and learner qualities. Improve continuity, overcome duplication, increase integration and reduce load, removing content that is no longer appropriate or purely academic for students at non-theoretical vocational schools and universities. + Develop analytical and evaluative thinking, identifying the essence of economic interest relations in socio-economic development, linked with social responsibility and future career positions. + Strengthen the standpoint and ideological consciousness of Marxism–Leninism among students. + Foster critical thinking, reasoning competence, and practical application, particularly in the context of industrialization, modernization, scientific and technological advancement, and the development of the private sector within the socialist-oriented market economy. Emphasize civic roles and social responsibility. Content of the course: Political economics of Marxism – Leninism focuses on investigating economic relations in capitalist society and in-depth studies on laws of this economy, namely: + Mention about commodities, commodity production and economic laws of commodity production (in capitalism) + Concentrate on analyzing basic economic laws of capitalism with the main focus is surplus value production + Analysis of the movement of specific capitalism and social capital reproduction + Consider forms of capitalism and forms of surplus value + Study monopoly capitalism and State monopoly capitalism + Research on the socialist-oriented market economy in Vietnam + Analysis of Vietnam’s process of industrialization, modernization, and international economic integration in the context of the contemporary era Teaching methods: Lecturing combined with slide presentations, and applying AI to support the learning process. Providing instructions and assigning group projects. Organizing and guiding students in group discussions, presentations, and the creation of creative products."
+  },
+  "REL301m": {
+    "name": "Reinforcement Learning_Học tăng cường",
+    "credits": "3",
+    "semester": "8",
+    "prerequisite": "AIL303m, DPL302m",
+    "description": "This course helps students understand the concepts of Reinforcement Learning including the space of RL algorithms (Temporal- Difference learning, Monte Carlo, Sarsa, Q-learning, Policy Gradients, Dyna, and more). Students will understand how to formalize these tasks as a Reinforcement Learning problem. Students will learn how RL fits under the broader umbrella of machine learning, and how it complements deep learning, supervised and unsupervised learning. Students can implement a complete RL solution and understand how to apply AI tools to solve real-world problems."
+  },
+  "AI17_GRA_ELE": {
+    "name": "Học phần lựa chọn Đồ án tốt nghiệp chuyên ngành Trí Tuệ Nhân Tạo",
+    "credits": "10",
+    "semester": "9",
+    "prerequisite": ""
+  },
+  "HCM202": {
+    "name": "Ho Chi Minh Ideology_Tư tưởng Hồ Chí Minh",
+    "credits": "2",
+    "semester": "9",
+    "prerequisite": "MLN111, MLN122",
+    "description": "Course introduction: Ho Chi Minh ideology is the crystallization of the thousand-year-old traditions of national construction and defense of the Vietnamese people. On that basis, Ho Chi Minh ideology has filtered the intellectual seeds of the East and the West, creatively applying and developing Marxism-Leninism into the specific conditions of our country. From a philosophical perspective, Ho Chi Minh Thought is a comprehensive and profound system of views on the fundamental issues of the Vietnamese revolution. The goal of Ho Chi Minh Thought is to move toward class liberation, national liberation, and human liberation. Therefore, Ho Chi Minh Thought has become an invaluable spiritual asset and the banner leading the Vietnamese revolution from one victory to another.  Course Objectives: - Knowledge: Students understand the basic knowledge of concepts, origins, formation, and development of Ho Chi Minh Thought; the core contents of Ho Chi Minh Thought; and its application by the Communist Party of Vietnam in the people’s democratic revolution and in the socialist revolution. - Skills: Students develop the ability for independent thinking, analysis, evaluation, and the creative application of Ho Chi Minh Thought to solve practical problems in daily life, academic work, and professional activities. - Attitudes: Students strengthen their political courage and patriotism, remaining loyal to the goal and ideal of national independence combined with socialism; recognize the role and value of Ho Chi Minh Thought for the Party and the Vietnamese nation; and understand their personal responsibility in learning and self-improvement to contribute to national construction and defense. Content of the course: The module consists of 6 chapters providing students with basic knowledge of the Object, research methods, and meaningful learning of the course Ho Chi Minh ideology; the basis and the process of formation and development of Ho Chi Minh ideology; national independence associated with socialism; the Communist Party and State of the Socialist Republic of Vietnam; the great unity bloc with international solidarity; and culture, ethics, and people. Teaching method: Giving lectures combined with slide presentations. Guiding and assigning group work assignments. Organizing and guiding students in group discussions, presentations, and the development of creative products (referencing and applying AI software in a responsible manner)."
+  },
+  "MLN131": {
+    "name": "Scientific socialism_Chủ nghĩa xã hội khoa học",
+    "credits": "2",
+    "semester": "9",
+    "prerequisite": "MLN111, MLN122",
+    "description": "Course introduction: Scientific socialism is one of the three parts of Marxism-Leninism. Scientific socialism is based on the philosophical methodology of dialectical materialism and historical materialism as well as scientific theoretical foundations of economic laws and economic relations to scientifically explain the advent of the socialist revolution, the formation and development of the communist socio-economic form, associated with the historical mission of the working class, to liberate people and society.  Knowledge: Students will acquire the fundamental and core knowledge of Scientific Socialism, one of the three components of Marxism–Leninism. Skills: Students will enhance their capacity to understand practical realities and apply the knowledge of Scientific Socialism in analyzing and evaluating political and social issues of the country related to socialism and the path toward socialism in Vietnam. Attitude: Students will develop a correct political attitude and ideology toward the subject of Scientific Socialism in particular, and the ideological foundation of the Communist Party in general. To develop critical thinking, reasoning competence, and the ability to apply theories to personal and social life. To emphasize civic roles and social responsibility. Content of the course: The course includes 7 chapters: Chapter 1 presents basic introductory issues of Scientific Socialism (the advent and development of Scientific Socialism); Chapter 2 to Chapter 7 present the basic knowledge of Scientific Socialism to clarify the objective laws of the socialist revolution process. Teaching methods: Lecturing combined with slide presentations, and applying AI to support the learning process. Providing instructions and assigning group projects. Organizing and guiding students in group discussions, presentations, and the creation of creative products."
+  },
+  "VNR202": {
+    "name": "History of Communist Party of Vietnam_Lịch sử Đảng Cộng sản Việt Nam",
+    "credits": "2",
+    "semester": "9",
+    "prerequisite": "MLN111, MLN122",
+    "description": "Course introduction: The History of the Communist Party of Vietnam (CPV) is a major and a division of historical science. President Ho Chi Minh affirmed that the history of the CPV is a \"phoenix history written in gold.\" This reflects the scientific, revolutionary, and profound practical value in the Party's platforms and guidelines; it showcases proper leadership and timely responses to requirements set by history, as well as the theoretical lessons of the Vietnamese revolution and the glorious traditions of the Party. Studying this history requires not only mastering historical milestones but also understanding the rich issues in the process of leadership and struggle to apply them to the current period of comprehensive renovation, industrialization, modernization, and international integration.  Course Objectives: - Knowledge: Students will understand basic and systematic knowledge of the establishment of the CPV (1920–1930); the Party’s leadership in the struggle for power (1930–1945); the Party’s leadership in the two wars against French colonialism and U.S. imperialism (1945–1975); and the Party’s leadership in the national transition to socialism and the Doi Moi reforms (1975–2018). - Attitudes: Through historical events and experiences of leadership, students will develop respect for objective truth, and deepen pride and confidence in the Party’s leadership in the past and present. - Skills: Students will develop scientific thinking about history, skills in selecting research materials, and the ability to apply historical knowledge in practice while critically evaluating misconceptions about the Party’s history.  Course Content: This course provides students with basic knowledge of the objects, purposes, tasks, and research methods of the History of CPV. It covers the systematic knowledge of the Party establishment (1920 - 1930) and the process of leading the Vietnamese revolution from 1930 to the present, affirming successes while identifying limitations and experiences. The content includes 3 main chapters: - Chapter 1: The CPV was founded and led the rise to power (1930-1945); - Chapter II: The Party led two resistance wars, completing national liberation and reunification (1945 - 1975); - Chapter III: The Party led the national transition to socialism and carried out the Doi Moi reforms (1975-2018). Through this, students summarize experiences to enhance awareness and develop the ability to apply knowledge to practical work, contributing to the defense of a socialist Vietnam.  Teaching Method: Lectures combined with slide presentations. Guiding group-work assignments. Organizing group discussions, presentations, and creative products (with responsible and ethical use of AI tools)."
+  },
+  "AIH301m": {
+    "name": "AI in Healthcare_Ứng dụng TTNT trong chăm sóc sức khỏe",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "No",
+    "description": "Artificial intelligence (AI) has transformed industries around the world, and has the potential to radically alter the field of healthcare. The aim of this unit is to introducethe current and future applications of AI in healthcare with the goal of learning to bring AI technologies into the clinic safely and ethically. Students will be guided to analyze data on patient, such as diseases, medications, tests, or valuable health information, and get a sense of how AI could transform patient care and diagnoses."
+  },
+  "AIM301m": {
+    "name": "AI for Medicine_Ứng dụng TTNT cho y học",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "PFP191",
+    "description": "Artificial intelligence (AI) has transformed industries around the world, and has the potential to radically alter the field of healthcare. The aim of this unit is to introducethe current and future applications of AI in healthcare with the goal of learning to bring AI technologies into the clinic safely and ethically. Students will be guided to analyze data on patient, such as diseases, medications, tests, or valuable health information, and get a sense of how AI could transform patient care and diagnoses."
+  },
+  "AIP491": {
+    "name": "AI Capstone Project_Đồ án tốt nghiệp TTNT",
+    "credits": "10",
+    "semester": "",
+    "prerequisite": "- Student must pass Deep Learning (DPL30x). - Pass OJT202 - Pass PMG20x - Pass 60% of total credits of selected combo - Pass 80% of total credits (PHE_COM* and OJT excluded)",
+    "description": "The AI Capstone Project course is an integrative experience that consolidates the knowledge and skills acquired from the undergraduate AI curriculum into a practical, real-world application. The design of this course challenges students to apply their analytical, problem-solving, and technical skills to solve complex problems using AI technologies.  Throughout this course, students will engage with all facets of the AI project development lifecycle, including problem identification, data collection and preprocessing, model design and implementation, evaluation, and deployment. Students will gain a comprehensive understanding of the professional standards and expectations required to successfully execute a project of this nature.  This course is structured to be completed by small groups of 3-4 students, fostering collaboration and teamwork. Each group will be assigned a supervisor, who will offer critical support and guidance throughout the research and development process. The supervisor will assist students in refining their project ideas, conducting thorough research, developing and implementing AI solutions, composing a report on their capstone project, and preparing for the final presentation in front of the examination board.  By the end of the course, students will have not only deepened their understanding of AI principles and techniques but also demonstrated their ability to apply these concepts effectively in a team-based project. This capstone project not only serves as a significant portfolio piece but also prepares students for professional careers in the field of artificial intelligence."
+  },
+  "ASR301c": {
+    "name": "AI for Scientific Research_TTNT cho Nghiên cứu khoa học",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "",
+    "description": "This course is about using AI in scientific situations to discover trends and patterns within datasets. Course 1 teaches a little about the Python language related to data science. We'll share some existing libraries to help analyze your datasets. By the end of the course, you'll apply a classification model to predict the presence or absence of heart disease from a patient's health data. Course 2 covers the complete machine learning pipeline, from reading in, cleaning, and transforming data to running basic and advanced machine learning algorithms. In the final project, we'll apply our skills to compare different machine learning models in Python. In Course 3, we will build on our knowledge of basic models and explore more advanced AI techniques. We’ll describe the differences between the two techniques and explore how they differ. Then, we’ll complete a project predicting similarities between health patients using random forests. In Course 4, a capstone project course, we'll compare genome sequences of COVID-19 mutations to identify potential areas a drug therapy can look to target. By the end, you'll be well on your way to discovering ways to combat disease with genome sequencing."
+  },
+  "BDI302c": {
+    "name": "Big Data_Dữ liệu lớn",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "",
+    "description": "This course covers 5 of 6 courses of Big Data Specialization (UC San Diego) on the Coursera platform. This course will prepare students to ask the right questions about data, communicate effectively with data scientists, and do basic exploration of large, complex datasets. By following along with provided code, students will experience how one can perform predictive modeling and leverage graph analytics to model problems. They will be guided through the basics of using Hadoop with MapReduce, Spark, Pig and Hive."
+  },
+  "DBA103": {
+    "name": "Nhạc cụ truyền thống - Đàn Bầu",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "1. Knowledge: - Understand specific characteristics of the historical development and structure of Dan Bau. - Familiarize students with music theory and basic techniques of Dan Bau. 2. Skills: - Be able to play at least 3 songs including 1 common foreign song and properly apply basic techniques. - The course will be implemented in class units of about 15 students/class. During the course, students will learn: - Historical development of Dan Bau in Vietnam. - Structure and characteristics of Dan Bau. - Postures when playing Dan Bau. - Music theory and basic techniques, including: + Plucking strings + Raise or lower the pitch to play the major second interval. - Practice playing Vietnamese songs: Co la, ly cay da (ensemble performance). Foreign songs: Auld lang syne (Scottish folk song). * Apply IT in the course: a) Update information and resources on the internet: Provide web addresses and traditional music clips. b) Use of online resources: Lecturers use resources selectively based on course regulations and then provide them to students. Instruct students to find information on certain topics on the Internet. * Soft skills development and personal development: - Improve students' perseverance and help them become more confident in front of the crowd. - Develop students' ability to work in groups and work independently through the tasks assigned by the lecturer."
+  },
+  "DBM302m": {
+    "name": "Data Mining_Khai phá dữ liệu",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "",
+    "description": "- This course introduces the key steps involved in the data mining pipeline, including data understanding, data preprocessing, data warehousing, data modeling, interpretation and evaluation, and real-world applications. - Students will learn the general concepts of data mining along with basic methodologies and applications. Then dive into one subfield in data mining: pattern discovery. Learn in-depth concepts, methods, and applications of pattern discovery in data mining. This courser will introduce methods for pattern-based classification and some interesting applications of pattern discovery. It also provides you the opportunity to learn skills and content to practice and engage in scalable pattern discovery methods on massive transactional data, discuss pattern evaluation measures, and study methods for mining diverse kinds of patterns, sequential patterns, and sub-graph patterns."
+  },
+  "DNG103": {
+    "name": "Nhạc cụ truyền thống-Đàn nguyệt",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "1. Knowledge: - Understand specific characteristics of the historical development and structure of Dan Nguyet. - Familiarize students with music theory and basic techniques of Dan Nguyet. - Learn about the system of letters Do Re Fa (Hò xự xang)... 2. Skills: - Be able to play 4 songs and 1 common foreign song and properly apply basic techniques (3 Vietnamese songs including Ho Quang, Co la, Thang Cuoi or Xuan phong long ho, Ly cay da and 1 foreign song - Auld lang syne). - The course will be implemented in class units of about 15 students/class. During the course, students will learn: - Historical development of Dan Nguyet in Vietnam. - Structure and characteristics of Dan Nguyet. - The playing posture. - Music theory and basic techniques, including: + Right hand plucking + Press with 3 fingers + Combine plucking and pressing together. - Practice playing: Xang xe, Ma vu, Ly cay bong. Foreign songs: Auld lang syne - Scottish folk song, or Variation on the French folk theme by Mozart. * Apply IT in the course: a) Update information and resources on the internet: Provide web addresses and traditional music clips. b) Use of online resources: Lecturers use resources selectively based on course regulations and then provide them to students. Instruct students to find information on certain topics on the Internet. * Soft skills development and personal development: - Improve students' perseverance and help them become more confident in front of the crowd. - Develop students' ability to work in groups and work independently through the tasks assigned by the lecturer."
+  },
+  "DNH103": {
+    "name": "Nhạc cụ truyền thống- Đàn Nhị",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "1. Knowledge: - Understand specific characteristics of the historical development and structure of Dan Nhi. - Familiarize students with music theory and basic techniques of Dan Nhi (right-hand bowing and left-hand fingers 1, 2, 3). 2. Skills: - Be able to play 5 songs including 1 foreign song, 2 children's songs, 1 folk song, and 1 Hue-style song while properly applying basic techniques. Students can perform the Hue and folk songs in ensemble. - Course conducted in class units of approximately 15 students. During the course, students will learn: - Historical development of Dan Nhi in Vietnam and other countries (China, Korea, Japan). - Structure and characteristics of Dan Nhi. - Playing posture. - Music theory and basic techniques (right-hand bowing and left-hand pressing with fingers 1, 2, 3). - Play 4 Vietnamese songs: Inh la oi, Vao rung hoa, Ly cay da, Xang xe. - Play 1 foreign song: \"Khat vong mua xuan\" or Happy Birthday. * Apply IT in the course: a) Provide online resources: web addresses, traditional music clips. b) Use of online resources: lecturers selectively provide resources and guide students in finding information. * Soft skills & Personal development: - Improve perseverance and confidence. - Develop teamwork and independent work skills through assigned tasks."
+  },
+  "DSA103": {
+    "name": "",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "Không None",
+    "description": "1. Kiến thức/Knowledge - Nắm được những nét đăc trựng về lịch sử phát triển và cấu trúc của Sáo trúc Việt Nam Understand specific characteristics of the historical development and structure of Sao Truc/Bamboo Flute - Làm quen với nhạc lý và những kỹ thuật cơ bản của Sáo trúc Familiarize students with music theory and basic techniques of Sao Truc  2. Kỹ năng/Skills - Đánh được tối thiểu 3 bài trong đó có 1 bài nhạc nước ngoài ỏ mức thông dụng vận dụng được đúng các kỹ thuật cơ bản: Inh lả ơi hoặc xòe hoa, Lý cây bông và 1 bài nhạc quốc tế (Happy birthday, hoặc Jumeo and Julies) Be able to play at least 3 songs including 1 common foreign song and properly apply basic techniques: Inh la oi or Xoe hoa, Ly cay bong and 1 foreign song (Happy Birthday or Jumeo and Julies)  - Môn học sẽ được triển khai theo đơn vị lớp cỡ khoảng 15 sinh viên/lớp. There will be about 15 students/class. Trong quá trình học, sinh viên sẽ được giới thiệu, hướng dẫn tìm hiểu và thực hành về các nội dung sau: In this course, students will learn: - Lịch sử phát triển của Sáo trúc ở Việt Nam Historical development of Sao truc in Vietnam - Cấu trúc và đặc điểm của Sáo trúc Structure and characteristics of Sao truc - Tư thế cầm sáo, Kỹ thuật đánh lưỡi đơn, Kỹ thuật láy ngón The playing posture, single tongue technique, T’ri technique - Luyện tập đánh Việt Nam: Xàng xê, Cò lả hoặc Lý cây đa Practice playing Vietnamse songs: Xang xe, Co la or Ly cay da Bài quốc tế: Happy birthday, hoặc Jumeo and Julies. Foreign song: Happy birthday, or Jumeo and Julies.  * Sử dụng CNTT trong học phần/ Apply IT in the course a) Cung cấp thông tin, tài nguyên lên mạng : Cung cấp địa chỉ các Website, clip nhạc truyền thống. Update information and resources on the internet: Provide web addresses and traditional music clips. b) Sử dụng các tài nguyên trên mạng: Giảng viên sử dụng có chọn lọc trên nguyên tắc của học phần rồi cung cấp cho sinh viên. Hướng dẫn sinh viên tìm thông tin theo các chủ đề nhất định trên mạng Internet. Use of online resources: Lecturers use resources selectively based on course regulations and then provide them to students. Instruct students to find information on certain topics on the Internet.  * Phát triển kỹ năng mềm và phát triển cá nhân trong học phần/ Soft skills development and personal development - Rèn luyện tính kiên trì cho sinh viên, giúp sinh viên tự tin hơn trước đám đông Improve students' perseverance and help them become more confident in front of the crowd \" - Phát triển kỹ năng làm việc theo nhóm, kỹ năng hoạt động độc lập của sinh viên thông quan các nhiệm vụ mà giảng viên giao. Develop students' ability to work in groups and work independently through the tasks assigned by the lecturer."
+  },
+  "DSR301m": {
+    "name": "Applied Data Science with R - Khoa học dữ liệu ứng dụng với R",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "DBI202",
+    "description": "This course introduces the basics of the R language such as data types, techniques for manipulation. Students will be able to perform basic R programming tasks to complete the data analysis process, create relational databases and query the data using SQL and R and communicate their data findings using data visualization techniques. Students will work with tools like R Studio and related R libraries for data science such as Tidyverse, Tidymodels, R Shiny, ggplot2."
+  },
+  "DTB103": {
+    "name": "Nhạc cụ truyền thống- Đàn Tỳ bà",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "1. Knowledge: - Understand specific characteristics of the historical development and structure of Dan Ty Ba. - Familiarize students with music theory and basic techniques of Dan Ty Ba. - Learn about the ancient music notation system (Hò xự xang...). 2. Skills: - Be able to play 4 Vietnamese songs and 1 common foreign song while properly applying basic techniques. - The course will be conducted in class units of approximately 15 students. During the course, students will learn: - Historical development of the Dan Ty Ba in Vietnam. - Structure and characteristics of the Dan Ty Ba. - Playing posture. - Music theory and basic techniques, including: + Right-hand plucking to create sound combined with left-hand pressing to create pitch. - Practice playing Vietnamese songs: Con chim ri, Vào rừng hoa, Vietnamese folk songs (Cò lả or Lý cây đa), ancient music (Xàng xê, Mã vũ - Hue music). Foreign song: Auld Lang Syne (Scottish folk song) or Bóng ai qua thềm. * Apply IT in the course: a) Provide online resources: web addresses, traditional music clips. b) Use online resources: selective use of online materials and instructing students on finding information. * Soft skills & Personal development: - Improve perseverance and confidence. - Develop teamwork and independent work skills through assigned tasks."
+  },
+  "DTR103": {
+    "name": "Nhạc cụ truyền thống-Đàn Tranh",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "1. Knowledge: - Understand specific characteristics of the historical development and structure of Dan Tranh. - Familiarize students with music theory and basic techniques of Dan Tranh (use 3 right fingers to pluck the strings and left-hand technique of vibration). - Learn about the system of letters Do Re Fa (Hò xự xang)... 2. Skills: - Be able to play at least 3 songs including 1 common foreign song and properly apply basic techniques. - There will be about 15 students/class. In this course, students will learn: - Historical development of Dan Tranh in Vietnam and some countries (China, Korea, Japan) - Structure and characteristics of Dan Tranh - The playing posture - Music theory and basic techniques, including: + System of letters in music + Use right fingers to pluck the strings + Left-hand technique of vibration + Combine plucking strings and vibration technique - Practice: playing Vietnamese songs: Vào rừng hoa, Xảng xê, Mã vũ, Lý cây đa Foreign songs: Auld lang syne (Scottish folk song, or Variation on the French folk theme by Mozart.) * Apply IT in the course: a) Update information and resources on the internet: Provide web addresses and traditional music clips. b) Use of online resources: Lecturers use resources selectively based on course regulations and then provide them to students. Instruct students to find information on certain topics on the Internet. * Soft skills development and personal development: - Improve students' perseverance and help them become more confident in front of the crowd. - Develop students' ability to work in groups and work independently through the tasks assigned by the lecturer."
+  },
+  "EXE401": {
+    "name": "Graduation Thesis Startup Project_Dự án khởi nghiệp tốt nghiệp",
+    "credits": "10",
+    "semester": "",
+    "prerequisite": "1. EXE201 2. Pass On-the-job training 3. Pass 80% of total credits (PHE_COM*, On-the-job training excluded for Vietnamese students, PHE_COM* excluded for intl. students).",
+    "description": "The Graduation Thesis Startup Project is the third step of experience that brings together the startup project developed in EXE101 and EXE201 in a further perspective. It enables students to continously enhance their whole project's performannce under the guidance of mentor, instructor and other supports of the university. Beside the startup project, students will demonstrate, according to a guide reserved for them, the contribution of their major's knowledge and skills in various components of the project. Students will complete writing of the final business plan in a formal format and defending their arguments in front of the examination board. The examination will be given in such areas as (1) project background (2) market analysis, (3) value proposition (4) technology touch (5) major's requirement (6) key activity plan, (7) financial analysis, (8) future roadmap."
+  },
+  "IMP302": {
+    "name": "Image and Video processing_Xử lý ảnh và video",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "CSD203, CPV301",
+    "description": "Image & Video Processing is an advanced course that covers the fundamental principles, techniques, and applications of image and video processing. The course explores manipulating digital images and videos to extract useful information, enhance visual quality, and perform analysis. It covers various topics, including image acquisition and digitization, image enhancement and restoration, image compression and coding, image segmentation and feature extraction, and object recognition and tracking. The course also covers fundamental concepts in video processing, including video coding and compression, motion estimation, and video analysis. Students will learn to process images and videos using various tools and software platforms, including MATLAB and Python."
+  },
+  "SEG301": {
+    "name": "Search Engines_Công cụ tìm kiếm",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "CSD203, AIL303m",
+    "description": "The theory, creation, and use of text-based search engines are covered in this lecture-based course. The main content includes experimental assessment, representation of information demands and documents, several significant retrieval models, and statistical features of the text. Besides, the course covers typical components of commercial search engines, such as federated search, vertical search, tailored search results, and diversified search results."
+  },
+  "SLP301": {
+    "name": "Speech Processing_Xử lý tiếng nói",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "CSD203, AIL303m",
+    "description": "This speech processing course comprehensively explains how humans and machines generate, transmit, and process speech signals. The course covers speech production, phonetics, acoustic analysis, speech perception, speech recognition, natural language processing, and speech synthesis. Students will learn about the principles and algorithms behind various speech-processing techniques, including signal processing, machine learning, and deep learning. The course also covers speech processing applications in speech recognition, speech recognition, speech synthesis, and speech enhancement. Upon completing the course, students will have a solid foundation in speech processing and be equipped with the necessary skills to tackle real-world speech-processing problems."
+  },
+  "SSG104": {
+    "name": "Communication and In-Group Working Skills_Kỹ năng giao tiếp và cộng tác",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "This course covers both working in groups and communication skills. The course covers theories of communication, working in group, and activities for students to practice applying the theories in academic and working contexts."
+  },
+  "SSL101c": {
+    "name": "Academic Skills for University Success_Kỹ năng học tập ở Đại học",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "None",
+    "description": "Upon finishing the course, students can: 1) Knowledge: Understand - Method to develop your Information & Digital Literacy Skills - Method to develop your Problem Solving and Creativity Skills - How to develop your Critical Thinking Skills - How to develop your Communication Skills 2) Able to (ABET) - Access, search, filter, manage and organize Information by using a variety of digital tools, from wide variety of source for use in academic study. - Critically evaluate the reliability of sources and use digital tools for referencing in order to avoid plagiarism. - Demonstrate awareness of ethical issues related to academic integrity surrounding the access and use of information - Develop a toolkit to be able to identify real problems and goals within ill-defined problem & Recognize and apply analytical & creative problem solving technique - Use a variety of thinking tools to improve critical thinking - Identify types of argument, and bias within arguments - Demonstrate, negotiate, and further understanding through spoken, written, visual, and conversational modes - Effectively formulate arguments and communicate research findings through the process of researching, composing, and editing 3) Others: (ABET) - Improve study skills (academic reading, information searching, ...)"
+  },
+  "TMG301": {
+    "name": "Text Mining_Khai thác văn bản",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "CSD203, AIL303m",
+    "description": "This course will cover the primary techniques for mining and analyzing text data to discover interesting patterns, extract practical knowledge, and support decision-making, emphasizing statistical approaches that can be generally applied to arbitrary text data in any natural language with no or minimum human effort. Detailed analysis of text data requires understanding natural language text, which is a difficult task for computers"
+  },
+  "TRG103": {
+    "name": "Nhạc cụ truyền thống -Trống dân tộc",
+    "credits": "3",
+    "semester": "",
+    "prerequisite": "Không None",
+    "description": "1. Kiến thức/Knowledge: - Nắm được những nét đăc trựng về lịch sử phát triển và cấu trúc của Trống dân tộc Understand specific characteristics of the historical development and structure of the traditional drum - Làm quen với nhạc lý và những kỹ thuật cơ bản của Trống dân tộc Familiarize students with music theory and basic techniques of the traditional drum - Tìm hiểu về hệ thống chữ nhạc cổ Hò xự xang... Learn about the system of letters Do Re Fa (Hò xự xang)...  2. Kỹ năng/Skills: - Đánh được 3 bài trong đó có 2 bài hòa tấu dùng trống Huế chơi đại nhạc, 1 bài dân ca đệm trống dàn cho các bạn lớp nhạc cụ Be able to play 3 songs including 2 ensemble performances using Hue drums to play Great Music, 1 folk song with drum accompaniment to students of other instrument classes  - Môn học sẽ được triển khai theo đơn vị lớp cỡ khoảng 15 sinh viên/lớp. There will be about 15 students/class. Trong quá trình học, sinh viên sẽ được giới thiệu, hướng dẫn tìm hiểu và thực hành về các nội dung sau: In the course, students will learn: - Lịch sử phát triển của Trống dân tộc ở Việt Nam Historical development of traditional drum in Vietnam - Cấu trúc và đặc điểm của Trống dân tộc Structure and characteristics of traditional drum - Tư thế đánh trống The playing posture - Nhạc lý và kỹ thuật cơ bản gồm: Music theory and basic techniques, including + Luyện phát âm Practice producing sounds + Kỹ thuật tay phải - tay trái Right-hand and left-hand techniques + Học các dạng hình tiết tấu - các dạng nhịp 2/4 , 4/4 - các điệu trống Learn rhythm patterns - 2/4 and 4/4 time signatures - drumming styles - Luyện tập đệm bài dân ca Việt Nam: Lý cây đa Practice drum accompaniment to Vietnamese folk song: Ly cay da - Bài nhạc cổ: Xàng xê, Mã vũ Traditional music: Xang xe, Ma vu  * Sử dụng CNTT trong học phần/ Apply IT in the course a) Cung cấp thông tin, tài nguyên lên mạng : Cung cấp địa chỉ các Website, clip nhạc truyền thống. Update information and resources on the internet: Provide web addresses and traditional music clips. b) Sử dụng các tài nguyên trên mạng: Giảng viên sử dụng có chọn lọc trên nguyên tắc của học phần rồi cung cấp cho sinh viên. Hướng dẫn sinh viên tìm thông tin theo các chủ đề nhất định trên mạng Internet. Use of online resources: Lecturers use resources selectively based on course regulations and then provide them to students. Instruct students to find information on certain topics on the Internet.  * Phát triển kỹ năng mềm và phát triển cá nhân trong học phần/ Soft skills development and personal development - Rèn luyện tính kiên trì cho sinh viên, giúp sinh viên tự tin hơn trước đám đông Improve students' perseverance and help them become more confident in front of the crowd \" - Phát triển kỹ năng làm việc theo nhóm, kỹ năng hoạt động độc lập của sinh viên thông quan các nhiệm vụ mà giảng viên giao. Develop students' ability to work in groups and work independently through the tasks assigned by the lecturer."
+  }
+}

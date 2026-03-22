@@ -1,0 +1,386 @@
+[
+  {
+    "id": "fact_01",
+    "category": "factual_lookup",
+    "question": "How many credits is the Deep Learning course?",
+    "reference_answer": "The Deep Learning course (DPL302m) is 6 credits.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["DPL302m"]
+  },
+  {
+    "id": "fact_02",
+    "category": "factual_lookup",
+    "question": "Which semester is Computer Vision (CPV301) in?",
+    "reference_answer": "Computer Vision (CPV301) is in semester 4.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["CPV301"]
+  },
+  {
+    "id": "fact_03",
+    "category": "factual_lookup",
+    "question": "How many courses are in semester 1?",
+    "reference_answer": "There are 6 courses in semester 1 with a total of 17 credits.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "fact_04",
+    "category": "factual_lookup",
+    "question": "How many credits is the AI Capstone Project?",
+    "reference_answer": "The AI Capstone Project (AIP491) is 10 credits.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["AIP491"]
+  },
+  {
+    "id": "fact_05",
+    "category": "factual_lookup",
+    "question": "What is the total number of subjects in the K20-K21 curriculum?",
+    "reference_answer": "The K20-K21 curriculum has 47 subjects with 145 credits total.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "fact_06",
+    "category": "factual_lookup",
+    "question": "Which semester is Natural Language Processing in?",
+    "reference_answer": "Natural Language Processing (NLP301c) is in semester 6.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["NLP301c"]
+  },
+  {
+    "id": "fact_07",
+    "category": "factual_lookup",
+    "question": "How many credits is Reinforcement Learning?",
+    "reference_answer": "Reinforcement Learning (REL301m) is 3 credits.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["REL301m"]
+  },
+  {
+    "id": "fact_08",
+    "category": "factual_lookup",
+    "question": "What courses are in semester 2?",
+    "reference_answer": "Semester 2 has 6 courses: AIG202c (Artificial Intelligence), CEA201 (Computer Organization and Architecture), CSD203 (Data Structures and Algorithm with Python), DBI202 (Introduction to Databases), JPD113 (Elementary Japanese 1), PHE_COM*3 (Physical Education 3).",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "fact_09",
+    "category": "factual_lookup",
+    "question": "How many credits is the On-The-Job Training course?",
+    "reference_answer": "On-The-Job Training (OJT202) is 10 credits.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["OJT202"]
+  },
+  {
+    "id": "fact_10",
+    "category": "factual_lookup",
+    "question": "What semester is Machine Learning (AIL303m) in?",
+    "reference_answer": "Machine Learning (AIL303m) is in semester 4.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["AIL303m"]
+  },
+  {
+    "id": "prereq_01",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for Machine Learning (AIL303m)?",
+    "reference_answer": "AIL303m requires MAS291 (Statistics & Probability), MAI391 (Mathematics for Machine Learning), and PFP191 (Programming Fundamentals with Python).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["AIL303m"]
+  },
+  {
+    "id": "prereq_02",
+    "category": "prerequisite_reasoning",
+    "question": "What do I need before taking NLP301c?",
+    "reference_answer": "NLP301c requires AIL30x (a Machine Learning course) AND either PRP201c or PFP191.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["NLP301c"]
+  },
+  {
+    "id": "prereq_03",
+    "category": "prerequisite_reasoning",
+    "question": "What is the full prerequisite chain for Deep Learning (DPL302m)?",
+    "reference_answer": "DPL302m requires AIL303m. AIL303m in turn requires MAS291, MAI391, and PFP191. MAS291 requires MAE101 or MAC101. MAI391 requires MAE101.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["DPL302m", "AIL303m"]
+  },
+  {
+    "id": "prereq_04",
+    "category": "prerequisite_reasoning",
+    "question": "What courses can I take after completing PFP191?",
+    "reference_answer": "After completing PFP191, you can take CSD203, ADY201m, CPV301, DAP391m, DWP301c, AIL303m (also needs MAS291 and MAI391), NLP301c (also needs AIL30x), and AIM301m.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["PFP191"]
+  },
+  {
+    "id": "prereq_05",
+    "category": "prerequisite_reasoning",
+    "question": "Does CSD203 have any prerequisites?",
+    "reference_answer": "Yes, CSD203 (Data Structures and Algorithm with Python) requires PFP191 (Programming Fundamentals with Python).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["CSD203"]
+  },
+  {
+    "id": "prereq_06",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for the AI Capstone Project?",
+    "reference_answer": "AIP491 requires: passing Deep Learning (DPL30x), passing OJT202, passing PMG20x, passing 60% of total credits of selected combo, and passing 80% of total credits (excluding PHE_COM* and OJT).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["AIP491"]
+  },
+  {
+    "id": "prereq_07",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does DAT301m (AI Development with TensorFlow) need?",
+    "reference_answer": "DAT301m requires CPV301 (Computer Vision) and DPL302m (Deep Learning).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["DAT301m"]
+  },
+  {
+    "id": "prereq_08",
+    "category": "prerequisite_reasoning",
+    "question": "What courses does completing AIL303m unlock?",
+    "reference_answer": "Completing AIL303m unlocks DPL302m (Deep Learning), AID301c (AI in Production), REL301m (Reinforcement Learning), NLP301c (also needs PRP201c or PFP191), SEG301, SLP301, and TMG301.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["AIL303m"]
+  },
+  {
+    "id": "prereq_09",
+    "category": "prerequisite_reasoning",
+    "question": "Does MAD101 have prerequisites?",
+    "reference_answer": "No, MAD101 (Discrete Mathematics) has no prerequisites.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["MAD101"]
+  },
+  {
+    "id": "prereq_10",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does Reinforcement Learning have?",
+    "reference_answer": "REL301m (Reinforcement Learning) requires AIL303m (Machine Learning) and DPL302m (Deep Learning).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["REL301m"]
+  },
+  {
+    "id": "combo_01",
+    "category": "combo_pathway",
+    "question": "What specialization combos are available in the BIT_AI program?",
+    "reference_answer": "There are 5 pathways: AI17_COM_1 through AI17_COM_4 (combo subjects for semesters 5, 5, 7, 8) and TMI_ELE (Traditional Musical Instrument elective).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["combo_map"]
+  },
+  {
+    "id": "combo_02",
+    "category": "combo_pathway",
+    "question": "What courses are in the Applied Data Science topic?",
+    "reference_answer": "The Applied Data Science topic (AI17_COM1) includes DSR301m (Applied Data Science with R) and BDI302c (Big Data).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["AI17_COM_1"]
+  },
+  {
+    "id": "combo_03",
+    "category": "combo_pathway",
+    "question": "What are the elective options for TMI_ELE?",
+    "reference_answer": "TMI_ELE offers 7 traditional musical instrument options: DTR103 (Dan Tranh), DBA103 (Dan Bau), DSA103 (Sao truc), DNG103 (Dan nguyet), DTB103 (Dan Ty ba), TRG103 (Trong dan toc), DNH103 (Dan Nhi).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["TMI_ELE"]
+  },
+  {
+    "id": "combo_04",
+    "category": "combo_pathway",
+    "question": "What courses are in the AI application combo topic?",
+    "reference_answer": "The AI application topic (AI17_COM3) includes AIH301m (AI in Healthcare) and ASR301c (AI for Scientific Research).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["AI17_COM_1"]
+  },
+  {
+    "id": "combo_05",
+    "category": "combo_pathway",
+    "question": "Which semester do combo courses start?",
+    "reference_answer": "Combo courses start from semester 5 (AI17_COM_1 and AI17_COM_2), continuing in semester 7 (AI17_COM_3) and semester 8 (AI17_COM_4).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["combo_map"]
+  },
+  {
+    "id": "combo_06",
+    "category": "combo_pathway",
+    "question": "What is the AI Applied Research combo topic about?",
+    "reference_answer": "The AI Applied Research topic (AI17_COM2.1) includes TMG301 (Text Mining) and SEG301 (Search Engines). It is available from K18D-K19A.",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["AI17_COM_1"]
+  },
+  {
+    "id": "combo_07",
+    "category": "combo_pathway",
+    "question": "If I'm interested in healthcare AI, which combo should I pick?",
+    "reference_answer": "You should pick courses from the AI17_COM3 topic (AI application), which includes AIH301m (AI in Healthcare).",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["AI17_COM_1"]
+  },
+  {
+    "id": "combo_08",
+    "category": "combo_pathway",
+    "question": "How many combo subject slots are there in total?",
+    "reference_answer": "There are 4 combo subject slots: AI17_COM*1 and AI17_COM*2 in semester 5, AI17_COM*3 in semester 7, and AI17_COM*4 in semester 8.",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["combo_map"]
+  },
+  {
+    "id": "content_01",
+    "category": "cross_document",
+    "question": "What are the learning outcomes of the Machine Learning course?",
+    "reference_answer": "The Machine Learning course (AIL303m) covers learning outcomes related to understanding ML fundamentals, implementing ML algorithms, data preprocessing, model evaluation, and applying ML to real-world problems.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["AIL303m.MD"]
+  },
+  {
+    "id": "content_02",
+    "category": "cross_document",
+    "question": "What programming language is used in the Data Structures course?",
+    "reference_answer": "The Data Structures and Algorithm course (CSD203) uses Python, as indicated by its full name 'Data Structures and Algorithm with Python'.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["CSD203.md"]
+  },
+  {
+    "id": "content_03",
+    "category": "cross_document",
+    "question": "What is PLO2 about?",
+    "reference_answer": "PLO2 is about applying solid foundational knowledge in the field of IT in general and Artificial Intelligence (AI) in particular to understand the professional context and acquire in-depth specialized knowledge in AI.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["Curriculum_k20_k21.MD"]
+  },
+  {
+    "id": "content_04",
+    "category": "cross_document",
+    "question": "What topics does the Computer Vision course cover?",
+    "reference_answer": "The Computer Vision course (CPV301) covers topics related to image processing, feature extraction, object detection, and applying computer vision techniques using Python.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["CPV301.MD"]
+  },
+  {
+    "id": "content_05",
+    "category": "cross_document",
+    "question": "How is the Deep Learning course assessed?",
+    "reference_answer": "The Deep Learning course (DPL302m) assessment includes assignments, projects, and examinations as detailed in its syllabus.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["DPL302m.MD"]
+  },
+  {
+    "id": "content_06",
+    "category": "cross_document",
+    "question": "What materials are used in the AI in Healthcare course?",
+    "reference_answer": "The AI in Healthcare course (AIH301m) uses materials that may include textbooks, online resources, and Coursera courses related to applying AI techniques in healthcare settings.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["AIH301m.MD"]
+  },
+  {
+    "id": "content_07",
+    "category": "cross_document",
+    "question": "What does the Ethics in IT course cover?",
+    "reference_answer": "The Ethics in IT course (ITE303c) covers ethical considerations in information technology, including professional responsibility, privacy, intellectual property, and social impact of technology.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["ITE303c.MD"]
+  },
+  {
+    "id": "content_08",
+    "category": "cross_document",
+    "question": "What is the description of the Introduction to Databases course?",
+    "reference_answer": "DBI202 (Introduction to Databases) covers fundamental concepts of database systems including relational databases, SQL, database design, and data management.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["DBI202.MD"]
+  },
+  {
+    "id": "content_09",
+    "category": "cross_document",
+    "question": "Which courses contribute to PLO8?",
+    "reference_answer": "PLO8 relates to the ability to program and use simulation tools in the field of AI. Courses like PFP191, CSD203, AIL303m, DPL302m, and other programming-intensive courses contribute to this PLO.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["Curriculum_k20_k21.MD"]
+  },
+  {
+    "id": "content_10",
+    "category": "cross_document",
+    "question": "What is the scoring scale for most courses?",
+    "reference_answer": "Most courses use a scoring scale of 10, with a minimum average mark to pass of 5.",
+    "expected_tool": "vector_search",
+    "expected_sources": ["syllabus files"]
+  },
+  {
+    "id": "plan_01",
+    "category": "curriculum_planning",
+    "question": "I'm in semester 3. What should I take next semester?",
+    "reference_answer": "In semester 4, you should take: AIL303m (Machine Learning, 3cr, requires MAS291+MAI391+PFP191), CPV301 (Computer Vision, 3cr, requires PFP191+CSD203), DAP391m (AI-DS Project, 3cr, requires PFP191+ADY201m), SSG105 (Communication Skills, 3cr), and SWE201c (Intro to Software Engineering, 3cr).",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "plan_02",
+    "category": "curriculum_planning",
+    "question": "If I want to take Deep Learning as fast as possible, what's the shortest path?",
+    "reference_answer": "The shortest path to DPL302m: First complete MAE101 (sem 1), then MAS291 and MAI391 (sem 3, both need MAE101), also complete PFP191 (sem 1). Then take AIL303m (sem 4, needs MAS291+MAI391+PFP191). Finally take DPL302m (sem 5, needs AIL303m).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["DPL302m", "AIL303m"]
+  },
+  {
+    "id": "plan_03",
+    "category": "curriculum_planning",
+    "question": "Can I take CPV301 if I only passed PFP191 but not CSD203?",
+    "reference_answer": "No, CPV301 (Computer Vision) requires both PFP191 AND CSD203. You must complete CSD203 (Data Structures and Algorithm with Python) first.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["CPV301"]
+  },
+  {
+    "id": "plan_04",
+    "category": "curriculum_planning",
+    "question": "What is the path from semester 1 to being able to take NLP301c?",
+    "reference_answer": "Path to NLP301c: Semester 1: PFP191 and MAE101. Semester 3: MAS291 (needs MAE101) and MAI391 (needs MAE101). Semester 4: AIL303m (needs MAS291+MAI391+PFP191). Semester 6: NLP301c (needs AIL30x and PFP191 or PRP201c).",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["NLP301c", "AIL303m"]
+  },
+  {
+    "id": "plan_05",
+    "category": "curriculum_planning",
+    "question": "I completed AIL303m and DPL302m. What advanced AI courses can I take now?",
+    "reference_answer": "With AIL303m and DPL302m completed, you can take: REL301m (Reinforcement Learning), DAT301m (also needs CPV301), NLP301c (also needs PRP201c or PFP191), AID301c (also needs SWE201c), and combo courses from the AI application or Applied Data Science topics.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["AIL303m", "DPL302m"]
+  },
+  {
+    "id": "plan_06",
+    "category": "curriculum_planning",
+    "question": "How many total credits do I need to graduate?",
+    "reference_answer": "The K20-K21 BIT_AI curriculum requires a total of 145 credits across 47 subjects.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "plan_07",
+    "category": "curriculum_planning",
+    "question": "What are the requirements for the On-The-Job Training?",
+    "reference_answer": "OJT202 requires students to have attained 90% of total credits prior to the OJT term (excluding Physical Education and OTP Programs). Students choosing JS combo (Japanese Bridge Engineer) must also pass JPD133.",
+    "expected_tool": "prerequisite_lookup",
+    "expected_sources": ["OJT202"]
+  },
+  {
+    "id": "plan_08",
+    "category": "curriculum_planning",
+    "question": "What Japanese language courses are in the curriculum?",
+    "reference_answer": "The curriculum includes JPD113 (Elementary Japanese 1-A1.1) in semester 2 and JPD123 (Elementary Japanese 1-A1.2) in semester 3, which requires JPD113.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "plan_09",
+    "category": "curriculum_planning",
+    "question": "When do students take political science courses?",
+    "reference_answer": "Political science courses are taken in the later semesters: MLN111 (Philosophy of Marxism-Leninism) in semester 8, MLN122 (Political Economics) in semester 8, HCM202 (Ho Chi Minh Ideology) in semester 9, MLN131 (Scientific Socialism) in semester 9, and VNR202 (History of Communist Party) in semester 9.",
+    "expected_tool": "curriculum_browser",
+    "expected_sources": ["curriculum_map"]
+  },
+  {
+    "id": "plan_10",
+    "category": "curriculum_planning",
+    "question": "I want to specialize in data science. Which combo topic and courses should I focus on?",
+    "reference_answer": "You should focus on the AI17_COM1 topic (Applied Data Science), which includes DSR301m (Applied Data Science with R) and BDI302c (Big Data). These appear in combo slots AI17_COM_1 through AI17_COM_4.",
+    "expected_tool": "combo_navigator",
+    "expected_sources": ["AI17_COM_1"]
+  }
+]

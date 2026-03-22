@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fact_01",
+    "category": "factual_lookup",
+    "question": "How many credits is the Deep Learning course?",
+    "reference_answer": "The Deep Learning course (DPL302m) is 6 credits.",
+    "generated_answer": "I couldn't find specific information regarding the credit value for the course CS 678: Deep Learning in the curriculum syllabus. It may be best to consult the official curriculum document or contact your academic advisor directly for the most accurate and up-to-date information.",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Deep Learning course credits"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "CS 678 Deep Learning credits"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer partially addresses the question by acknowledging the lack of specific information but does not provide any details about the credit value."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer does not provide any claims that are supported by the context, which does not mention the credit value for the Deep Learning course."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not provide any information about the credit value of the Deep Learning course and suggests consulting other sources instead."
+    }
+  },
+  {
+    "id": "fact_02",
+    "category": "factual_lookup",
+    "question": "Which semester is Computer Vision (CPV301) in?",
+    "reference_answer": "Computer Vision (CPV301) is in semester 4.",
+    "generated_answer": "Môn học **Thị giác máy tính (CPV301)** được giảng dạy trong **học kỳ 4**. Dưới đây là một số thông tin chi tiết về môn học:\n\n- **Số tín chỉ**: 3\n- **Điều kiện tiên quyết**: PFP191, CSD203\n- **Mô tả**: \n  - Cung cấp kiến thức cơ bản về thị giác máy tính.\n  - Học về đại diện hình ảnh, ánh sáng, thu nhận hình ảnh qua camera, và các kỹ thuật hiệu chỉnh camera.\n  - Nắm vững các kỹ thuật phát hiện đường và cạnh trong hình ảnh, bộ lọc cũng như các phương pháp Canny, RANSAC.\n  - Học kiến thức xử lý hình ảnh nâng cao như phân đoạn hình ảnh, phát hiện đối tượng, nhận diện đối tượng và theo dõi đối tượng.\n  - Thực hiện một dự án thị giác máy tính trong việc nhận diện đối tượng.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "course_code": "CPV301"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Computer Vision (CPV301) is taught in semester 4 and provides additional relevant details about the course."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically stating that Computer Vision (CPV301) is taught in semester 4."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that Computer Vision (CPV301) is in semester 4, matching the reference answer."
+    }
+  }
+]

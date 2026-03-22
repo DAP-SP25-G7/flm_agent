@@ -1,0 +1,962 @@
+[
+  {
+    "id": "fact_01",
+    "category": "factual_lookup",
+    "question": "How many credits is the Deep Learning course?",
+    "reference_answer": "The Deep Learning course (DPL302m) is 6 credits.",
+    "generated_answer": "The Deep Learning course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, is typically worth 3 credits. However, I recommend checking the latest course catalog or contacting the program administration for the most accurate and up-to-date information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific credit value for the Deep Learning course and suggests checking for the most current information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, which is empty."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states the course is worth 3 credits, which contradicts the reference answer that states it is 6 credits."
+    }
+  },
+  {
+    "id": "fact_02",
+    "category": "factual_lookup",
+    "question": "Which semester is Computer Vision (CPV301) in?",
+    "reference_answer": "Computer Vision (CPV301) is in semester 4.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, the course Computer Vision (CPV301) is typically offered in the 6th semester. However, it's always a good idea to check the latest course schedule or consult with your academic advisor for any updates or changes.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Computer Vision (CPV301) is typically offered in the 6th semester and provides additional context about checking for updates."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that Computer Vision (CPV301) is in the 6th semester, which contradicts the reference answer that states it is in semester 4."
+    }
+  },
+  {
+    "id": "fact_03",
+    "category": "factual_lookup",
+    "question": "How many courses are in semester 1?",
+    "reference_answer": "There are 6 courses in semester 1 with a total of 17 credits.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, Semester 1 typically includes a set of foundational courses. While the exact number of courses can vary slightly depending on the specific curriculum details, students usually take around 5 to 6 courses in the first semester. For the most accurate and updated information, I recommend checking the official curriculum guide or contacting the program coordinator directly.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides a general estimate of the number of courses but lacks specific details about the exact number."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures the general idea of the number of courses (5 to 6) but does not specify the exact number (6) or the total credits (17) as stated in the reference answer."
+    }
+  },
+  {
+    "id": "fact_04",
+    "category": "factual_lookup",
+    "question": "How many credits is the AI Capstone Project?",
+    "reference_answer": "The AI Capstone Project (AIP491) is 10 credits.",
+    "generated_answer": "The AI Capstone Project in the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, is typically worth 6 credits. However, I recommend checking the latest curriculum guide or contacting the program coordinator for the most accurate and up-to-date information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific and accurate detail about the number of credits for the AI Capstone Project and suggests checking for the most current information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claim about the AI Capstone Project credits."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that the AI Capstone Project is worth 6 credits, which contradicts the reference answer that states it is 10 credits."
+    }
+  },
+  {
+    "id": "fact_05",
+    "category": "factual_lookup",
+    "question": "What is the total number of subjects in the K20-K21 curriculum?",
+    "reference_answer": "The K20-K21 curriculum has 47 subjects with 145 credits total.",
+    "generated_answer": "The K20-K21 curriculum for the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University typically includes a total of 40 subjects. This includes core subjects, specialized subjects, and elective courses. However, for the most accurate and updated information, I recommend checking the official curriculum documentation or contacting the university directly, as there may be changes or updates.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific and accurate total number of subjects in the K20-K21 curriculum, along with additional context about the types of subjects included."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states there are 40 subjects, which contradicts the reference answer of 47 subjects."
+    }
+  },
+  {
+    "id": "fact_06",
+    "category": "factual_lookup",
+    "question": "Which semester is Natural Language Processing in?",
+    "reference_answer": "Natural Language Processing (NLP301c) is in semester 6.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, the Natural Language Processing course is typically offered in the 7th semester. However, it's always a good idea to check the latest curriculum or consult with your academic advisor for any updates or changes.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the semester in which the Natural Language Processing course is offered."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that Natural Language Processing is in the 7th semester, which contradicts the reference answer that specifies it is in semester 6."
+    }
+  },
+  {
+    "id": "fact_07",
+    "category": "factual_lookup",
+    "question": "How many credits is Reinforcement Learning?",
+    "reference_answer": "Reinforcement Learning (REL301m) is 3 credits.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, the course on Reinforcement Learning typically carries 3 credits. However, it's always a good idea to check the latest curriculum or consult with your academic advisor for the most accurate and updated information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific and accurate detail regarding the number of credits for the Reinforcement Learning course in the specified program."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that Reinforcement Learning carries 3 credits, aligning with the reference answer."
+    }
+  },
+  {
+    "id": "fact_08",
+    "category": "factual_lookup",
+    "question": "What courses are in semester 2?",
+    "reference_answer": "Semester 2 has 6 courses: AIG202c (Artificial Intelligence), CEA201 (Computer Organization and Architecture), CSD203 (Data Structures and Algorithm with Python), DBI202 (Introduction to Databases), JPD113 (Elementary Japanese 1), PHE_COM*3 (Physical Education 3).",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, the courses typically offered in Semester 2 include:\n\n1. Data Structures and Algorithms\n2. Object-Oriented Programming\n3. Database Management Systems\n4. Computer Networks\n5. Mathematics for Computer Science\n6. English Communication Skills\n\nPlease verify with the latest curriculum or your academic advisor, as course offerings may change or vary by academic year.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a specific list of courses offered in Semester 2 of the BIT_AI program."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer lists different courses that do not match any of the courses in the reference answer."
+    }
+  },
+  {
+    "id": "fact_09",
+    "category": "factual_lookup",
+    "question": "How many credits is the On-The-Job Training course?",
+    "reference_answer": "On-The-Job Training (OJT202) is 10 credits.",
+    "generated_answer": "The On-The-Job Training (OJT) course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University typically carries 6 credits. However, I recommend checking the latest curriculum or contacting the university directly for the most accurate and up-to-date information, as course credits may vary or be updated.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific and accurate detail about the number of credits for the On-The-Job Training course and suggests verifying with the university for the most current information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that the On-The-Job Training course carries 6 credits, which contradicts the reference answer that specifies it is 10 credits."
+    }
+  },
+  {
+    "id": "fact_10",
+    "category": "factual_lookup",
+    "question": "What semester is Machine Learning (AIL303m) in?",
+    "reference_answer": "Machine Learning (AIL303m) is in semester 4.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, the course Machine Learning (AIL303m) is typically offered in the 6th semester. However, it's always a good idea to check the latest course schedule or consult with your academic advisor for any updates or changes.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Machine Learning (AIL303m) is typically offered in the 6th semester and provides additional context about checking for updates."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that Machine Learning (AIL303m) is in the 6th semester, which contradicts the reference answer that states it is in semester 4."
+    }
+  },
+  {
+    "id": "prereq_01",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for Machine Learning (AIL303m)?",
+    "reference_answer": "AIL303m requires MAS291 (Statistics & Probability), MAI391 (Mathematics for Machine Learning), and PFP191 (Programming Fundamentals with Python).",
+    "generated_answer": "For the Machine Learning (AIL303m) course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the typical prerequisites include a foundational understanding of programming, statistics, and linear algebra. Specifically, students are usually expected to have completed courses in:\n\n1. **Programming Fundamentals**: Proficiency in at least one programming language, often Python, as it is widely used in machine learning.\n2. **Mathematics**: A solid grasp of linear algebra and calculus, as these areas are crucial for understanding machine learning algorithms.\n3. **Statistics**: Basic knowledge of statistics is important for data analysis and understanding the probabilistic models used in machine learning.\n\nIt's always a good idea to check the specific course syllabus or consult with your academic advisor for the most accurate and detailed information regarding prerequisites.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the prerequisites for the Machine Learning course, including required knowledge in programming, mathematics, and statistics."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key areas such as programming, statistics, and mathematics but does not specifically mention the required courses MAS291, MAI391, and PFP191 as stated in the reference answer."
+    }
+  },
+  {
+    "id": "prereq_02",
+    "category": "prerequisite_reasoning",
+    "question": "What do I need before taking NLP301c?",
+    "reference_answer": "NLP301c requires AIL30x (a Machine Learning course) AND either PRP201c or PFP191.",
+    "generated_answer": "Before taking NLP301c in the Bachelor of IT in Artificial Intelligence (BIT_AI) program, you should have a solid understanding of the foundational concepts in programming, data structures, and algorithms, as well as a good grasp of machine learning principles. Typically, prerequisites may include courses in programming (such as Python), statistics, and introductory machine learning or artificial intelligence courses. \n\nIt's also beneficial to have some familiarity with natural language processing concepts, though this may not be strictly required. I recommend checking the specific course syllabus or consulting with your instructor for any additional prerequisites or recommended knowledge areas.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the prerequisites needed before taking NLP301c, including foundational concepts and recommended courses."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific required courses AIL30x, PRP201c, or PFP191, and instead provides general advice on foundational knowledge."
+    }
+  },
+  {
+    "id": "prereq_03",
+    "category": "prerequisite_reasoning",
+    "question": "What is the full prerequisite chain for Deep Learning (DPL302m)?",
+    "reference_answer": "DPL302m requires AIL303m. AIL303m in turn requires MAS291, MAI391, and PFP191. MAS291 requires MAE101 or MAC101. MAI391 requires MAE101.",
+    "generated_answer": "For the Deep Learning (DPL302m) course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the full prerequisite chain typically includes foundational courses that prepare students for advanced topics in deep learning. While I don't have the exact details of the curriculum version K20-K21, the following courses are generally prerequisites for a deep learning course:\n\n1. **Introduction to Programming** - Understanding programming concepts is essential for implementing deep learning algorithms.\n2. **Data Structures and Algorithms** - Knowledge of data structures and algorithms is crucial for efficient data handling and processing in deep learning.\n3. **Mathematics for Computer Science** - A solid foundation in mathematics, particularly linear algebra, calculus, and statistics, is necessary for understanding the underlying principles of deep learning.\n4. **Machine Learning** - A course in machine learning typically covers the basics of algorithms and models that are foundational for deep learning.\n\nPlease check the official curriculum or consult with your academic advisor for the most accurate and specific prerequisite chain for DPL302m in your program.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed list of relevant prerequisite courses for the Deep Learning (DPL302m) course, along with explanations of their importance."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no provided context."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention any of the specific courses listed in the reference answer and instead provides unrelated foundational courses."
+    }
+  },
+  {
+    "id": "prereq_04",
+    "category": "prerequisite_reasoning",
+    "question": "What courses can I take after completing PFP191?",
+    "reference_answer": "After completing PFP191, you can take CSD203, ADY201m, CPV301, DAP391m, DWP301c, AIL303m (also needs MAS291 and MAI391), NLP301c (also needs AIL30x), and AIM301m.",
+    "generated_answer": "After completing PFP191, which is typically an introductory course in programming fundamentals, you can consider taking the following courses in the BIT_AI program:\n\n1. **Data Structures and Algorithms** - This course builds on your programming skills and introduces you to essential data structures and algorithms used in software development.\n\n2. **Object-Oriented Programming** - This course will deepen your understanding of programming concepts and teach you how to design and implement software using object-oriented principles.\n\n3. **Database Management Systems** - This course covers the fundamentals of database design, SQL, and data management, which are crucial for working with data in AI applications.\n\n4. **Introduction to Artificial Intelligence** - This course provides an overview of AI concepts, techniques, and applications, setting the foundation for more advanced AI studies.\n\n5. **Web Development** - This course will teach you how to create web applications, which can be beneficial if you're interested in deploying AI solutions on the web.\n\n6. **Machine Learning** - If you have a strong interest in AI, this course will introduce you to machine learning algorithms and their applications.\n\nMake sure to check the prerequisites for each course and consult your academic advisor for personalized guidance based on your interests and career goals.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive list of relevant courses that can be taken after PFP191, along with brief descriptions of each course, fully addressing the question."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context is provided to verify the claims made in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer lists different courses that are not mentioned in the reference answer and does not align with the specific courses provided."
+    }
+  },
+  {
+    "id": "prereq_05",
+    "category": "prerequisite_reasoning",
+    "question": "Does CSD203 have any prerequisites?",
+    "reference_answer": "Yes, CSD203 (Data Structures and Algorithm with Python) requires PFP191 (Programming Fundamentals with Python).",
+    "generated_answer": "Yes, CSD203, which typically covers topics related to software development and programming, may have prerequisites. Generally, students are expected to have completed foundational courses in programming and computer science before enrolling in CSD203. It's best to check the specific course syllabus or consult the academic advisor for the most accurate and updated information regarding prerequisites for this course in the BIT_AI program.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by confirming that CSD203 has prerequisites and providing specific details about the expected foundational courses."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, which is empty."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer acknowledges that CSD203 has prerequisites but does not specify PFP191 as required, missing a key fact from the reference."
+    }
+  },
+  {
+    "id": "prereq_06",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for the AI Capstone Project?",
+    "reference_answer": "AIP491 requires: passing Deep Learning (DPL30x), passing OJT202, passing PMG20x, passing 60% of total credits of selected combo, and passing 80% of total credits (excluding PHE_COM* and OJT).",
+    "generated_answer": "For the AI Capstone Project in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, students typically need to have completed several prerequisite courses that provide foundational knowledge and skills in artificial intelligence and related fields. While I don't have the exact list of prerequisites for the K20-K21 curriculum, generally, students are expected to have completed courses in:\n\n1. **Machine Learning** - Understanding algorithms and techniques used in AI.\n2. **Data Science** - Skills in data analysis and handling datasets.\n3. **Programming** - Proficiency in programming languages commonly used in AI, such as Python.\n4. **Mathematics for AI** - Knowledge of statistics, linear algebra, and calculus as they apply to AI.\n5. **Software Development** - Experience in software engineering principles and practices.\n\nIt's always best to check the official curriculum guide or consult with your academic advisor for the most accurate and detailed information regarding prerequisites for the Capstone Project.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed list of relevant prerequisite courses for the AI Capstone Project, along with a suggestion to consult official resources for the most accurate information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention any of the specific prerequisites listed in the reference answer and instead provides a general overview of related courses."
+    }
+  },
+  {
+    "id": "prereq_07",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does DAT301m (AI Development with TensorFlow) need?",
+    "reference_answer": "DAT301m requires CPV301 (Computer Vision) and DPL302m (Deep Learning).",
+    "generated_answer": "For the DAT301m (AI Development with TensorFlow) course in the BIT_AI program, students typically need to have a foundational understanding of programming, particularly in Python, as well as a basic grasp of machine learning concepts. It is also beneficial to have completed introductory courses in data structures and algorithms, as well as linear algebra and statistics, since these topics are often essential for understanding AI development.\n\nHowever, for the most accurate and specific prerequisites, I recommend checking the official course syllabus or consulting with your academic advisor directly, as prerequisites can sometimes vary or be updated.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the prerequisites needed for the DAT301m course."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context is provided to verify the claims made in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific prerequisites of CPV301 and DPL302m, and instead provides general advice about programming and foundational knowledge."
+    }
+  },
+  {
+    "id": "prereq_08",
+    "category": "prerequisite_reasoning",
+    "question": "What courses does completing AIL303m unlock?",
+    "reference_answer": "Completing AIL303m unlocks DPL302m (Deep Learning), AID301c (AI in Production), REL301m (Reinforcement Learning), NLP301c (also needs PRP201c or PFP191), SEG301, SLP301, and TMG301.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, completing the course AIL303m typically unlocks advanced courses related to artificial intelligence and machine learning. While I don't have the specific list of courses that follow AIL303m, it generally leads to more specialized topics such as deep learning, natural language processing, or advanced machine learning techniques.\n\nFor the most accurate and detailed information, I recommend checking the official curriculum guide or contacting the academic department directly.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer partially addresses the question by indicating that AIL303m unlocks advanced courses related to AI and machine learning, but it lacks specific details about which courses are unlocked."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context is provided to support the claims made in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures the general idea that AIL303m unlocks advanced courses related to AI but fails to provide the specific courses listed in the reference answer."
+    }
+  },
+  {
+    "id": "prereq_09",
+    "category": "prerequisite_reasoning",
+    "question": "Does MAD101 have prerequisites?",
+    "reference_answer": "No, MAD101 (Discrete Mathematics) has no prerequisites.",
+    "generated_answer": "Yes, MAD101 (Mathematics for Data Science) typically has prerequisites. Students are usually required to have a foundational understanding of mathematics, which may include topics such as algebra and basic calculus. It's important to check the specific course syllabus or consult with your academic advisor for the most accurate and detailed information regarding prerequisites for MAD101 in the BIT_AI program.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by confirming that MAD101 has prerequisites and providing specific details about the required foundational knowledge."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify claims about MAD101 prerequisites."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer contradicts the reference answer by stating that MAD101 has prerequisites, while the reference states it has none."
+    }
+  },
+  {
+    "id": "prereq_10",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does Reinforcement Learning have?",
+    "reference_answer": "REL301m (Reinforcement Learning) requires AIL303m (Machine Learning) and DPL302m (Deep Learning).",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the prerequisites for studying Reinforcement Learning typically include:\n\n1. **Mathematics**: A solid understanding of linear algebra, calculus, and probability theory is essential, as these areas are fundamental to understanding algorithms and models used in reinforcement learning.\n\n2. **Programming Skills**: Proficiency in programming languages such as Python is important, as most reinforcement learning frameworks and libraries (like TensorFlow or PyTorch) are implemented in Python.\n\n3. **Machine Learning Foundations**: A background in basic machine learning concepts and algorithms is crucial. This includes understanding supervised and unsupervised learning, as well as familiarity with concepts like overfitting, model evaluation, and basic algorithms.\n\n4. **Data Structures and Algorithms**: Knowledge of data structures (like arrays, lists, trees, etc.) and algorithms is important for implementing reinforcement learning algorithms efficiently.\n\n5. **Basic AI Concepts**: Familiarity with general artificial intelligence concepts and techniques can be beneficial.\n\nIf you have completed courses or have experience in these areas, you should be well-prepared to tackle reinforcement learning. If you have any specific courses in mind or need further clarification, feel free to ask!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific and accurate details about the prerequisites for studying Reinforcement Learning."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific prerequisite courses (AIL303m and DPL302m) required for Reinforcement Learning as stated in the reference answer."
+    }
+  },
+  {
+    "id": "combo_01",
+    "category": "combo_pathway",
+    "question": "What specialization combos are available in the BIT_AI program?",
+    "reference_answer": "There are 5 pathways: AI17_COM_1 through AI17_COM_4 (combo subjects for semesters 5, 5, 7, 8) and TMI_ELE (Traditional Musical Instrument elective).",
+    "generated_answer": "In the BIT_AI program at FPT University, students typically have the option to choose from various specializations that complement their studies in Artificial Intelligence. While the specific combinations may vary, common specializations include:\n\n1. **Data Science** - Focusing on data analysis, machine learning, and statistical methods.\n2. **Machine Learning** - Concentrating on algorithms and models that enable computers to learn from data.\n3. **Robotics** - Exploring the integration of AI in robotic systems and automation.\n4. **Natural Language Processing (NLP)** - Specializing in the interaction between computers and human language.\n5. **Computer Vision** - Focusing on enabling machines to interpret and understand visual information.\n\nIt's best to check the latest curriculum or consult with an academic advisor for the most current and specific specialization options available in the BIT_AI program, as they may change over time.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific specialization combos available in the BIT_AI program and providing relevant details about each."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific pathways (AI17_COM_1 to AI17_COM_4 and TMI_ELE) provided in the reference answer, and instead lists unrelated specializations."
+    }
+  },
+  {
+    "id": "combo_02",
+    "category": "combo_pathway",
+    "question": "What courses are in the Applied Data Science topic?",
+    "reference_answer": "The Applied Data Science topic (AI17_COM1) includes DSR301m (Applied Data Science with R) and BDI302c (Big Data).",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the Applied Data Science topic typically includes courses that focus on data analysis, machine learning, and practical applications of data science techniques. While I don't have the exact course list for the K20-K21 curriculum, common courses in this area may include:\n\n1. **Data Mining** - Techniques for discovering patterns in large datasets.\n2. **Machine Learning** - Introduction to algorithms and models that enable computers to learn from data.\n3. **Statistical Analysis** - Methods for analyzing and interpreting data using statistical techniques.\n4. **Big Data Technologies** - Tools and frameworks for processing and analyzing large volumes of data.\n5. **Data Visualization** - Techniques for representing data graphically to communicate insights effectively.\n6. **Predictive Analytics** - Using statistical techniques and machine learning to predict future outcomes based on historical data.\n\nFor the most accurate and detailed information, I recommend checking the official curriculum guide or contacting the program coordinator directly.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a detailed list of relevant courses in the Applied Data Science topic, addressing the question fully with specific examples."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The context is empty, so the answer cannot be verified."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some relevant aspects of the Applied Data Science topic but does not mention the specific courses (DSR301m and BDI302c) listed in the reference answer."
+    }
+  },
+  {
+    "id": "combo_03",
+    "category": "combo_pathway",
+    "question": "What are the elective options for TMI_ELE?",
+    "reference_answer": "TMI_ELE offers 7 traditional musical instrument options: DTR103 (Dan Tranh), DBA103 (Dan Bau), DSA103 (Sao truc), DNG103 (Dan nguyet), DTB103 (Dan Ty ba), TRG103 (Trong dan toc), DNH103 (Dan Nhi).",
+    "generated_answer": "In the BIT_AI program curriculum version K20-K21, the elective options for TMI_ELE (which typically refers to elective courses in the Technology Management and Innovation area) may include a variety of subjects related to technology, management, and innovation. However, the specific elective courses can vary by semester and academic year.\n\nTo get the most accurate and up-to-date information regarding the elective options for TMI_ELE, I recommend checking the official curriculum guide provided by FPT University or consulting with your academic advisor directly. They will have the latest details on available electives and any prerequisites that may apply.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides a general overview of elective options for TMI_ELE but lacks specific details about the actual courses available."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention any of the specific traditional musical instrument options listed in the reference answer and instead discusses unrelated subjects in technology management."
+    }
+  },
+  {
+    "id": "combo_04",
+    "category": "combo_pathway",
+    "question": "What courses are in the AI application combo topic?",
+    "reference_answer": "The AI application topic (AI17_COM3) includes AIH301m (AI in Healthcare) and ASR301c (AI for Scientific Research).",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the AI application combo topic typically includes courses that focus on practical applications of artificial intelligence in various fields. While I don't have the exact list of courses for the K20-K21 curriculum, common courses in this area may include:\n\n1. **Machine Learning** - Understanding algorithms and statistical models that enable computers to perform tasks without explicit instructions.\n2. **Deep Learning** - Exploring neural networks and their applications in image and speech recognition.\n3. **Natural Language Processing (NLP)** - Techniques for processing and analyzing human language data.\n4. **Computer Vision** - Methods for enabling computers to interpret and understand visual information from the world.\n5. **Data Mining** - Techniques for discovering patterns and knowledge from large amounts of data.\n6. **AI in Robotics** - Application of AI techniques in robotic systems for automation and intelligent behavior.\n\nFor the most accurate and updated information, I recommend checking the official curriculum guide or contacting the program coordinator directly.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a detailed list of relevant courses in the AI application combo topic, addressing the question fully with specific examples."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The context is empty, and the answer contains claims not found in the context."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific courses (AIH301m and ASR301c) listed in the reference answer and instead provides a general overview of AI-related courses."
+    }
+  },
+  {
+    "id": "combo_05",
+    "category": "combo_pathway",
+    "question": "Which semester do combo courses start?",
+    "reference_answer": "Combo courses start from semester 5 (AI17_COM_1 and AI17_COM_2), continuing in semester 7 (AI17_COM_3) and semester 8 (AI17_COM_4).",
+    "generated_answer": "In the BIT_AI program curriculum version K20-K21 at FPT University, combo courses typically start in the second semester. These courses are designed to integrate multiple subjects and provide a more comprehensive learning experience. However, it's always a good idea to check the latest curriculum or consult with your academic advisor for any updates or changes.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that combo courses typically start in the second semester and provides relevant context about the curriculum."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer incorrectly states that combo courses start in the second semester, contradicting the reference answer which specifies they start from semester 5."
+    }
+  },
+  {
+    "id": "combo_06",
+    "category": "combo_pathway",
+    "question": "What is the AI Applied Research combo topic about?",
+    "reference_answer": "The AI Applied Research topic (AI17_COM2.1) includes TMG301 (Text Mining) and SEG301 (Search Engines). It is available from K18D-K19A.",
+    "generated_answer": "The AI Applied Research combo topic in the Bachelor of IT in Artificial Intelligence (BIT_AI) program typically focuses on the practical application of artificial intelligence theories and techniques to solve real-world problems. This may involve conducting research projects that apply AI methodologies in various domains such as healthcare, finance, robotics, or natural language processing.\n\nStudents may engage in hands-on projects, collaborate with industry partners, and explore innovative solutions using machine learning, deep learning, data analysis, and other AI technologies. The goal is to bridge the gap between theoretical knowledge and practical implementation, allowing students to develop skills that are highly relevant in the job market.\n\nIf you need more specific details about the curriculum or project requirements, I recommend checking the official program documentation or contacting your course instructor.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a clear explanation of the AI Applied Research combo topic, including its focus on practical applications, research projects, and relevant skills."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not mention the specific courses (TMG301 and SEG301) or the availability period (K18D-K19A) as stated in the reference answer."
+    }
+  },
+  {
+    "id": "combo_07",
+    "category": "combo_pathway",
+    "question": "If I'm interested in healthcare AI, which combo should I pick?",
+    "reference_answer": "You should pick courses from the AI17_COM3 topic (AI application), which includes AIH301m (AI in Healthcare).",
+    "generated_answer": "If you're interested in healthcare AI within the Bachelor of IT in Artificial Intelligence (BIT_AI) program, I recommend considering a combination of courses that focus on both AI techniques and their applications in healthcare. \n\nLook for courses that cover:\n\n1. **Machine Learning** - Understanding algorithms and models that can be applied to healthcare data.\n2. **Data Science** - Skills in data analysis and interpretation are crucial for working with healthcare datasets.\n3. **Bioinformatics** - This can provide insights into how AI can be applied to biological data.\n4. **Ethics in AI** - Understanding the ethical implications of AI in healthcare is essential.\n5. **Healthcare Systems** - Courses that cover the structure and functioning of healthcare systems can provide context for your AI applications.\n\nAdditionally, if there are any elective courses or projects specifically focused on healthcare applications of AI, those would be highly beneficial. \n\nMake sure to consult with your academic advisor or program coordinator for specific course offerings and recommendations tailored to your interests in healthcare AI.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific course recommendations relevant to healthcare AI, along with additional advice on consulting academic advisors."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer provides relevant information about courses related to healthcare AI but does not specifically mention the recommended AI17_COM3 topic or the AIH301m course as stated in the reference answer."
+    }
+  },
+  {
+    "id": "combo_08",
+    "category": "combo_pathway",
+    "question": "How many combo subject slots are there in total?",
+    "reference_answer": "There are 4 combo subject slots: AI17_COM*1 and AI17_COM*2 in semester 5, AI17_COM*3 in semester 7, and AI17_COM*4 in semester 8.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, there are typically 4 combo subject slots available. These slots allow students to choose from a variety of subjects that can complement their main area of study. However, it's always a good idea to check the latest curriculum guide or consult with your academic advisor for the most accurate and updated information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer directly addresses the question by providing the specific number of combo subject slots and additional relevant context."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer correctly states that there are 4 combo subject slots but does not specify the exact slots or semesters as mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_01",
+    "category": "cross_document",
+    "question": "What are the learning outcomes of the Machine Learning course?",
+    "reference_answer": "The Machine Learning course (AIL303m) covers learning outcomes related to understanding ML fundamentals, implementing ML algorithms, data preprocessing, model evaluation, and applying ML to real-world problems.",
+    "generated_answer": "The learning outcomes of the Machine Learning course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University typically include the following:\n\n1. **Understanding of Machine Learning Concepts**: Students will gain a solid understanding of the fundamental concepts and principles of machine learning, including supervised, unsupervised, and reinforcement learning.\n\n2. **Data Preprocessing Skills**: Students will learn how to preprocess and clean data, which is crucial for building effective machine learning models.\n\n3. **Model Selection and Evaluation**: Students will be able to select appropriate machine learning algorithms for specific problems and evaluate their performance using various metrics.\n\n4. **Implementation of Algorithms**: Students will gain hands-on experience in implementing machine learning algorithms using programming languages and libraries such as Python, TensorFlow, or Scikit-learn.\n\n5. **Feature Engineering**: Students will learn techniques for feature selection and extraction to improve model performance.\n\n6. **Understanding of Overfitting and Underfitting**: Students will understand the concepts of overfitting and underfitting and learn strategies to mitigate these issues.\n\n7. **Application of Machine Learning**: Students will be able to apply machine learning techniques to real-world problems across various domains, such as finance, healthcare, and marketing.\n\n8. **Ethical Considerations**: Students will be aware of the ethical implications of machine learning and AI, including bias, fairness, and privacy concerns.\n\n9. **Collaboration and Communication**: Students will develop skills to work collaboratively in teams and effectively communicate their findings and methodologies.\n\nThese outcomes may vary slightly based on the specific curriculum and updates, so it's always a good idea to refer to the official course syllabus or consult with your instructor for the most accurate information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed list of specific learning outcomes for the Machine Learning course."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no provided context."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures several key facts about understanding ML concepts, data preprocessing, model evaluation, and application to real-world problems, but it includes additional details and outcomes not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_02",
+    "category": "cross_document",
+    "question": "What programming language is used in the Data Structures course?",
+    "reference_answer": "The Data Structures and Algorithm course (CSD203) uses Python, as indicated by its full name 'Data Structures and Algorithm with Python'.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the Data Structures course typically uses programming languages such as Python or Java. However, the specific language may vary depending on the instructor and the course focus. It's best to check the course syllabus or consult with your instructor for the most accurate information regarding the programming language used in your specific Data Structures course.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by specifying that the Data Structures course typically uses Python or Java and provides additional context about variability."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer mentions Python as a programming language used in the Data Structures course but also includes Java and indicates variability based on the instructor, which diverges from the reference answer's specificity."
+    }
+  },
+  {
+    "id": "content_03",
+    "category": "cross_document",
+    "question": "What is PLO2 about?",
+    "reference_answer": "PLO2 is about applying solid foundational knowledge in the field of IT in general and Artificial Intelligence (AI) in particular to understand the professional context and acquire in-depth specialized knowledge in AI.",
+    "generated_answer": "PLO2, or Program Learning Outcome 2, in the context of FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, typically focuses on the ability to apply knowledge of mathematics and natural sciences to solve complex problems in the field of IT and AI. This may include understanding algorithms, data structures, and mathematical concepts that are fundamental to developing AI systems and technologies.\n\nIf you need more specific details or examples related to PLO2, please let me know!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a clear and specific explanation of what PLO2 entails in the context of the BIT_AI program."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context is provided to support the claims made in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some aspects of applying knowledge in IT and AI but emphasizes mathematics and natural sciences, which are not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_04",
+    "category": "cross_document",
+    "question": "What topics does the Computer Vision course cover?",
+    "reference_answer": "The Computer Vision course (CPV301) covers topics related to image processing, feature extraction, object detection, and applying computer vision techniques using Python.",
+    "generated_answer": "The Computer Vision course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program typically covers a range of topics that are essential for understanding and applying computer vision techniques. While the specific curriculum may vary, common topics include:\n\n1. **Introduction to Computer Vision**: Overview of the field, its applications, and importance.\n2. **Image Processing Fundamentals**: Basic concepts such as image representation, color spaces, filtering, and transformations.\n3. **Feature Detection and Description**: Techniques for identifying and describing key features in images, such as edges, corners, and blobs.\n4. **Object Recognition**: Methods for recognizing and classifying objects within images, including machine learning approaches.\n5. **Image Segmentation**: Techniques for partitioning an image into meaningful segments or regions.\n6. **Motion Analysis**: Understanding how to analyze and interpret motion in video sequences.\n7. **3D Vision**: Concepts related to depth perception, stereo vision, and 3D reconstruction.\n8. **Deep Learning for Computer Vision**: Introduction to convolutional neural networks (CNNs) and their applications in image classification and object detection.\n9. **Applications of Computer Vision**: Real-world applications such as facial recognition, autonomous vehicles, and augmented reality.\n\nFor the most accurate and detailed information, I recommend checking the official course syllabus or contacting the course instructor.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive list of topics covered in the Computer Vision course, detailing each area with specific and relevant information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures several key topics related to computer vision, such as image processing and object detection, but it includes additional topics not mentioned in the reference answer and lacks specific mention of using Python."
+    }
+  },
+  {
+    "id": "content_05",
+    "category": "cross_document",
+    "question": "How is the Deep Learning course assessed?",
+    "reference_answer": "The Deep Learning course (DPL302m) assessment includes assignments, projects, and examinations as detailed in its syllabus.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the Deep Learning course is typically assessed through a combination of methods. These may include:\n\n1. **Assignments**: Students are often required to complete practical assignments that involve implementing deep learning algorithms and working on real-world datasets.\n\n2. **Quizzes and Tests**: There may be periodic quizzes or tests to evaluate students' understanding of theoretical concepts and their ability to apply them.\n\n3. **Projects**: A significant component of the assessment may involve group or individual projects where students develop deep learning models to solve specific problems.\n\n4. **Exams**: There may be mid-term and final exams that assess students' overall understanding of the course material.\n\n5. **Participation**: In some cases, class participation and engagement in discussions may also contribute to the overall assessment.\n\nIt's important to check the specific course syllabus or consult with the course instructor for detailed information on the assessment criteria and weightings, as these can vary.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about various assessment methods used in the Deep Learning course."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key assessment methods like assignments, projects, and exams, but it includes additional details and methods not mentioned in the reference answer, such as quizzes and participation."
+    }
+  },
+  {
+    "id": "content_06",
+    "category": "cross_document",
+    "question": "What materials are used in the AI in Healthcare course?",
+    "reference_answer": "The AI in Healthcare course (AIH301m) uses materials that may include textbooks, online resources, and Coursera courses related to applying AI techniques in healthcare settings.",
+    "generated_answer": "I don't have specific details about the materials used in the AI in Healthcare course for the BIT_AI program at FPT University. Typically, such courses may include textbooks, research papers, case studies, online resources, and software tools relevant to AI applications in healthcare. I recommend checking the course syllabus or contacting the course instructor for the most accurate and up-to-date information regarding the materials used.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides a general idea of the types of materials that may be used but lacks specific details about the actual materials for the course."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify claims about course materials."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key facts about the types of materials (textbooks, online resources) but does not specifically mention Coursera courses and includes additional materials not mentioned in the reference."
+    }
+  },
+  {
+    "id": "content_07",
+    "category": "cross_document",
+    "question": "What does the Ethics in IT course cover?",
+    "reference_answer": "The Ethics in IT course (ITE303c) covers ethical considerations in information technology, including professional responsibility, privacy, intellectual property, and social impact of technology.",
+    "generated_answer": "The Ethics in IT course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program typically covers a range of topics related to the ethical implications of technology and information systems. While the specific curriculum may vary, you can generally expect the course to address the following areas:\n\n1. **Introduction to Ethics**: Understanding the fundamental concepts of ethics and moral philosophy, including key theories and frameworks.\n\n2. **Ethical Issues in IT**: Exploration of ethical dilemmas that arise in the field of information technology, such as privacy concerns, data security, intellectual property rights, and the impact of technology on society.\n\n3. **Professional Ethics**: Discussion of the ethical responsibilities of IT professionals, including codes of conduct and the importance of integrity in the workplace.\n\n4. **Case Studies**: Analysis of real-world scenarios and case studies that highlight ethical challenges in IT, such as data breaches, algorithmic bias, and the use of artificial intelligence.\n\n5. **Regulatory and Legal Frameworks**: Overview of relevant laws and regulations that govern IT practices, including data protection laws and compliance requirements.\n\n6. **Social Implications of Technology**: Examination of how technology affects social structures, human behavior, and the ethical considerations of emerging technologies like AI and machine learning.\n\n7. **Future Trends**: Discussion on the ethical implications of future technological advancements and the role of IT professionals in shaping a responsible tech landscape.\n\nThis course aims to equip students with the knowledge and skills to navigate ethical challenges in their careers and to promote responsible use of technology. If you have specific questions about the course content or structure, feel free to ask!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer thoroughly addresses the question by outlining specific topics covered in the Ethics in IT course, providing detailed explanations for each area."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures several key topics related to ethics in IT, such as privacy, intellectual property, and professional responsibility, but it also includes additional details and areas not explicitly mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_08",
+    "category": "cross_document",
+    "question": "What is the description of the Introduction to Databases course?",
+    "reference_answer": "DBI202 (Introduction to Databases) covers fundamental concepts of database systems including relational databases, SQL, database design, and data management.",
+    "generated_answer": "The \"Introduction to Databases\" course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program typically covers the fundamental concepts of database systems. This includes an overview of database models, the relational model, and the use of Structured Query Language (SQL) for database manipulation. Students learn about database design, normalization, and the principles of data integrity and security. The course may also introduce students to database management systems (DBMS) and their applications in real-world scenarios, emphasizing the importance of databases in software development and data management.\n\nFor the most accurate and detailed description, I recommend checking the official curriculum documentation or course syllabus provided by FPT University.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed description of the course content, including key topics and concepts covered."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key concepts such as relational databases, SQL, and database design, but it includes additional details and topics not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_09",
+    "category": "cross_document",
+    "question": "Which courses contribute to PLO8?",
+    "reference_answer": "PLO8 relates to the ability to program and use simulation tools in the field of AI. Courses like PFP191, CSD203, AIL303m, DPL302m, and other programming-intensive courses contribute to this PLO.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, Program Learning Outcome 8 (PLO8) typically focuses on the ability to apply knowledge of computing and mathematics to solve complex problems. The specific courses that contribute to PLO8 may include:\n\n1. **Mathematics for Computer Science** - Covers essential mathematical concepts that are foundational for problem-solving in computing.\n2. **Data Structures and Algorithms** - Teaches how to organize and manipulate data efficiently, which is crucial for solving complex computational problems.\n3. **Artificial Intelligence** - Focuses on algorithms and techniques used in AI, which often require strong problem-solving skills.\n4. **Machine Learning** - Involves applying mathematical concepts to develop models that can learn from data.\n5. **Software Engineering** - Emphasizes problem-solving in the context of software development and project management.\n\nPlease check the latest curriculum or consult with your course instructor for the most accurate and updated information regarding PLO8 and the specific courses that contribute to it.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific courses that contribute to PLO8 and providing relevant details about each course's focus."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not align with the reference answer as it focuses on problem-solving in computing rather than programming and simulation tools in AI, and it lists different courses that do not match those mentioned in the reference."
+    }
+  },
+  {
+    "id": "content_10",
+    "category": "cross_document",
+    "question": "What is the scoring scale for most courses?",
+    "reference_answer": "Most courses use a scoring scale of 10, with a minimum average mark to pass of 5.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, the scoring scale for most courses typically follows a 10-point grading system. Here’s a general breakdown of the scoring scale:\n\n- 9.0 - 10.0: Excellent (A)\n- 8.0 - 8.9: Good (B)\n- 7.0 - 7.9: Fairly Good (C)\n- 6.0 - 6.9: Average (D)\n- 5.0 - 5.9: Pass (E)\n- Below 5.0: Fail (F)\n\nPlease note that specific courses may have variations in grading criteria, so it's always a good idea to check the course syllabus or consult with the course instructor for precise information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed breakdown of the scoring scale used in most courses, specifically within the context of the BIT_AI program."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures the scoring scale of 10 but does not mention the minimum average mark to pass of 5, which is a key detail from the reference answer."
+    }
+  },
+  {
+    "id": "plan_01",
+    "category": "curriculum_planning",
+    "question": "I'm in semester 3. What should I take next semester?",
+    "reference_answer": "In semester 4, you should take: AIL303m (Machine Learning, 3cr, requires MAS291+MAI391+PFP191), CPV301 (Computer Vision, 3cr, requires PFP191+CSD203), DAP391m (AI-DS Project, 3cr, requires PFP191+ADY201m), SSG105 (Communication Skills, 3cr), and SWE201c (Intro to Software Engineering, 3cr).",
+    "generated_answer": "In semester 4 of the Bachelor of IT in Artificial Intelligence (BIT_AI) program, you typically have a set of core courses and possibly some electives to choose from. While I don't have the specific course offerings for your semester, I can suggest that you look for courses that build on the foundational knowledge you've gained in semesters 1 to 3.\n\nCommon courses you might consider include:\n\n1. **Machine Learning** - This is a crucial area in AI and will deepen your understanding of algorithms and data analysis.\n2. **Data Structures and Algorithms** - Essential for programming and software development, this course will enhance your problem-solving skills.\n3. **Database Systems** - Understanding how to manage and manipulate data is vital for AI applications.\n4. **Artificial Intelligence Fundamentals** - If you haven't taken an introductory course yet, this would be a good choice.\n\nAdditionally, consider any electives that align with your interests or career goals, such as natural language processing, computer vision, or robotics.\n\nMake sure to check the official curriculum guide or consult with your academic advisor for the most accurate and updated information regarding course offerings and prerequisites.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides specific course recommendations relevant to the question about what to take next semester, along with advice on consulting the curriculum and academic advisor."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer provides some relevant course suggestions but does not accurately list the specific courses and prerequisites mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "plan_02",
+    "category": "curriculum_planning",
+    "question": "If I want to take Deep Learning as fast as possible, what's the shortest path?",
+    "reference_answer": "The shortest path to DPL302m: First complete MAE101 (sem 1), then MAS291 and MAI391 (sem 3, both need MAE101), also complete PFP191 (sem 1). Then take AIL303m (sem 4, needs MAS291+MAI391+PFP191). Finally take DPL302m (sem 5, needs AIL303m).",
+    "generated_answer": "To take Deep Learning as quickly as possible within the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, you can follow these steps:\n\n1. **Prerequisites**: Ensure you have a solid understanding of the prerequisites, which typically include programming (preferably Python), linear algebra, calculus, and basic statistics. If you haven't taken these courses yet, consider doing so as soon as possible.\n\n2. **Course Selection**: Check the curriculum for the BIT_AI program to see if there is a dedicated Deep Learning course. If there is, prioritize enrolling in that course. If not, look for related courses such as Machine Learning or Artificial Intelligence that may cover Deep Learning topics.\n\n3. **Online Resources**: Supplement your learning with online courses or resources. Platforms like Coursera, edX, or Udacity offer specialized courses in Deep Learning that can be completed at your own pace. Look for courses by recognized institutions or instructors.\n\n4. **Projects and Practice**: Engage in hands-on projects as soon as you grasp the basics. Implementing Deep Learning models using frameworks like TensorFlow or PyTorch will solidify your understanding and skills.\n\n5. **Study Groups**: Join or form study groups with peers who are also interested in Deep Learning. Collaborative learning can accelerate your understanding and provide support.\n\n6. **Consult Faculty**: Reach out to your professors or academic advisors for guidance on the best resources and strategies to expedite your learning in Deep Learning.\n\nBy following these steps, you can create a focused and efficient path to mastering Deep Learning as quickly as possible.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive and detailed plan for taking Deep Learning quickly, including prerequisites, course selection, online resources, practical projects, study groups, and faculty consultation."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not address the specific course sequence and prerequisites required to take Deep Learning as outlined in the reference answer."
+    }
+  },
+  {
+    "id": "plan_03",
+    "category": "curriculum_planning",
+    "question": "Can I take CPV301 if I only passed PFP191 but not CSD203?",
+    "reference_answer": "No, CPV301 (Computer Vision) requires both PFP191 AND CSD203. You must complete CSD203 (Data Structures and Algorithm with Python) first.",
+    "generated_answer": "In the BIT_AI program curriculum version K20-K21, CPV301 typically has prerequisites that must be met before enrolling. If CPV301 requires both PFP191 and CSD203 as prerequisites, then you would not be able to take CPV301 if you have only passed PFP191 and not CSD203. \n\nI recommend checking the specific course prerequisites listed in your program guide or consulting with your academic advisor for the most accurate and personalized advice.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly explains the prerequisite requirements for CPV301 and provides guidance on how to verify this information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, which is empty."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the requirement that both PFP191 and CSD203 are needed to take CPV301, aligning with the reference answer."
+    }
+  },
+  {
+    "id": "plan_04",
+    "category": "curriculum_planning",
+    "question": "What is the path from semester 1 to being able to take NLP301c?",
+    "reference_answer": "Path to NLP301c: Semester 1: PFP191 and MAE101. Semester 3: MAS291 (needs MAE101) and MAI391 (needs MAE101). Semester 4: AIL303m (needs MAS291+MAI391+PFP191). Semester 6: NLP301c (needs AIL30x and PFP191 or PRP201c).",
+    "generated_answer": "To take the NLP301c course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, you typically need to follow a specific academic path that includes prerequisite courses. While I don't have the exact curriculum details for each semester, I can provide a general outline of the steps you would likely need to take from semester 1 to reach NLP301c.\n\n1. **Semester 1**: Focus on foundational courses in programming, mathematics, and computer science. Courses like Introduction to Programming and Discrete Mathematics are common in the first semester.\n\n2. **Semester 2**: Continue building your programming skills and start taking courses related to data structures and algorithms. You might also take introductory courses in artificial intelligence or machine learning.\n\n3. **Semester 3**: At this stage, you should take more advanced courses in AI, statistics, and possibly introductory courses in natural language processing (NLP) if available. This will help you understand the basics of how NLP works.\n\n4. **Semester 4**: You may need to take courses that cover machine learning and data mining, as these are often essential for understanding NLP techniques.\n\n5. **Semester 5**: By this semester, you should be looking for courses specifically related to NLP or advanced AI topics. If NLP301c has prerequisites, ensure you have completed them by this point.\n\n6. **Semester 6**: This is typically when you would enroll in NLP301c, assuming you have completed all necessary prerequisites.\n\nMake sure to check the specific course descriptions and prerequisites for NLP301c in your program's curriculum guide, as they can provide detailed information on what you need to complete before enrolling in that course. If you have any further questions or need clarification on specific courses, feel free to ask!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a detailed and specific outline of the academic path from semester 1 to NLP301c, including relevant courses and progression."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims made in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not accurately reflect the specific courses and prerequisites outlined in the reference answer, providing a general outline instead."
+    }
+  },
+  {
+    "id": "plan_05",
+    "category": "curriculum_planning",
+    "question": "I completed AIL303m and DPL302m. What advanced AI courses can I take now?",
+    "reference_answer": "With AIL303m and DPL302m completed, you can take: REL301m (Reinforcement Learning), DAT301m (also needs CPV301), NLP301c (also needs PRP201c or PFP191), AID301c (also needs SWE201c), and combo courses from the AI application or Applied Data Science topics.",
+    "generated_answer": "As a student who has completed AIL303m (Artificial Intelligence Learning) and DPL302m (Data Processing and Learning), you may be eligible to take several advanced AI courses in the BIT_AI program. Typically, advanced courses may include topics such as:\n\n1. **Machine Learning (ML)** - Delving deeper into algorithms and their applications.\n2. **Deep Learning (DL)** - Focusing on neural networks and their architectures.\n3. **Natural Language Processing (NLP)** - Exploring how machines understand and process human language.\n4. **Computer Vision** - Understanding how to enable machines to interpret and make decisions based on visual data.\n5. **Reinforcement Learning** - Studying how agents can learn to make decisions through trial and error.\n6. **AI Ethics and Governance** - Discussing the ethical implications and governance of AI technologies.\n\nPlease check the latest course offerings and prerequisites in your program's curriculum, as they may vary. If you have specific interests or career goals, I can help you narrow down your options further!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a list of specific advanced AI courses that can be taken after completing AIL303m and DPL302m, along with a suggestion to check the curriculum for prerequisites."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some relevant advanced AI courses but does not specifically mention the courses listed in the reference answer, nor does it include the prerequisites for some of them."
+    }
+  },
+  {
+    "id": "plan_06",
+    "category": "curriculum_planning",
+    "question": "How many total credits do I need to graduate?",
+    "reference_answer": "The K20-K21 BIT_AI curriculum requires a total of 145 credits across 47 subjects.",
+    "generated_answer": "To graduate from the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University under the K20-K21 curriculum, you typically need to complete a total of 120 credits. This includes core courses, elective courses, and any required practical training or projects. However, I recommend checking the latest academic regulations or consulting with your academic advisor for any updates or specific requirements related to your situation.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing the specific number of credits required for graduation and additional relevant details."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that 120 credits are needed, which contradicts the reference answer of 145 credits."
+    }
+  },
+  {
+    "id": "plan_07",
+    "category": "curriculum_planning",
+    "question": "What are the requirements for the On-The-Job Training?",
+    "reference_answer": "OJT202 requires students to have attained 90% of total credits prior to the OJT term (excluding Physical Education and OTP Programs). Students choosing JS combo (Japanese Bridge Engineer) must also pass JPD133.",
+    "generated_answer": "For the On-The-Job Training (OJT) in the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, students typically need to meet certain requirements, which may include:\n\n1. **Completion of Coursework**: Students usually need to have completed a specific number of credits or core courses related to their field of study before they can begin their OJT.\n\n2. **GPA Requirement**: There may be a minimum GPA requirement that students must maintain to be eligible for OJT.\n\n3. **Application Process**: Students often need to submit an application for OJT, which may include a resume and a statement of purpose outlining their interests and goals for the training.\n\n4. **Approval from Faculty**: The OJT placement may require approval from faculty or academic advisors to ensure that the training aligns with the student's academic and career objectives.\n\n5. **Duration and Hours**: Students may need to commit to a certain number of hours or weeks for the OJT, which should be specified in the program guidelines.\n\n6. **Supervision and Reporting**: Students might be required to have a supervisor at the training site and to submit reports or reflections on their experiences during the OJT.\n\nIt's important to check the specific guidelines provided by FPT University for the most accurate and detailed information, as requirements can vary or be updated. If you have further questions or need clarification, I recommend reaching out to your academic advisor or the program coordinator.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific and accurate details about the requirements for On-The-Job Training in the BIT_AI program at FPT University."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not address the specific requirements mentioned in the reference answer, such as the 90% credit requirement and the specific course (JPD133) for the JS combo."
+    }
+  },
+  {
+    "id": "plan_08",
+    "category": "curriculum_planning",
+    "question": "What Japanese language courses are in the curriculum?",
+    "reference_answer": "The curriculum includes JPD113 (Elementary Japanese 1-A1.1) in semester 2 and JPD123 (Elementary Japanese 1-A1.2) in semester 3, which requires JPD113.",
+    "generated_answer": "In the BIT_AI program curriculum version K20-K21 at FPT University, there are typically courses related to Japanese language studies, especially considering the growing importance of Japanese in the tech industry and international business. However, the specific courses may vary by semester and academic year. \n\nTo get the most accurate and up-to-date information regarding the Japanese language courses offered in your curriculum, I recommend checking the official curriculum guide provided by the university or contacting the language department directly. If you have any other questions about the program, feel free to ask!",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides a general idea about Japanese language courses in the curriculum but lacks specific details about the actual courses offered."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, as there is no context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not provide any specific courses or details about the Japanese language curriculum, contradicting the reference answer."
+    }
+  },
+  {
+    "id": "plan_09",
+    "category": "curriculum_planning",
+    "question": "When do students take political science courses?",
+    "reference_answer": "Political science courses are taken in the later semesters: MLN111 (Philosophy of Marxism-Leninism) in semester 8, MLN122 (Political Economics) in semester 8, HCM202 (Ho Chi Minh Ideology) in semester 9, MLN131 (Scientific Socialism) in semester 9, and VNR202 (History of Communist Party) in semester 9.",
+    "generated_answer": "In the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, political science courses are typically part of the general education requirements. These courses are usually taken in the first or second year of the program, depending on the specific curriculum structure and the student's course load. It's best to consult the official curriculum guide or speak with an academic advisor for the exact timing and availability of these courses in your specific academic plan.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about when political science courses are typically taken in the context of a specific program."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer contains claims not found in the context, which is empty."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer contradicts the reference answer regarding when political science courses are taken, stating they are taken in the first or second year instead of the later semesters."
+    }
+  },
+  {
+    "id": "plan_10",
+    "category": "curriculum_planning",
+    "question": "I want to specialize in data science. Which combo topic and courses should I focus on?",
+    "reference_answer": "You should focus on the AI17_COM1 topic (Applied Data Science), which includes DSR301m (Applied Data Science with R) and BDI302c (Big Data). These appear in combo slots AI17_COM_1 through AI17_COM_4.",
+    "generated_answer": "To specialize in data science within the Bachelor of IT in Artificial Intelligence (BIT_AI) program at FPT University, you should focus on a combination of topics and courses that build a strong foundation in data analysis, machine learning, and statistical methods. Here are some recommended areas and courses to consider:\n\n1. **Mathematics and Statistics**:\n   - Courses in statistics, probability, and linear algebra are essential for understanding data analysis techniques and algorithms used in data science.\n\n2. **Programming**:\n   - Proficiency in programming languages commonly used in data science, such as Python or R, is crucial. Look for courses that focus on these languages, especially those that cover libraries like Pandas, NumPy, and Scikit-learn.\n\n3. **Data Management**:\n   - Courses on databases and data warehousing will help you understand how to store, retrieve, and manage large datasets. SQL is particularly important.\n\n4. **Machine Learning**:\n   - Focus on courses that cover machine learning algorithms, model evaluation, and implementation. This is a core component of data science.\n\n5. **Data Visualization**:\n   - Courses that teach data visualization techniques and tools (like Tableau or Matplotlib) will help you present your findings effectively.\n\n6. **Big Data Technologies**:\n   - Familiarize yourself with big data frameworks such as Hadoop or Spark, which are often covered in specialized courses.\n\n7. **Capstone Project or Internship**:\n   - Engage in a capstone project or internship that allows you to apply your data science skills in a real-world setting. This practical experience is invaluable.\n\n8. **Electives**:\n   - Consider electives that focus on specific areas of data science, such as natural language processing, deep learning, or data ethics.\n\nBy focusing on these areas and selecting relevant courses, you will be well-prepared for a career in data science. Be sure to consult your academic advisor for specific course offerings and any updates to the curriculum that may enhance your learning experience.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a comprehensive list of relevant topics and courses for specializing in data science, along with specific details and recommendations."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to support the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer provides a broad overview of relevant topics and courses for data science but does not specifically mention the AI17_COM1 topic or the courses DSR301m and BDI302c as outlined in the reference answer."
+    }
+  }
+]

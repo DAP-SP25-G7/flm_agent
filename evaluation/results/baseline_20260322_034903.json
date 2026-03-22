@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fact_01",
+    "category": "factual_lookup",
+    "question": "How many credits is the Deep Learning course?",
+    "reference_answer": "The Deep Learning course (DPL302m) is 6 credits.",
+    "generated_answer": "The Deep Learning course in the Bachelor of IT in Artificial Intelligence (BIT_AI) program, curriculum version K20-K21, is typically worth 3 credits. However, I recommend checking the latest course catalog or contacting the program administration for the most accurate and up-to-date information.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a specific detail about the credit value of the Deep Learning course and suggests checking for the most current information."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states the course is worth 3 credits, which contradicts the reference answer of 6 credits."
+    }
+  },
+  {
+    "id": "fact_02",
+    "category": "factual_lookup",
+    "question": "Which semester is Computer Vision (CPV301) in?",
+    "reference_answer": "Computer Vision (CPV301) is in semester 4.",
+    "generated_answer": "In the FPT University's Bachelor of IT in Artificial Intelligence (BIT_AI) program, the course Computer Vision (CPV301) is typically offered in the 6th semester. However, it's always a good idea to check the latest curriculum or consult with your academic advisor for any updates or changes.",
+    "tool_calls": [],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Computer Vision (CPV301) is typically offered in the 6th semester and provides additional context about checking the curriculum."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "No context provided to verify the claims in the answer."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that Computer Vision (CPV301) is in the 6th semester, which contradicts the reference answer that states it is in semester 4."
+    }
+  }
+]

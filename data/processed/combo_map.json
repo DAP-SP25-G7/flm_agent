@@ -1,0 +1,225 @@
+{
+  "AI17_COM_1": {
+    "description": "Subject 1 of Combo",
+    "semester": "5",
+    "curriculum": "BIT_AI_*",
+    "topics": {
+      "AI17_COM1: Topic on Applied Data Science": [
+        {
+          "code": "DSR301m",
+          "name": "Applied Data Science with R",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "BDI302c",
+          "name": "Big Data",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM3: Topic on AI application": [
+        {
+          "code": "AIH301m",
+          "name": "AI in Healthcare",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "ASR301c",
+          "name": "AI for Scientific Research",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM2.1: Topic on AI Applied research (Available: K18D - K19A)": [
+        {
+          "code": "TMG301",
+          "name": "Text Mining",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "SEG301",
+          "name": "Search Engines",
+          "is_active": true,
+          "is_approved": true
+        }
+      ]
+    }
+  },
+  "AI17_COM_2": {
+    "description": "Subject 2 of Combo",
+    "semester": "5",
+    "curriculum": "BIT_AI_*",
+    "topics": {
+      "AI17_COM1: Topic on Applied Data Science": [
+        {
+          "code": "DSR301m",
+          "name": "Applied Data Science with R",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "BDI302c",
+          "name": "Big Data",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM3: Topic on AI application": [
+        {
+          "code": "AIH301m",
+          "name": "AI in Healthcare",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "ASR301c",
+          "name": "AI for Scientific Research",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM2.1: Topic on AI Applied research (Available: K18D - K19A)": [
+        {
+          "code": "TMG301",
+          "name": "Text Mining",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "SEG301",
+          "name": "Search Engines",
+          "is_active": true,
+          "is_approved": true
+        }
+      ]
+    }
+  },
+  "AI17_COM_3": {
+    "description": "Subject 3 of Combo",
+    "semester": "7",
+    "curriculum": "BIT_AI_*",
+    "topics": {
+      "AI17_COM1: Topic on Applied Data Science": [
+        {
+          "code": "DSR301m",
+          "name": "Applied Data Science with R",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "BDI302c",
+          "name": "Big Data",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM3: Topic on AI application": [
+        {
+          "code": "AIH301m",
+          "name": "AI in Healthcare",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "ASR301c",
+          "name": "AI for Scientific Research",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM2.1: Topic on AI Applied research (Available: K18D - K19A)": [
+        {
+          "code": "SLP301",
+          "name": "Speech Processing",
+          "is_active": true,
+          "is_approved": true
+        }
+      ]
+    }
+  },
+  "AI17_COM_4": {
+    "description": "Subject 4 of Combo",
+    "semester": "8",
+    "curriculum": "BIT_AI_*",
+    "topics": {
+      "AI17_COM1: Topic on Applied Data Science": [
+        {
+          "code": "DSP391m",
+          "name": "Data Science",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM3: Topic on AI application": [
+        {
+          "code": "AIE301m",
+          "name": "AI for Trading",
+          "is_active": true,
+          "is_approved": true
+        }
+      ],
+      "AI17_COM2.1: Topic on AI Applied research (Available: K18D - K19A)": [
+        {
+          "code": "IMP302",
+          "name": "Image and Video processing",
+          "is_active": true,
+          "is_approved": true
+        }
+      ]
+    }
+  },
+  "TMI_ELE": {
+    "description": "Traditional musical instrument_Nhạc cụ truyền thống",
+    "semester": "0",
+    "curriculum": "BIT_AI_K19D-20A",
+    "topics": {
+      "Elective options": [
+        {
+          "code": "DTR103",
+          "name": "Nhạc cụ truyền thống-Đàn Tranh",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "DBA103",
+          "name": "Nhạc cụ truyền thống - Đàn Bầu",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "DSA103",
+          "name": "Nhạc cụ truyền thống- Sáo trúc",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "DNG103",
+          "name": "Nhạc cụ truyền thống-Đàn nguyệt",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "DTB103",
+          "name": "Nhạc cụ truyền thống- Đàn Tỳ bà",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "TRG103",
+          "name": "Nhạc cụ truyền thống -Trống dân tộc",
+          "is_active": true,
+          "is_approved": true
+        },
+        {
+          "code": "DNH103",
+          "name": "Nhạc cụ truyền thống- Đàn Nhị",
+          "is_active": true,
+          "is_approved": true
+        }
+      ]
+    }
+  }
+}

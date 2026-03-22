@@ -1,0 +1,1398 @@
+[
+  {
+    "id": "fact_01",
+    "category": "factual_lookup",
+    "question": "How many credits is the Deep Learning course?",
+    "reference_answer": "The Deep Learning course (DPL302m) is 6 credits.",
+    "generated_answer": "The course CS 678: Deep Learning is equivalent to DPL302m in our program. Unfortunately, I do not have the specific credit value for this course. \n\nTo find out the exact credit value, I recommend checking the official course catalog or contacting the academic administration directly. If you have any other questions or need further assistance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Deep Learning course credits"
+        }
+      },
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "DPL302m",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer partially addresses the question by providing information about the course but does not specify the credit value."
+    },
+    "faithfulness": {
+      "score": 0.0,
+      "reason": "The answer does not provide any information about the credit value of the Deep Learning course, and the context does not contain this information either."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not provide the credit value for the Deep Learning course and suggests checking elsewhere, contradicting the reference answer."
+    }
+  },
+  {
+    "id": "fact_02",
+    "category": "factual_lookup",
+    "question": "Which semester is Computer Vision (CPV301) in?",
+    "reference_answer": "Computer Vision (CPV301) is in semester 4.",
+    "generated_answer": "Môn học **Thị giác máy tính (CPV301)** được giảng dạy vào **học kỳ 4**. Dưới đây là một số thông tin chi tiết về môn học:\n\n- **Số tín chỉ**: 3\n- **Điều kiện tiên quyết**: PFP191, CSD203\n- **Mô tả**: \n  - Cung cấp kiến thức cơ bản về thị giác máy tính.\n  - Học về cách biểu diễn hình ảnh, ánh sáng, thu nhận hình ảnh qua camera, và các kỹ thuật hiệu chỉnh camera.\n  - Nắm vững các kỹ thuật phát hiện đường và cạnh trong hình ảnh, các bộ lọc cũng như các phương pháp Canny, RANSAC.\n  - Học kiến thức xử lý hình ảnh nâng cao như phân đoạn hình ảnh, phát hiện đối tượng, nhận diện đối tượng và theo dõi đối tượng.\n  - Thực hiện một dự án thị giác máy tính trong việc nhận diện đối tượng.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "course_code": "CPV301"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Computer Vision (CPV301) is taught in semester 4, directly addressing the question."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically stating that Computer Vision (CPV301) is taught in semester 4."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer correctly states that Computer Vision (CPV301) is in semester 4, matching the reference answer."
+    }
+  },
+  {
+    "id": "fact_03",
+    "category": "factual_lookup",
+    "question": "How many courses are in semester 1?",
+    "reference_answer": "There are 6 courses in semester 1 with a total of 17 credits.",
+    "generated_answer": "Trong học kỳ 1 của chương trình BIT_AI (K20-K21), có tổng cộng 6 môn học với 17 tín chỉ. Dưới đây là danh sách các môn học:\n\n1. **CSI106** — Nhập môn khoa học máy tính (3 tín chỉ)\n2. **MAD101** — Toán rời rạc (3 tín chỉ)\n3. **MAE101** — Toán cho ngành kỹ thuật (3 tín chỉ)\n4. **PFP191** — Cơ sở lập trình với Python (3 tín chỉ)\n5. **PHE_COM*2** — Giáo dục thể chất 2 (2 tín chỉ)\n6. **SSA101** — Kỹ năng học thuật (3 tín chỉ)\n\nNếu bạn cần thêm thông tin về từng môn học hoặc yêu cầu khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "semester": "1"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing the exact number of courses in semester 1 along with specific details about each course."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, including the number of courses and their details."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the same key facts as the reference answer, stating that there are 6 courses in semester 1 with a total of 17 credits."
+    }
+  },
+  {
+    "id": "fact_04",
+    "category": "factual_lookup",
+    "question": "How many credits is the AI Capstone Project?",
+    "reference_answer": "The AI Capstone Project (AIP491) is 10 credits.",
+    "generated_answer": "The AI Capstone Project (Course Code: AIP491) is worth **3 credits**. This course serves as an integrative experience, allowing students to apply their knowledge and skills in a practical, real-world setting. If you have any more questions about the course or its requirements, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "AI Capstone Project credits"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "AI Capstone Project AIP491 credits"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer directly states that the AI Capstone Project is worth 3 credits and provides additional relevant context."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "The answer correctly states that the AI Capstone Project (Course Code: AIP491) is worth 3 credits, which is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that the AI Capstone Project is worth 3 credits, which contradicts the reference answer that specifies it is 10 credits."
+    }
+  },
+  {
+    "id": "fact_05",
+    "category": "factual_lookup",
+    "question": "What is the total number of subjects in the K20-K21 curriculum?",
+    "reference_answer": "The K20-K21 curriculum has 47 subjects with 145 credits total.",
+    "generated_answer": "The K20-K21 curriculum for the BIT_AI program consists of a total of **47 subjects** across various semesters. Here’s a breakdown of the subjects by semester:\n\n1. **Semester 0:** 4 courses\n2. **Semester 1:** 6 courses\n3. **Semester 2:** 6 courses\n4. **Semester 3:** 5 courses\n5. **Semester 4:** 5 courses\n6. **Semester 5:** 4 courses\n7. **Semester 6:** 2 courses\n8. **Semester 7:** 5 courses\n9. **Semester 8:** 6 courses\n10. **Semester 9:** 4 courses\n\nIf you have any further questions about specific subjects or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "semester": "all"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides the total number of subjects in the K20-K21 curriculum and includes a detailed breakdown by semester."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, which states that the K20-K21 curriculum consists of a total of 47 courses."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that the K20-K21 curriculum has 47 subjects, matching the reference answer."
+    }
+  },
+  {
+    "id": "fact_06",
+    "category": "factual_lookup",
+    "question": "Which semester is Natural Language Processing in?",
+    "reference_answer": "Natural Language Processing (NLP301c) is in semester 6.",
+    "generated_answer": "Môn học Xử lý ngôn ngữ tự nhiên (Natural Language Processing) có mã là NLP301c và được tổ chức trong học kỳ thứ 6. Dưới đây là một số thông tin chi tiết:\n\n- **Mã môn học**: NLP301c\n- **Số tín chỉ**: 3\n- **Học kỳ**: 6\n- **Điều kiện tiên quyết**: AIL30x và (PRP201c hoặc PFP191)\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "course_code": "NLP301c"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the semester in which Natural Language Processing is offered."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys that Natural Language Processing (NLP301c) is in semester 6, matching the reference answer."
+    }
+  },
+  {
+    "id": "fact_07",
+    "category": "factual_lookup",
+    "question": "How many credits is Reinforcement Learning?",
+    "reference_answer": "Reinforcement Learning (REL301m) is 3 credits.",
+    "generated_answer": "The course \"Reinforcement Learning\" (REL301m) in the BIT_AI program is worth **3 credits**. \n\nIf you have any more questions about the course or need further assistance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Reinforcement Learning"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing the specific number of credits for the Reinforcement Learning course."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "The answer correctly states that the course 'Reinforcement Learning' (REL301m) is worth 3 credits, which is directly supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the key fact that Reinforcement Learning (REL301m) is worth 3 credits, matching the reference answer."
+    }
+  },
+  {
+    "id": "fact_08",
+    "category": "factual_lookup",
+    "question": "What courses are in semester 2?",
+    "reference_answer": "Semester 2 has 6 courses: AIG202c (Artificial Intelligence), CEA201 (Computer Organization and Architecture), CSD203 (Data Structures and Algorithm with Python), DBI202 (Introduction to Databases), JPD113 (Elementary Japanese 1), PHE_COM*3 (Physical Education 3).",
+    "generated_answer": "In Semester 2 of the BIT_AI program (K20-K21), you will be taking the following courses:\n\n1. **AIG202c** — Artificial Intelligence (3 credits)\n2. **CEA201** — Computer Organization and Architecture (3 credits)\n3. **CSD203** — Data Structures and Algorithm with Python (3 credits) \n   - *Prerequisite: PFP191*\n4. **DBI202** — Introduction to Databases (3 credits)\n5. **JPD113** — Elementary Japanese 1 - A1.1 (3 credits) \n   - *Prerequisite: None*\n6. **PHE_COM*3** — Physical Education 3 (2 credits)\n\nThis semester consists of a total of 17 credits. If you have any further questions about these courses or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "semester": "2"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a complete list of courses in Semester 2 along with their details."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately lists all 6 courses from the reference answer, including their names and details."
+    }
+  },
+  {
+    "id": "fact_09",
+    "category": "factual_lookup",
+    "question": "How many credits is the On-The-Job Training course?",
+    "reference_answer": "On-The-Job Training (OJT202) is 10 credits.",
+    "generated_answer": "The On-The-Job Training course (OJT202) in the BIT_AI program at FPT University is worth **6 credits**. \n\nHere are some additional details regarding the course:\n- Students must have attained **90% of the total credits** prior to the OJT term (excluding Physical Education and OTP Programs).\n- If you are in the Japanese Bridge Engineer (JS combo), you need to pass the course **JPD133** as well.\n\nIf you have any more questions or need further assistance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "On-The-Job Training course credits"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that the On-The-Job Training course is worth 6 credits and provides relevant additional details."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "The answer correctly states that the On-The-Job Training course (OJT202) is worth 6 credits, which is directly supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer states that the On-The-Job Training course is worth 6 credits, which contradicts the reference answer that states it is 10 credits."
+    }
+  },
+  {
+    "id": "fact_10",
+    "category": "factual_lookup",
+    "question": "What semester is Machine Learning (AIL303m) in?",
+    "reference_answer": "Machine Learning (AIL303m) is in semester 4.",
+    "generated_answer": "Môn học Machine Learning (AIL303m) nằm ở học kỳ 4. Dưới đây là một số thông tin chi tiết về môn học:\n\n- **Mã môn học**: AIL303m\n- **Số tín chỉ**: 3\n- **Học kỳ**: 4\n- **Điều kiện tiên quyết**: MAS291, MAI391, PFP191\n- **Mô tả**: Môn học cung cấp kiến thức về Phân tích Dữ liệu Khám phá cho Machine Learning, Học máy có giám sát và Học máy không giám sát.\n\nNếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "course_code": "AIL303m"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by clearly stating that Machine Learning (AIL303m) is in semester 4 and provides additional relevant details."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that Machine Learning (AIL303m) is in semester 4, matching the reference answer."
+    }
+  },
+  {
+    "id": "prereq_01",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for Machine Learning (AIL303m)?",
+    "reference_answer": "AIL303m requires MAS291 (Statistics & Probability), MAI391 (Mathematics for Machine Learning), and PFP191 (Programming Fundamentals with Python).",
+    "generated_answer": "To enroll in the Machine Learning course (AIL303m), you need to meet the following prerequisites:\n\n1. **Direct Prerequisites for AIL303m:**\n   - MAS291 (Statistics & Probability - Xác suất thống kê)\n   - MAI391 (Mathematics for Machine Learning - Toán cho học máy)\n   - PFP191 (Programming Fundamentals - Cơ sở lập trình)\n\n2. **Additional Prerequisites:**\n   - **For MAS291 (Statistics & Probability):**\n     - MAE101 (Mathematics I - Toán học I) or MAC101 (Mathematics II - Toán học II)\n   - **For MAI391 (Mathematics for Machine Learning):**\n     - MAE101 (Mathematics I - Toán học I)\n\nMake sure you have completed these courses before attempting to register for AIL303m. If you have any further questions or need assistance with course registration, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL303m",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed list of direct and additional prerequisites for the Machine Learning course (AIL303m)."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer correctly lists the direct prerequisites for AIL303m but includes additional prerequisites that are not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "prereq_02",
+    "category": "prerequisite_reasoning",
+    "question": "What do I need before taking NLP301c?",
+    "reference_answer": "NLP301c requires AIL30x (a Machine Learning course) AND either PRP201c or PFP191.",
+    "generated_answer": "Trước khi tham gia khóa học NLP301c (Xử lý ngôn ngữ tự nhiên), bạn cần hoàn thành các yêu cầu sau:\n\n- **AIL30x**: Khóa học liên quan đến trí tuệ nhân tạo.\n- **Một trong hai khóa sau**:\n  - **PRP201c**: Khóa học về lập trình hoặc\n  - **PFP191**: Khóa học về phát triển phần mềm.\n\nHãy đảm bảo bạn đã hoàn thành các khóa học này để có thể theo kịp nội dung của NLP301c. Nếu bạn cần thêm thông tin hoặc hỗ trợ, đừng ngần ngại hỏi!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "NLP301c",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly lists the specific prerequisites needed before taking NLP301c, providing accurate details about the required courses."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the same key facts and details as the reference answer, including the required courses AIL30x, PRP201c, and PFP191."
+    }
+  },
+  {
+    "id": "prereq_03",
+    "category": "prerequisite_reasoning",
+    "question": "What is the full prerequisite chain for Deep Learning (DPL302m)?",
+    "reference_answer": "DPL302m requires AIL303m. AIL303m in turn requires MAS291, MAI391, and PFP191. MAS291 requires MAE101 or MAC101. MAI391 requires MAE101.",
+    "generated_answer": "The full prerequisite chain for the Deep Learning course (DPL302m) is as follows:\n\n1. **DPL302m (Deep Learning_Học sâu)** - This is the course you are inquiring about.\n   - There are no prerequisites listed for DPL302m itself.\n\n2. **Courses that require DPL302m:**\n   - **DAT301m (AI Development with TensorFlow_Phát triển UDTTNT với TensorFlow)**\n     - Prerequisites: CPV301, DPL302m\n   - **REL301m (Reinforcement Learning_Học tăng cường)**\n     - Prerequisites: AIL303m, DPL302m\n\nIn summary, DPL302m does not have any prerequisites, but it is a prerequisite for DAT301m and REL301m. If you have any further questions or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "DPL302m",
+          "direction": "reverse"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a clear and detailed prerequisite chain for the Deep Learning course (DPL302m), including information about courses that require it."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer incorrectly states that DPL302m has no prerequisites, contradicting the reference answer which specifies that it requires AIL303m."
+    }
+  },
+  {
+    "id": "prereq_04",
+    "category": "prerequisite_reasoning",
+    "question": "What courses can I take after completing PFP191?",
+    "reference_answer": "After completing PFP191, you can take CSD203, ADY201m, CPV301, DAP391m, DWP301c, AIL303m (also needs MAS291 and MAI391), NLP301c (also needs AIL30x), and AIM301m.",
+    "generated_answer": "Sau khi hoàn thành khóa học PFP191 (Cơ sở lập trình với Python), bạn có thể đăng ký các khóa học sau:\n\n1. **CSD203** - Cấu trúc dữ liệu và giải thuật với Python\n2. **ADY201m** - TTNT và KHDL với Python và SQL (cần thêm khóa DBI202)\n3. **AIL303m** - Học máy (cần thêm các khóa MAS291 và MAI391)\n4. **CPV301** - Thị giác máy tính (cần hoàn thành CSD203)\n5. **DAP391m** - Dự án TTNT-KHDL (cần hoàn thành ADY201m)\n6. **DWP301c** - Phát triển Web với Python\n7. **NLP301c** - Xử lý ngôn ngữ tự nhiên (cần hoàn thành AIL30x và một trong các khóa PRP201c hoặc PFP191)\n8. **AIM301m** - Ứng dụng TTNT cho y học\n\nBạn có thể chọn khóa học phù hợp với sở thích và định hướng nghề nghiệp của mình. Nếu cần thêm thông tin chi tiết về từng khóa học, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "PFP191",
+          "direction": "reverse"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive list of courses that can be taken after completing PFP191, along with prerequisites for some courses, fully addressing the question."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some of the courses listed in the reference answer but includes additional prerequisites and courses not mentioned in the reference."
+    }
+  },
+  {
+    "id": "prereq_05",
+    "category": "prerequisite_reasoning",
+    "question": "Does CSD203 have any prerequisites?",
+    "reference_answer": "Yes, CSD203 (Data Structures and Algorithm with Python) requires PFP191 (Programming Fundamentals with Python).",
+    "generated_answer": "CSD203 (Data Structures and Algorithm with Python - Cấu trúc dữ liệu và giải thuật với Python) has the following prerequisite:\n\n- **PFP191**: This course must be completed before you can enroll in CSD203.\n\nIf you have any further questions or need assistance with your course planning, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "CSD203",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states the prerequisite for CSD203 and provides specific details."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the key fact that CSD203 requires PFP191 as a prerequisite."
+    }
+  },
+  {
+    "id": "prereq_06",
+    "category": "prerequisite_reasoning",
+    "question": "What are the prerequisites for the AI Capstone Project?",
+    "reference_answer": "AIP491 requires: passing Deep Learning (DPL30x), passing OJT202, passing PMG20x, passing 60% of total credits of selected combo, and passing 80% of total credits (excluding PHE_COM* and OJT).",
+    "generated_answer": "It seems that I couldn't find specific information about the prerequisites for the AI Capstone Project (AIL401) in the curriculum. However, typically, capstone projects in AI programs require students to have completed foundational courses in AI and related fields.\n\nHere are some general prerequisites you might expect for a capstone project in an AI program:\n\n1. **Core AI Courses**: Completion of foundational courses such as:\n   - AIL301: Introduction to Artificial Intelligence\n   - AIL302: Machine Learning\n   - AIL303: Data Science\n\n2. **Programming Skills**: Proficiency in programming languages commonly used in AI, such as Python or R.\n\n3. **Mathematics and Statistics**: A solid understanding of statistics and linear algebra, often covered in courses like:\n   - MAT201: Statistics for Data Science\n   - MAT202: Linear Algebra\n\n4. **Project Management**: Familiarity with project management principles, which may be covered in courses like:\n   - BUS301: Project Management Fundamentals\n\n5. **Research Methodology**: Understanding research methods, which can be beneficial for conducting a capstone project.\n\nI recommend checking your program's official curriculum or contacting your academic advisor for the most accurate and specific information regarding the prerequisites for the AI Capstone Project.",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL401",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides general information about typical prerequisites for an AI Capstone Project but lacks specific details about the AIL401 course."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about typical prerequisites for AI capstone projects are general and not directly supported by the context, which states that the specific course 'AIL401' is not found in the curriculum."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not provide any of the specific prerequisites listed in the reference answer and instead offers general information about typical prerequisites for AI capstone projects."
+    }
+  },
+  {
+    "id": "prereq_07",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does DAT301m (AI Development with TensorFlow) need?",
+    "reference_answer": "DAT301m requires CPV301 (Computer Vision) and DPL302m (Deep Learning).",
+    "generated_answer": "To enroll in DAT301m (AI Development with TensorFlow), you need to complete the following prerequisites:\n\n1. **CPV301 (Computer Vision)**\n2. **DPL302m (Deep Learning)**\n\n### Additional Prerequisites for CPV301 and DPL302m:\n- **CPV301** requires:\n  - PFP191\n  - CSD203 (which itself requires PFP191)\n\n- **DPL302m** requires:\n  - AIL303m (which requires the following):\n    - MAS291 (Statistics & Probability) (requires MAE101 or MAC101)\n    - MAI391 (Mathematics for Machine Learning) (requires MAE101)\n\n### Summary of Prerequisite Chain:\n- **PFP191** → Required for:\n  - CSD203 → Required for CPV301\n  - AIL303m → Required for DPL302m\n- **CSD203** → Required for CPV301\n- **MAS291** and **MAI391** → Required for AIL303m\n\nMake sure you have completed these courses before attempting to register for DAT301m. If you have any further questions or need assistance with course planning, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "DAT301m",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed list of prerequisites for DAT301m, including additional prerequisites for the required courses."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately lists the prerequisites for DAT301m as CPV301 and DPL302m, matching the reference answer."
+    }
+  },
+  {
+    "id": "prereq_08",
+    "category": "prerequisite_reasoning",
+    "question": "What courses does completing AIL303m unlock?",
+    "reference_answer": "Completing AIL303m unlocks DPL302m (Deep Learning), AID301c (AI in Production), REL301m (Reinforcement Learning), NLP301c (also needs PRP201c or PFP191), SEG301, SLP301, and TMG301.",
+    "generated_answer": "Completing the course AIL303m (Machine Learning_Học máy) unlocks the following courses in the BIT_AI program:\n\n1. **DPL302m (Deep Learning_Học sâu)**: Requires AIL303m.\n2. **AID301c (AI in Production_Thiết kế sản phẩm TTNT)**: Requires SWE201c and AIL303m.\n3. **REL301m (Reinforcement Learning_Học tăng cường)**: Requires AIL303m and DPL302m.\n4. **SEG301 (Search Engines_Công cụ tìm kiếm)**: Requires CSD203 and AIL303m.\n5. **SLP301 (Speech Processing_Xử lý tiếng nói)**: Requires CSD203 and AIL303m.\n6. **TMG301 (Text Mining_Khai thác văn bản)**: Requires CSD203 and AIL303m.\n\nMake sure to check if you meet the prerequisites for these courses before enrolling!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL303m",
+          "direction": "reverse"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific courses that are unlocked upon completing AIL303m, along with their prerequisites."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures most of the courses unlocked by AIL303m but includes additional prerequisite details that are not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "prereq_09",
+    "category": "prerequisite_reasoning",
+    "question": "Does MAD101 have prerequisites?",
+    "reference_answer": "No, MAD101 (Discrete Mathematics) has no prerequisites.",
+    "generated_answer": "MAD101 (Toán rời rạc) không có yêu cầu tiên quyết nào. Bạn có thể đăng ký học môn này mà không cần hoàn thành bất kỳ môn học nào trước đó. Nếu bạn cần thêm thông tin hoặc có câu hỏi khác, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "MAD101",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that MAD101 has no prerequisites and provides additional context."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that MAD101 has no prerequisites, matching the key facts of the reference answer."
+    }
+  },
+  {
+    "id": "prereq_10",
+    "category": "prerequisite_reasoning",
+    "question": "What prerequisites does Reinforcement Learning have?",
+    "reference_answer": "REL301m (Reinforcement Learning) requires AIL303m (Machine Learning) and DPL302m (Deep Learning).",
+    "generated_answer": "It seems that I couldn't find specific information about the course code for Reinforcement Learning (AIL404m) in the curriculum. However, I can provide you with general prerequisites that are typically required for a Reinforcement Learning course in a BIT_AI program:\n\n1. **Mathematics**:\n   - Linear Algebra: Understanding of vectors, matrices, and operations.\n   - Probability and Statistics: Basic concepts of probability, distributions, and statistical inference.\n\n2. **Programming Skills**:\n   - Proficiency in Python or another programming language commonly used in AI and machine learning.\n\n3. **Machine Learning Foundations**:\n   - Familiarity with basic machine learning concepts and algorithms, such as supervised and unsupervised learning.\n\n4. **Data Structures and Algorithms**:\n   - Understanding of fundamental data structures (like arrays, lists, trees) and algorithms (like sorting and searching).\n\nIf you need more specific information or if there are additional prerequisites for your program, I recommend checking the official course syllabus or contacting your academic advisor directly.",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL404m",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific and accurate details about the general prerequisites for a Reinforcement Learning course."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about general prerequisites for Reinforcement Learning are supported, but the specific course code context is not addressed."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer provides general prerequisites for a Reinforcement Learning course but does not mention the specific required courses (AIL303m and DPL302m) as stated in the reference answer."
+    }
+  },
+  {
+    "id": "combo_01",
+    "category": "combo_pathway",
+    "question": "What specialization combos are available in the BIT_AI program?",
+    "reference_answer": "There are 5 pathways: AI17_COM_1 through AI17_COM_4 (combo subjects for semesters 5, 5, 7, 8) and TMI_ELE (Traditional Musical Instrument elective).",
+    "generated_answer": "In the BIT_AI program at FPT University, you have the following specialization combos available:\n\n1. **AI17_COM_1**: Subject 1 of Combo (Semester 5, 3 topic groups)\n2. **AI17_COM_2**: Subject 2 of Combo (Semester 5, 3 topic groups)\n3. **AI17_COM_3**: Subject 3 of Combo (Semester 7, 3 topic groups)\n4. **AI17_COM_4**: Subject 4 of Combo (Semester 8, 3 topic groups)\n5. **TMI_ELE**: Traditional musical instrument (Nhạc cụ truyền thống) (Semester 0, 1 topic group)\n\nIf you need more details about each combo or how to choose the right one for your career goals, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {}
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about the available specialization combos in the BIT_AI program."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is directly supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures the key pathways but includes additional details about topic groups and semesters that are not present in the reference answer."
+    }
+  },
+  {
+    "id": "combo_02",
+    "category": "combo_pathway",
+    "question": "What courses are in the Applied Data Science topic?",
+    "reference_answer": "The Applied Data Science topic (AI17_COM1) includes DSR301m (Applied Data Science with R) and BDI302c (Big Data).",
+    "generated_answer": "In the Applied Data Science topic for the BIT_AI program (K20-K21), the following courses are included:\n\n1. **DSR301m — Applied Data Science with R**\n   - Focuses on using R programming for data analysis and visualization.\n\n2. **BDI302c — Big Data**\n   - Covers concepts and technologies related to handling and analyzing large datasets.\n\n3. **DSP391m — Data Science**\n   - Provides a broader understanding of data science principles and practices.\n\nIf you have any further questions about these courses or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "topic": "Applied Data Science"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific courses in the Applied Data Science topic along with brief descriptions of each."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about the courses are supported by the context, but the inclusion of DSP391m is not consistently verified across all context entries."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer includes the correct courses DSR301m and BDI302c but adds an additional course (DSP391m) that is not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "combo_03",
+    "category": "combo_pathway",
+    "question": "What are the elective options for TMI_ELE?",
+    "reference_answer": "TMI_ELE offers 7 traditional musical instrument options: DTR103 (Dan Tranh), DBA103 (Dan Bau), DSA103 (Sao truc), DNG103 (Dan nguyet), DTB103 (Dan Ty ba), TRG103 (Trong dan toc), DNH103 (Dan Nhi).",
+    "generated_answer": "For the elective option TMI_ELE (Traditional Musical Instrument), you have the following courses available:\n\n1. **DTR103** — Nhạc cụ truyền thống - Đàn Tranh (Active)\n2. **DBA103** — Nhạc cụ truyền thống - Đàn Bầu (Active)\n3. **DSA103** — Nhạc cụ truyền thống - Sáo trúc (Active)\n4. **DNG103** — Nhạc cụ truyền thống - Đàn nguyệt (Active)\n5. **DTB103** — Nhạc cụ truyền thống - Đàn Tỳ bà (Active)\n6. **TRG103** — Nhạc cụ truyền thống - Trống dân tộc (Active)\n7. **DNH103** — Nhạc cụ truyền thống - Đàn Nhị (Active)\n\nYou can choose any of these courses as part of your elective options. If you need further assistance or details about any specific course, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "combo_id": "TMI_ELE"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a complete list of elective options for TMI_ELE with specific course details."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately lists all 7 traditional musical instrument options provided in the reference answer, including their course codes and names."
+    }
+  },
+  {
+    "id": "combo_04",
+    "category": "combo_pathway",
+    "question": "What courses are in the AI application combo topic?",
+    "reference_answer": "The AI application topic (AI17_COM3) includes AIH301m (AI in Healthcare) and ASR301c (AI for Scientific Research).",
+    "generated_answer": "In the AI application combo topic for the BIT_AI program, the following courses are included:\n\n1. **AIH301m — AI in Healthcare**\n   - Focuses on the application of AI technologies in the healthcare sector.\n\n2. **ASR301c — AI for Scientific Research**\n   - Explores how AI can be utilized in various scientific research fields.\n\n3. **AIE301m — AI for Trading**\n   - Covers the use of AI in financial trading and investment strategies.\n\nIf you have any further questions about these courses or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "topic": "AI application"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific courses included in the AI application combo topic, along with brief descriptions of each course."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about the courses are supported by the context, but the inclusion of 'AIE301m — AI for Trading' is not supported as it is only mentioned in one context and not consistently across all provided contexts."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer includes two of the courses from the reference but adds an additional course (AIE301m) that is not mentioned in the reference."
+    }
+  },
+  {
+    "id": "combo_05",
+    "category": "combo_pathway",
+    "question": "Which semester do combo courses start?",
+    "reference_answer": "Combo courses start from semester 5 (AI17_COM_1 and AI17_COM_2), continuing in semester 7 (AI17_COM_3) and semester 8 (AI17_COM_4).",
+    "generated_answer": "Combo courses in the BIT_AI program start in the following semesters:\n\n1. **Semester 5**:\n   - **AI17_COM_1**: Subject 1 of Combo (3 topic groups)\n   - **AI17_COM_2**: Subject 2 of Combo (3 topic groups)\n\n2. **Semester 7**:\n   - **AI17_COM_3**: Subject 3 of Combo (3 topic groups)\n\n3. **Semester 8**:\n   - **AI17_COM_4**: Subject 4 of Combo (3 topic groups)\n\nIf you have any specific questions about a particular combo course or need further details, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {}
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly specifies the semesters in which combo courses start, providing detailed information about each course."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the same key facts and details as the reference answer regarding the semesters and specific combo courses."
+    }
+  },
+  {
+    "id": "combo_06",
+    "category": "combo_pathway",
+    "question": "What is the AI Applied Research combo topic about?",
+    "reference_answer": "The AI Applied Research topic (AI17_COM2.1) includes TMG301 (Text Mining) and SEG301 (Search Engines). It is available from K18D-K19A.",
+    "generated_answer": "The AI Applied Research combo topic focuses on various aspects of artificial intelligence and its practical applications. Here are the key components of this topic:\n\n1. **Text Mining (TMG301)**:\n   - This course covers techniques for extracting useful information from text data, which is essential for understanding and processing large volumes of unstructured data.\n\n2. **Search Engines (SEG301)**:\n   - This course focuses on the principles and technologies behind search engines, including how they index and retrieve information efficiently.\n\n3. **Speech Processing (SLP301)**:\n   - This course deals with the analysis and synthesis of speech signals, which is crucial for applications like voice recognition and natural language processing.\n\n4. **Image and Video Processing (IMP302)**:\n   - This course explores techniques for processing and analyzing visual data, which is important for applications in computer vision and multimedia.\n\nThese courses are available for students in the K18D to K19A cohorts. If you have any specific questions about these courses or how they fit into your academic plan, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "topic": "AI Applied Research"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed overview of the AI Applied Research combo topic and its key components."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, detailing the specific courses related to AI Applied Research."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures the key components of Text Mining and Search Engines but includes additional courses (Speech Processing and Image and Video Processing) that are not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "combo_07",
+    "category": "combo_pathway",
+    "question": "If I'm interested in healthcare AI, which combo should I pick?",
+    "reference_answer": "You should pick courses from the AI17_COM3 topic (AI application), which includes AIH301m (AI in Healthcare).",
+    "generated_answer": "It seems that there are no specific combinations directly labeled under \"Healthcare AI\" in the current program offerings. However, I can suggest a general approach to help you focus on healthcare AI within the BIT_AI program:\n\n1. **Core AI Courses**: Ensure you take foundational courses in AI, such as:\n   - **AI Fundamentals (AI101)**: Understanding the basics of AI technologies.\n   - **Machine Learning (ML201)**: Essential for developing AI models applicable in healthcare.\n\n2. **Data Science and Analytics**: Consider courses that focus on data analysis, as healthcare AI heavily relies on data:\n   - **Data Mining (DM301)**: Learn techniques for extracting useful information from large datasets.\n   - **Big Data Analytics (BDA401)**: Understand how to handle and analyze large volumes of healthcare data.\n\n3. **Healthcare-Specific Courses**: If available, look for electives or specialized courses related to healthcare:\n   - **Health Informatics (HI501)**: Focus on the use of AI in managing healthcare data.\n   - **Bioinformatics (BI601)**: Explore the intersection of biology and data science.\n\n4. **Projects and Internships**: Engage in projects or internships that focus on healthcare applications of AI. This practical experience will be invaluable.\n\n5. **Research Opportunities**: Look for faculty members who specialize in healthcare AI and consider collaborating on research projects.\n\nIf you have specific courses in mind or need further guidance on available electives, please let me know!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "topic": "Healthcare AI"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive and detailed approach to selecting courses relevant to healthcare AI, including specific course suggestions and additional opportunities for practical experience."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some suggestions in the answer are relevant to healthcare AI, but the context indicates that no specific combinations are available, making some claims unverifiable."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer provides a general approach to studying healthcare AI but does not specifically mention the recommended courses from the AI17_COM3 topic or AIH301m, which are key details in the reference answer."
+    }
+  },
+  {
+    "id": "combo_08",
+    "category": "combo_pathway",
+    "question": "How many combo subject slots are there in total?",
+    "reference_answer": "There are 4 combo subject slots: AI17_COM*1 and AI17_COM*2 in semester 5, AI17_COM*3 in semester 7, and AI17_COM*4 in semester 8.",
+    "generated_answer": "Trong chương trình BIT_AI (K20-K21) của FPT University, có tổng cộng 4 môn học thuộc combo, được phân bổ như sau:\n\n1. **AI17_COM_1**: Môn 1 của Combo (Học kỳ 5, 3 nhóm chủ đề)\n2. **AI17_COM_2**: Môn 2 của Combo (Học kỳ 5, 3 nhóm chủ đề)\n3. **AI17_COM_3**: Môn 3 của Combo (Học kỳ 7, 3 nhóm chủ đề)\n4. **AI17_COM_4**: Môn 4 của Combo (Học kỳ 8, 3 nhóm chủ đề)\n\nNgoài ra, có một môn học khác là **TMI_ELE**: Nhạc cụ truyền thống (Học kỳ 0, 1 nhóm chủ đề), nhưng không thuộc về combo chính. \n\nNếu bạn cần thêm thông tin chi tiết về từng môn học, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {}
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that there are a total of 4 combo subject slots and provides specific details about each subject."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically detailing the 4 combo subjects listed."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the same key facts and details as the reference answer, including the total number of combo subject slots and their distribution across semesters."
+    }
+  },
+  {
+    "id": "content_01",
+    "category": "cross_document",
+    "question": "What are the learning outcomes of the Machine Learning course?",
+    "reference_answer": "The Machine Learning course (AIL303m) covers learning outcomes related to understanding ML fundamentals, implementing ML algorithms, data preprocessing, model evaluation, and applying ML to real-world problems.",
+    "generated_answer": "I couldn't find specific learning outcomes for the course CS 540: Machine Learning in the available resources. However, I can provide a general idea of what learning outcomes for a Machine Learning course typically include:\n\n1. **Understanding of Machine Learning Concepts**: \n   - Grasp the fundamental principles of machine learning, including supervised and unsupervised learning.\n\n2. **Data Preprocessing Skills**: \n   - Ability to clean, transform, and prepare data for analysis.\n\n3. **Model Development**: \n   - Develop and implement various machine learning algorithms, such as decision trees, support vector machines, and neural networks.\n\n4. **Model Evaluation**: \n   - Evaluate model performance using appropriate metrics and techniques.\n\n5. **Practical Application**: \n   - Apply machine learning techniques to real-world problems through projects or case studies.\n\n6. **Programming Skills**: \n   - Proficiency in programming languages commonly used in machine learning, such as Python or R.\n\nIf you need the exact learning outcomes for CS 540, I recommend checking the course syllabus directly or contacting your instructor for the most accurate information.",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Machine Learning course learning outcomes"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "CS 540 Machine Learning course learning outcomes"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides a general idea of typical learning outcomes for a Machine Learning course but does not specifically address the learning outcomes for the CS 540 course."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about general learning outcomes are supported by the context, such as data preprocessing and model evaluation, but specific outcomes for the course CS 540 are not found in the provided context."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key facts about machine learning learning outcomes, such as understanding concepts, data preprocessing, model evaluation, and practical application, but it does not specifically mention the course AIL303m or its exact learning outcomes."
+    }
+  },
+  {
+    "id": "content_02",
+    "category": "cross_document",
+    "question": "What programming language is used in the Data Structures course?",
+    "reference_answer": "The Data Structures and Algorithm course (CSD203) uses Python, as indicated by its full name 'Data Structures and Algorithm with Python'.",
+    "generated_answer": "In the Data Structures course (CSD203) at FPT University, the programming language used is **Python**. Here are some key points about the course:\n\n- **Course Code**: CSD203\n- **Focus**: Basic concepts of data structures and algorithms.\n- **Topics Covered**: \n  - Algorithm analysis\n  - Basic data structures (stack, queue, linked list, hashtable, tree)\n  - Recursion\n  - Applications of data structures and algorithms\n\nIf you have any more questions about the course or need further assistance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Data Structures course programming language"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states that Python is the programming language used in the Data Structures course and provides relevant details about the course."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically that the programming language used in the Data Structures course (CSD203) is Python."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states that the programming language used in the Data Structures course (CSD203) is Python, matching the reference answer."
+    }
+  },
+  {
+    "id": "content_03",
+    "category": "cross_document",
+    "question": "What is PLO2 about?",
+    "reference_answer": "PLO2 is about applying solid foundational knowledge in the field of IT in general and Artificial Intelligence (AI) in particular to understand the professional context and acquire in-depth specialized knowledge in AI.",
+    "generated_answer": "Program Learning Outcome 2 (PLO2) in the BIT_AI curriculum focuses on the following aspects:\n\n### PLO2 Details:\n- **Description**: Demonstrate the mindset and ability to implement start-up projects, showcasing creative spirits, critical thinking, and problem-solving skills.\n\n### Learning Outcomes Associated with PLO2:\n1. **Mindset for Start-ups**: Develop an entrepreneurial mindset that is essential for initiating and managing start-up projects.\n2. **Creativity**: Foster creativity to generate innovative ideas and solutions.\n3. **Critical Thinking**: Enhance critical thinking skills to analyze situations and make informed decisions.\n4. **Problem-Solving**: Cultivate problem-solving abilities to effectively address challenges encountered in project implementation.\n\nThis outcome is designed to prepare students to engage actively in entrepreneurial activities and contribute effectively to innovative projects in the field of IT and AI.",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "PLO2",
+          "entity_type": "curriculum"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Program Learning Outcome 2 PLO2",
+          "entity_type": "curriculum"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a detailed description of PLO2, including its focus areas and associated learning outcomes."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically the description of PLO2."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer focuses on entrepreneurial skills and project implementation, which contradicts the reference answer's emphasis on foundational knowledge in IT and AI."
+    }
+  },
+  {
+    "id": "content_04",
+    "category": "cross_document",
+    "question": "What topics does the Computer Vision course cover?",
+    "reference_answer": "The Computer Vision course (CPV301) covers topics related to image processing, feature extraction, object detection, and applying computer vision techniques using Python.",
+    "generated_answer": "The Computer Vision course (CPV301) at FPT University covers a variety of essential topics in the field. Here’s a structured overview of the key areas you will study:\n\n1. **Basics of Computer Vision**:\n   - Introduction to computer vision concepts.\n   - Image representation and lighting.\n\n2. **Image Acquisition**:\n   - Techniques for capturing images through cameras.\n   - Camera calibration methods.\n\n3. **Image Processing Techniques**:\n   - Line and edge detection techniques.\n   - Filters, including Canny and RANSAC methods.\n\n4. **Advanced Image Processing**:\n   - Image segmentation.\n   - Object detection and recognition.\n   - Object tracking.\n\n5. **Practical Implementation**:\n   - Hands-on experience with computer vision applications.\n\nThis course will provide you with a solid foundation in both theoretical concepts and practical skills in computer vision. If you have any more specific questions or need further details, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Computer Vision course topics",
+          "entity_type": "syllabus"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a detailed and structured overview of the topics covered in the Computer Vision course, addressing the question fully."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key topics such as object detection and image processing but misses specific mention of feature extraction and applying techniques using Python."
+    }
+  },
+  {
+    "id": "content_05",
+    "category": "cross_document",
+    "question": "How is the Deep Learning course assessed?",
+    "reference_answer": "The Deep Learning course (DPL302m) assessment includes assignments, projects, and examinations as detailed in its syllabus.",
+    "generated_answer": "The assessment methods and evaluation criteria for the Deep Learning course (likely under course code AID301c or similar) typically include the following components:\n\n1. **Quizzes and Self-Assessments**:\n   - Regular quizzes to test understanding of the material.\n   - Self-assessment opportunities to gauge your own progress.\n\n2. **Assignments**:\n   - Practical assignments that may involve building and evaluating deep learning models.\n   - These assignments are crucial for applying theoretical knowledge.\n\n3. **Participation**:\n   - Active participation in discussion boards or forums, if applicable.\n   - Engagement in class discussions during offline sessions.\n\n4. **Final Project or Exam**:\n   - A comprehensive project or final exam that assesses your overall understanding of deep learning concepts and applications.\n\n5. **Performance Metrics**:\n   - Evaluation based on the accuracy and effectiveness of models developed during the course.\n   - Criteria may include model evaluation metrics such as precision, recall, and F1 score.\n\nPlease check your specific course syllabus or consult with your instructor for detailed grading rubrics and any additional assessment methods that may be used.",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Deep Learning course assessment",
+          "entity_type": "syllabus"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Deep Learning course assessment methods evaluation criteria",
+          "entity_type": "syllabus"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about various assessment methods used in the Deep Learning course."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about assessment methods like quizzes, assignments, and participation are supported by the context, but the final project or exam and specific performance metrics are not explicitly mentioned in the provided context."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key components of assessment like assignments and projects but introduces additional elements such as quizzes, participation, and performance metrics that are not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "content_06",
+    "category": "cross_document",
+    "question": "What materials are used in the AI in Healthcare course?",
+    "reference_answer": "The AI in Healthcare course (AIH301m) uses materials that may include textbooks, online resources, and Coursera courses related to applying AI techniques in healthcare settings.",
+    "generated_answer": "For the course \"AI in Healthcare\" (Course Code: AIH301m), here are the required and recommended materials:\n\n### Required Materials:\n- **Slides and Videos**: \n  - Overview of AI applications in the delivery of healthcare services.\n  - Ethical frameworks for healthcare and AI.\n  - AI and incentives in healthcare delivery and payment structures.\n\n### Recommended Materials:\n- **Textbooks and Articles**: Specific textbooks or articles are not listed in the retrieved information. You may want to consult your course syllabus or ask your instructor for any recommended readings.\n\nIf you need further details or specific titles for textbooks, please check with your course instructor or refer to the course syllabus directly.",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "AI in Healthcare course materials",
+          "entity_type": "syllabus"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "AI in Healthcare course materials",
+          "entity_type": "syllabus"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a clear and detailed list of required and recommended materials for the AI in Healthcare course, directly addressing the question."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about required materials are supported by the context, but the answer mentions recommended materials that are not explicitly found in the context."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key aspects of the materials used in the course, such as mentioning textbooks and online resources, but it does not explicitly state that these materials are related to applying AI techniques in healthcare settings, which is a key detail from the reference answer."
+    }
+  },
+  {
+    "id": "content_07",
+    "category": "cross_document",
+    "question": "What does the Ethics in IT course cover?",
+    "reference_answer": "The Ethics in IT course (ITE303c) covers ethical considerations in information technology, including professional responsibility, privacy, intellectual property, and social impact of technology.",
+    "generated_answer": "The course \"Ethics in IT\" (ITE303c) covers various important topics related to ethical practices in the field of Information Technology. Here’s a structured overview of what you can expect from this course:\n\n1. **Understanding Ethics**:\n   - Definition and importance of ethics in IT.\n   - Historical context and evolution of ethical standards in technology.\n\n2. **Ethical Issues in IT**:\n   - Privacy concerns and data protection.\n   - Intellectual property rights and copyright issues.\n   - Cybersecurity ethics and responsibilities.\n\n3. **Professional Conduct**:\n   - Codes of conduct for IT professionals.\n   - Case studies on ethical dilemmas faced in the IT industry.\n\n4. **Social Implications**:\n   - The impact of technology on society and ethical considerations.\n   - Discussions on emerging technologies and their ethical challenges (e.g., AI, big data).\n\n5. **Legal Framework**:\n   - Overview of laws and regulations affecting IT ethics.\n   - Understanding compliance and legal responsibilities.\n\nThis course is designed to help you navigate the complex ethical landscape of the IT industry, preparing you for real-world challenges. If you have any specific questions about the course content or assignments, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Ethics in IT"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive overview of the topics covered in the Ethics in IT course, detailing specific areas such as understanding ethics, ethical issues, professional conduct, social implications, and legal frameworks."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about the course content are plausible but not directly supported by the context provided, which only mentions the course name without specific details."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer covers all key facts from the reference answer, including professional responsibility, privacy, intellectual property, and the social impact of technology."
+    }
+  },
+  {
+    "id": "content_08",
+    "category": "cross_document",
+    "question": "What is the description of the Introduction to Databases course?",
+    "reference_answer": "DBI202 (Introduction to Databases) covers fundamental concepts of database systems including relational databases, SQL, database design, and data management.",
+    "generated_answer": "Here are the details for the **Introduction to Databases (DBI202)** course:\n\n### Course Description\n- **Overview**: This course provides essential knowledge about database systems, which have become a fundamental part of computer science education. It covers:\n  - Basic concepts of database management\n  - Database design\n  - Database languages\n  - Database-system implementation\n- **Focus**: The course emphasizes how to organize, maintain, and efficiently retrieve data and information from a Database Management System (DBMS).\n\n### Syllabus Details\n- **Main Textbooks**:\n  - *First Course in Database Systems* by Jeffrey D. Ullman and Jennifer Widom (3rd edition)\n  - *Database Management System* by Raghu Ramakrishnan (3rd edition)\n  - *Database Management System (DBMS): A Practical Approach* by Rajiv Chopra\n- **Course Materials**: Includes course slides and lab assignments.\n\n### Learning Outcomes\nWhile specific learning outcomes were not retrieved, you can generally expect to:\n1. Understand the fundamental concepts of databases and their applications.\n2. Gain proficiency in using SQL for database management.\n3. Develop skills in database design and implementation.\n4. Learn to organize and retrieve data effectively from a DBMS.\n\nIf you need more specific details about the learning outcomes or any other aspect of the course, please let me know!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Introduction to Databases course description"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Introduction to Databases course syllabus details"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Introduction to Databases course learning outcomes"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive description of the Introduction to Databases course, including an overview, syllabus details, and expected learning outcomes, fully addressing the question."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided, specifically from the descriptions of the DBI202 course."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key concepts such as database design and SQL, but it includes additional details and topics not mentioned in the reference answer, leading to partial correctness."
+    }
+  },
+  {
+    "id": "content_09",
+    "category": "cross_document",
+    "question": "Which courses contribute to PLO8?",
+    "reference_answer": "PLO8 relates to the ability to program and use simulation tools in the field of AI. Courses like PFP191, CSD203, AIL303m, DPL302m, and other programming-intensive courses contribute to this PLO.",
+    "generated_answer": "PLO8 for the BIT_AI program at FPT University focuses on the ability to explain and apply essential knowledge of algorithms, programming, and specialized mathematics related to the field of information technology. \n\nHere are the courses that contribute to PLO8:\n\n1. **Programming Fundamentals (Course Code: CS101)** - This course introduces basic programming concepts and algorithms.\n2. **Data Structures and Algorithms (Course Code: CS202)** - Focuses on advanced data structures and algorithm design.\n3. **Discrete Mathematics (Course Code: MA203)** - Covers mathematical foundations essential for computer science, including logic, set theory, and combinatorics.\n4. **Software Engineering (Course Code: CS301)** - Involves applying programming knowledge in software development projects.\n\nIf you need more specific course codes or additional details about each course, please let me know!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "PLO8",
+          "entity_type": "curriculum"
+        }
+      },
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Program Learning Outcomes",
+          "entity_type": "curriculum"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by listing specific courses that contribute to PLO8, along with their course codes and relevant details."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "The answer correctly identifies the focus of PLO8 based on the context, but the specific courses listed are not verified from the provided context."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not align with the reference answer regarding the focus on programming and simulation tools in AI, and it lists different courses that do not match those mentioned in the reference."
+    }
+  },
+  {
+    "id": "content_10",
+    "category": "cross_document",
+    "question": "What is the scoring scale for most courses?",
+    "reference_answer": "Most courses use a scoring scale of 10, with a minimum average mark to pass of 5.",
+    "generated_answer": "The scoring scale for most courses in the BIT_AI program at FPT University is as follows:\n\n- **Scoring Scale**: 10\n\nThis means that grades are typically given on a scale from 0 to 10, where 10 is the highest possible score. If you have any specific courses in mind or need further details, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "scoring scale for courses"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing a clear and specific scoring scale of 0 to 10 for most courses."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, which states that the scoring scale for the courses is 10."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the scoring scale of 10 and implies the minimum passing mark of 5, aligning with the reference answer."
+    }
+  },
+  {
+    "id": "plan_01",
+    "category": "curriculum_planning",
+    "question": "I'm in semester 3. What should I take next semester?",
+    "reference_answer": "In semester 4, you should take: AIL303m (Machine Learning, 3cr, requires MAS291+MAI391+PFP191), CPV301 (Computer Vision, 3cr, requires PFP191+CSD203), DAP391m (AI-DS Project, 3cr, requires PFP191+ADY201m), SSG105 (Communication Skills, 3cr), and SWE201c (Intro to Software Engineering, 3cr).",
+    "generated_answer": "In semester 4 of the BIT_AI program, you have the following course options to choose from. Here’s a structured list of the courses available:\n\n1. **AIL303m — Machine Learning (Học máy)** (3 credits)\n   - Prerequisites: MAS291, MAI391, PFP191\n\n2. **CPV301 — Computer Vision (Thị giác máy tính)** (3 credits)\n   - Prerequisites: PFP191, CSD203\n\n3. **DAP391m — AI-DS Project (Dự án TTNT-KHDL)** (3 credits)\n   - Prerequisites: PFP191, ADY201m\n\n4. **SSG105 — Kỹ năng giao tiếp và cộng tác** (3 credits)\n   - No prerequisites\n\n5. **SWE201c — Introduction to Software Engineering (Nhập môn kĩ thuật phần mềm)** (3 credits)\n   - Prerequisites: PRO192 (not applicable to the BIT_AI and BA programs)\n\n### Recommendations:\n- **Consider your interests and career goals**: If you're interested in practical applications of AI, courses like Machine Learning and Computer Vision would be beneficial.\n- **Check prerequisites**: Ensure you meet the prerequisites for the courses you want to take.\n- **Balance your workload**: If you want a mix of technical and soft skills, consider taking SSG105 along with one or two technical courses.\n\nFeel free to ask if you need more specific advice on any of these courses!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {
+          "semester": "4"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a detailed list of course options for semester 4, including prerequisites and recommendations based on interests and career goals, fully addressing the question."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, including the course options, their credits, and prerequisites."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately lists all the courses, their credits, and prerequisites as specified in the reference answer, conveying the same key facts and details."
+    }
+  },
+  {
+    "id": "plan_02",
+    "category": "curriculum_planning",
+    "question": "If I want to take Deep Learning as fast as possible, what's the shortest path?",
+    "reference_answer": "The shortest path to DPL302m: First complete MAE101 (sem 1), then MAS291 and MAI391 (sem 3, both need MAE101), also complete PFP191 (sem 1). Then take AIL303m (sem 4, needs MAS291+MAI391+PFP191). Finally take DPL302m (sem 5, needs AIL303m).",
+    "generated_answer": "To take the Deep Learning course (DPL302m) as quickly as possible, you need to follow this path:\n\n1. **Complete Prerequisites for Machine Learning (AIL303m)**:\n   - **MAS291**: Statistics & Probability (Xác suất thống kê)\n     - Requires: MAE101 or MAC101\n   - **MAI391**: Mathematics for Machine Learning (Toán cho học máy)\n     - Requires: MAE101\n   - **PFP191**: Programming Fundamentals (Cơ sở lập trình)\n\n2. **Enroll in AIL303m (Machine Learning)**:\n   - Once you complete the above prerequisites, you can take AIL303m.\n\n3. **Take DPL302m (Deep Learning)**:\n   - After successfully completing AIL303m, you can enroll in DPL302m.\n\n### Summary of Steps:\n- **Step 1**: Complete MAE101 or MAC101 (if not already done).\n- **Step 2**: Complete MAS291 and MAI391.\n- **Step 3**: Complete PFP191.\n- **Step 4**: Enroll in and complete AIL303m.\n- **Step 5**: Enroll in DPL302m.\n\nThis pathway ensures you meet all necessary prerequisites efficiently. If you have any further questions or need assistance with specific courses, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL303m",
+          "direction": "forward"
+        }
+      },
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL303m",
+          "direction": "reverse"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a clear and detailed step-by-step pathway to take Deep Learning as quickly as possible, including specific courses and prerequisites."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, detailing the prerequisites and the pathway to enroll in the Deep Learning course."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key facts about the prerequisites and the order of courses but does not mention the specific semesters for each course as outlined in the reference answer."
+    }
+  },
+  {
+    "id": "plan_03",
+    "category": "curriculum_planning",
+    "question": "Can I take CPV301 if I only passed PFP191 but not CSD203?",
+    "reference_answer": "No, CPV301 (Computer Vision) requires both PFP191 AND CSD203. You must complete CSD203 (Data Structures and Algorithm with Python) first.",
+    "generated_answer": "You cannot take CPV301 (Computer Vision - Thị giác máy tính) if you have only passed PFP191 but not CSD203. Here’s a breakdown of the prerequisites:\n\n- **CPV301 requires:**\n  - PFP191 (which you have passed)\n  - CSD203 (which you have not passed)\n\nSince CSD203 is a direct prerequisite for CPV301, you will need to complete CSD203 before enrolling in CPV301. \n\nIf you have any further questions or need assistance with your course planning, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "CPV301",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by clearly stating the prerequisites for CPV301 and confirming that the user cannot enroll without passing CSD203."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, clearly stating the prerequisites for CPV301."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys the same key facts and details as the reference answer, clearly stating the prerequisites for CPV301."
+    }
+  },
+  {
+    "id": "plan_04",
+    "category": "curriculum_planning",
+    "question": "What is the path from semester 1 to being able to take NLP301c?",
+    "reference_answer": "Path to NLP301c: Semester 1: PFP191 and MAE101. Semester 3: MAS291 (needs MAE101) and MAI391 (needs MAE101). Semester 4: AIL303m (needs MAS291+MAI391+PFP191). Semester 6: NLP301c (needs AIL30x and PFP191 or PRP201c).",
+    "generated_answer": "To take NLP301c (Natural Language Processing), you need to complete the following prerequisites. Here’s the path from Semester 1 to being eligible for NLP301c:\n\n1. **Complete AIL30x**: This is a foundational course that you need to finish before enrolling in NLP301c.\n\n2. **Complete either PRP201c or PFP191**: You need to take one of these courses. Make sure to choose one that fits your schedule and interests.\n\n### Suggested Path:\n- **Semester 1**: \n  - Enroll in AIL30x.\n  \n- **Semester 2**: \n  - After completing AIL30x, take either PRP201c or PFP191.\n\nOnce you have completed both AIL30x and either PRP201c or PFP191, you will be eligible to enroll in NLP301c.\n\nIf you have any further questions or need assistance with course selection, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "NLP301c",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly outlines the specific courses required and provides a step-by-step path from Semester 1 to eligibility for NLP301c."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided regarding the prerequisites for NLP301c."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer incorrectly states the prerequisites and the sequence of courses needed to take NLP301c, contradicting the reference answer."
+    }
+  },
+  {
+    "id": "plan_05",
+    "category": "curriculum_planning",
+    "question": "I completed AIL303m and DPL302m. What advanced AI courses can I take now?",
+    "reference_answer": "With AIL303m and DPL302m completed, you can take: REL301m (Reinforcement Learning), DAT301m (also needs CPV301), NLP301c (also needs PRP201c or PFP191), AID301c (also needs SWE201c), and combo courses from the AI application or Applied Data Science topics.",
+    "generated_answer": "Based on your completion of AIL303m (Machine Learning) and DPL302m (Deep Learning), you have several advanced AI courses available to you. Here’s a list of courses you can consider:\n\n1. **Reinforcement Learning (REL301m)**\n   - Prerequisites: AIL303m, DPL302m\n   - Focuses on algorithms that learn optimal actions through trial and error.\n\n2. **AI in Production (AID301c)**\n   - Prerequisites: SWE201c, AIL303m\n   - Covers the application of AI in real-world products and systems.\n\n3. **AI Development with TensorFlow (DAT301m)**\n   - Prerequisites: CPV301, DPL302m\n   - Focuses on using TensorFlow for developing AI applications.\n\n4. **Search Engines (SEG301)**\n   - Prerequisites: CSD203, AIL303m\n   - Explores the design and implementation of search engine technologies.\n\n5. **Speech Processing (SLP301)**\n   - Prerequisites: CSD203, AIL303m\n   - Deals with the processing and analysis of speech signals.\n\n6. **Text Mining (TMG301)**\n   - Prerequisites: CSD203, AIL303m\n   - Focuses on extracting useful information from text data.\n\nYou can choose any of these courses based on your interests and career goals. If you need further assistance or have specific interests in mind, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "AIL303m",
+          "direction": "reverse"
+        }
+      },
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "DPL302m",
+          "direction": "reverse"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive list of advanced AI courses that can be taken after completing AIL303m and DPL302m, including specific course names, prerequisites, and brief descriptions."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, listing advanced AI courses that can be taken based on the completed courses AIL303m and DPL302m."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer lists some advanced AI courses but includes incorrect prerequisites and additional courses not mentioned in the reference answer."
+    }
+  },
+  {
+    "id": "plan_06",
+    "category": "curriculum_planning",
+    "question": "How many total credits do I need to graduate?",
+    "reference_answer": "The K20-K21 BIT_AI curriculum requires a total of 145 credits across 47 subjects.",
+    "generated_answer": "Để tốt nghiệp chương trình BIT_AI tại FPT University, bạn cần hoàn thành tổng cộng **145 tín chỉ**. Dưới đây là phân bổ tín chỉ theo từng học kỳ:\n\n- **Học kỳ 0:** 5 tín chỉ\n- **Học kỳ 1:** 17 tín chỉ\n- **Học kỳ 2:** 17 tín chỉ\n- **Học kỳ 3:** 15 tín chỉ\n- **Học kỳ 4:** 15 tín chỉ\n- **Học kỳ 5:** 15 tín chỉ\n- **Học kỳ 6:** 13 tín chỉ\n- **Học kỳ 7:** 15 tín chỉ\n- **Học kỳ 8:** 17 tín chỉ\n- **Học kỳ 9:** 16 tín chỉ\n\nNếu bạn cần thêm thông tin chi tiết về các khóa học hoặc cách đăng ký, hãy cho tôi biết!",
+    "tool_calls": [
+      {
+        "name": "curriculum_browser",
+        "args": {}
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer clearly states the total number of credits needed to graduate and provides a detailed breakdown by semester."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, including the total credits required for graduation and the breakdown by semester."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately states the total credits required for graduation (145 credits) and aligns with the reference answer."
+    }
+  },
+  {
+    "id": "plan_07",
+    "category": "curriculum_planning",
+    "question": "What are the requirements for the On-The-Job Training?",
+    "reference_answer": "OJT202 requires students to have attained 90% of total credits prior to the OJT term (excluding Physical Education and OTP Programs). Students choosing JS combo (Japanese Bridge Engineer) must also pass JPD133.",
+    "generated_answer": "To participate in the On-The-Job Training (OJT) for the BIT_AI program (K20-K21) at FPT University, you need to meet the following requirements:\n\n1. **Credit Completion**: \n   - You must have attained **90% of the total credits** prior to the OJT term. This excludes credits from Physical Education and OTP Programs.\n\n2. **Specific Program Requirements** (if applicable):\n   - If you are in the **Japanese Bridge Engineer (JS combo)** program, you must pass the course **JPD133**.\n\nMake sure to check your current credit status and any specific requirements related to your program to ensure you are eligible for the OJT. If you have any further questions or need clarification, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "On-The-Job Training requirements"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific and accurate details about the requirements for On-The-Job Training, including credit completion and program-specific requirements."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context provided."
+    },
+    "correctness": {
+      "score": 1.0,
+      "reason": "The generated answer accurately conveys all key facts and details from the reference answer regarding the requirements for On-The-Job Training."
+    }
+  },
+  {
+    "id": "plan_08",
+    "category": "curriculum_planning",
+    "question": "What Japanese language courses are in the curriculum?",
+    "reference_answer": "The curriculum includes JPD113 (Elementary Japanese 1-A1.1) in semester 2 and JPD123 (Elementary Japanese 1-A1.2) in semester 3, which requires JPD113.",
+    "generated_answer": "In the BIT_AI program (K20-K21) at FPT University, the following Japanese language course is included in the curriculum:\n\n- **JPD123 - Elementary Japanese 1 (A1.2)**\n  - Credits: 3\n  - This course is designed to help students communicate simply in Japanese.\n\nIf you have any further questions about the curriculum or need additional information, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "Japanese language courses",
+          "entity_type": "curriculum"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer fully addresses the question by providing specific details about a Japanese language course included in the curriculum."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, specifically the inclusion of the Japanese course JPD123 - Elementary Japanese 1 (A1.2) in the curriculum."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer mentions JPD123 but omits JPD113, which is a key part of the reference answer."
+    }
+  },
+  {
+    "id": "plan_09",
+    "category": "curriculum_planning",
+    "question": "When do students take political science courses?",
+    "reference_answer": "Political science courses are taken in the later semesters: MLN111 (Philosophy of Marxism-Leninism) in semester 8, MLN122 (Political Economics) in semester 8, HCM202 (Ho Chi Minh Ideology) in semester 9, MLN131 (Scientific Socialism) in semester 9, and VNR202 (History of Communist Party) in semester 9.",
+    "generated_answer": "It appears that I couldn't find specific information regarding the courses POLS 101 and POLS 201 in the university curriculum. Here’s what I can suggest:\n\n1. **Check the Official Curriculum**: Please refer to the official FPT University curriculum document for the BIT_AI program (K20-K21) to find detailed information about political science courses, including prerequisites and recommended semesters.\n\n2. **Contact Academic Advisors**: If the curriculum document does not provide the information you need, consider reaching out to your academic advisor or the department office for clarification on political science course offerings and their prerequisites.\n\n3. **General Recommendations**: Typically, introductory courses like POLS 101 are taken in the first or second year, while more advanced courses like POLS 201 may be taken in the second or third year, depending on the program structure.\n\nIf you have any other questions or need further assistance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "vector_search",
+        "args": {
+          "query": "political science courses schedule",
+          "entity_type": "curriculum"
+        }
+      },
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "POLS101",
+          "direction": "forward"
+        }
+      },
+      {
+        "name": "prerequisite_lookup",
+        "args": {
+          "course_code": "POLS201",
+          "direction": "forward"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 0.5,
+      "reason": "The answer provides general recommendations about when political science courses are typically taken but lacks specific details about the university's curriculum."
+    },
+    "faithfulness": {
+      "score": 0.5,
+      "reason": "Some claims about the timing of political science courses are general recommendations and not directly supported by the provided context, which lacks specific course information."
+    },
+    "correctness": {
+      "score": 0.0,
+      "reason": "The generated answer does not provide any specific information about the political science courses mentioned in the reference answer and instead suggests checking external resources."
+    }
+  },
+  {
+    "id": "plan_10",
+    "category": "curriculum_planning",
+    "question": "I want to specialize in data science. Which combo topic and courses should I focus on?",
+    "reference_answer": "You should focus on the AI17_COM1 topic (Applied Data Science), which includes DSR301m (Applied Data Science with R) and BDI302c (Big Data). These appear in combo slots AI17_COM_1 through AI17_COM_4.",
+    "generated_answer": "To specialize in Data Science within the BIT_AI program at FPT University, you should focus on the following courses and topics:\n\n### Recommended Courses:\n1. **DSR301m — Applied Data Science with R**\n   - This course will provide you with practical skills in data analysis using R, a key programming language in data science.\n\n2. **BDI302c — Big Data**\n   - Understanding big data technologies and frameworks is crucial for handling large datasets and performing advanced analytics.\n\n3. **DSP391m — Data Science**\n   - This course will cover fundamental concepts and techniques in data science, equipping you with the necessary theoretical background.\n\n### Suggested Focus Areas:\n- **Applied Data Science**: Emphasize hands-on projects and real-world applications.\n- **Big Data Technologies**: Familiarize yourself with tools and platforms used in big data analytics.\n\nBy concentrating on these courses, you will build a strong foundation in data science that will be beneficial for your career. If you have any further questions or need additional guidance, feel free to ask!",
+    "tool_calls": [
+      {
+        "name": "combo_navigator",
+        "args": {
+          "topic": "Data Science"
+        }
+      }
+    ],
+    "relevancy": {
+      "score": 1.0,
+      "reason": "The answer provides a comprehensive list of specific courses and focus areas relevant to specializing in data science, fully addressing the question."
+    },
+    "faithfulness": {
+      "score": 1.0,
+      "reason": "Every claim in the answer is supported by the context, listing the relevant courses for specializing in data science."
+    },
+    "correctness": {
+      "score": 0.5,
+      "reason": "The generated answer captures some key courses (DSR301m and BDI302c) but does not mention the specific topic (AI17_COM1) or the combo slots (AI17_COM_1 through AI17_COM_4) as stated in the reference answer."
+    }
+  }
+]
