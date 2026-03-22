@@ -268,7 +268,7 @@ cython_debug/
 *.synctex.gz
 docs/research/auxil/
 docs/research/out/
-docs/research/*.pdf
+#docs/research/*.pdf
 docs/research/New_IEEEtran_how-to.*
 docs/research/fig1.png
 
